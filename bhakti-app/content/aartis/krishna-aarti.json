@@ -1,1 +1,93 @@
-{"id": "krishna-aarti", "name": "Krishna Aarti", "title": "Aarti Kunj Bihari Ki", "description": "A beautiful aarti dedicated to Lord Krishna, the supreme personality of Godhead who represents divine love, wisdom, and joy. This aarti is performed during Janmashtami and other Krishna festivals.", "duration": "5 minutes", "icon": "🦚", "deity": "Lord Krishna", "significance": "Invokes Lord Krishna's blessings for divine love, spiritual wisdom, and joy in life.", "seo": {"description": "Complete Krishna Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Krishna aarti.", "keywords": ["krishna aarti", "lord krishna", "aarti kunj bihari ki", "janmashtami aarti", "krishna bhajan", "divine love", "gopal aarti"]}, "sections": [{"type": "hero", "title": "Lord Krishna Aarti", "content": "The Krishna Aarti is a beautiful devotional hymn that praises Lord Krishna, the divine cowherd who mesmerizes all with his flute and divine love."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries in Vaishnavite tradition. It is especially significant during Janmashtami when Krishna's birth is celebrated."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Krishna Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "आरती कुंज बिहारी की, श्री गिरिधर कृष्ण मुरारी की\nआरती कुंज बिहारी की\n\nगले में बैजन्ती माला, बजावै मुरली मधुर बाला\nश्रवण में कुण्डल झलकाला, नन्द के आनन्द नन्दलाला\nगले में बैजन्ती माला, बजावै मुरली मधुर बाला\n\nगगन सम अंग कांति काली, राधिका चमक रही आली\nलतन में ठाढ़े बनमाली\nभ्रमर सी अलक, कस्तूरी तिलक, चंद्र सी झलक\nलतन में ठाढ़े बनमाली\n\nललित छवि श्यामा प्यारी की, श्री गिरिधर कृष्ण मुरारी की\nआरती कुंज बिहारी की", "english": "Aarti of Kunj Bihari, Shri Giridhar Krishna Murari\nAarti of Kunj Bihari\n\nWearing a garland of basil leaves, playing the sweet flute\nEarrings shining in ears, joy of Nanda, beloved Nandlala\nWearing a garland of basil leaves, playing the sweet flute\n\nBody dark like the sky, Radhika shines beside\nStanding gracefully in the garden\nCurls like bees, musk tilak, moon-like glow\nStanding gracefully in the garden\n\nBeautiful form of beloved Shyama, Shri Giridhar Krishna Murari\nAarti of Kunj Bihari", "meaning": "This aarti glorifies Lord Krishna as the one who wanders through the gardens of Vrindavan, enchanting all with his divine beauty and flute."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Krishna Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, butter, makhan, flute, and flowers. Place Krishna idol or picture facing east."}, {"title": "Aarti Procedure", "content": "Offer butter and makhan to Krishna, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and play Krishna bhajans."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Krishna Aarti.", "subsections": [{"title": "Divine Love", "content": "The aarti helps in developing divine love (prem) and devotion towards the supreme personality of Godhead."}, {"title": "Spiritual Joy", "content": "Regular performance of this aarti brings spiritual joy, peace, and liberation from worldly sorrows."}]}, {"type": "videos", "title": "Krishna Aarti Videos", "content": "Watch these videos to learn the proper way to perform Krishna Aarti:", "videos": [{"title": "Complete Krishna Aarti with Pronunciation", "embedId": "krishna_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Krishna Aarti during Janmashtami", "embedId": "janmashtami_krishna_aarti", "description": "Traditional Krishna Aarti performed during Janmashtami celebrations"}]}]}
+{
+  "id": "krishna-aarti",
+  "name": "Krishna Aarti",
+  "title": "Aarti Kunj Bihari Ki",
+  "description": "A beautiful aarti dedicated to Lord Krishna, the supreme personality of Godhead who represents divine love, wisdom, and joy. This aarti is performed during Janmashtami and other Krishna festivals.",
+  "duration": "5 minutes",
+  "icon": "🦚",
+  "deity": "Lord Krishna",
+  "significance": "Invokes Lord Krishna's blessings for divine love, spiritual wisdom, and joy in life.",
+  "seo": {
+    "description": "Complete Krishna Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Krishna aarti.",
+    "keywords": [
+      "krishna aarti",
+      "lord krishna",
+      "aarti kunj bihari ki",
+      "janmashtami aarti",
+      "krishna bhajan",
+      "divine love",
+      "gopal aarti"
+    ],
+    "title": "Krishna Aarti | Krishna Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Krishna Aarti",
+      "content": "The Krishna Aarti is a beautiful devotional hymn that praises Lord Krishna, the divine cowherd who mesmerizes all with his flute and divine love."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries in Vaishnavite tradition. It is especially significant during Janmashtami when Krishna's birth is celebrated."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Krishna Aarti in Hindi with English translation.",
+      "hindi": "आरती कुंज बिहारी की, श्री गिरिधर कृष्ण मुरारी की\nआरती कुंज बिहारी की\n\nगले में बैजन्ती माला, बजावै मुरली मधुर बाला\nश्रवण में कुण्डल झलकाला, नन्द के आनन्द नन्दलाला\nगले में बैजन्ती माला, बजावै मुरली मधुर बाला\n\nगगन सम अंग कांति काली, राधिका चमक रही आली\nलतन में ठाढ़े बनमाली\nभ्रमर सी अलक, कस्तूरी तिलक, चंद्र सी झलक\nलतन में ठाढ़े बनमाली\n\nललित छवि श्यामा प्यारी की, श्री गिरिधर कृष्ण मुरारी की\nआरती कुंज बिहारी की",
+      "english": "Aarti of Kunj Bihari, Shri Giridhar Krishna Murari\nAarti of Kunj Bihari\n\nWearing a garland of basil leaves, playing the sweet flute\nEarrings shining in ears, joy of Nanda, beloved Nandlala\nWearing a garland of basil leaves, playing the sweet flute\n\nBody dark like the sky, Radhika shines beside\nStanding gracefully in the garden\nCurls like bees, musk tilak, moon-like glow\nStanding gracefully in the garden\n\nBeautiful form of beloved Shyama, Shri Giridhar Krishna Murari\nAarti of Kunj Bihari",
+      "meaning": "This aarti glorifies Lord Krishna as the one who wanders through the gardens of Vrindavan, enchanting all with his divine beauty and flute."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Krishna Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, butter, makhan, flute, and flowers. Place Krishna idol or picture facing east.",
+        "Aarti Procedure: Offer butter and makhan to Krishna, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and play Krishna bhajans."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Krishna Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Krishna Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Krishna Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Krishna Aarti:",
+      "videos": [
+        {
+          "title": "Complete Krishna Aarti with Pronunciation",
+          "embedId": "krishna_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/krishna_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Krishna Aarti during Janmashtami",
+          "embedId": "janmashtami_krishna_aarti",
+          "description": "Traditional Krishna Aarti performed during Janmashtami celebrations",
+          "thumbnailUrl": "https://img.youtube.com/vi/janmashtami_krishna_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "krishna"
+  ],
+  "relatedContent": []
+}

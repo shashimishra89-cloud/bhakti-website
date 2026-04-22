@@ -1,1 +1,122 @@
-{"id": "maha-shivaratri", "name": "Maha Shivaratri", "title": "The Great Night of Lord Shiva", "description": "Maha Shivaratri is one of the most significant festivals dedicated to Lord Shiva. Observed on the 14th night of the new moon in the month of Phalguna, it represents the cosmic dance of creation, preservation, and destruction.", "duration": "1 night", "icon": "🔱", "significance": "Commemorates the marriage of Lord Shiva and Goddess Parvati, and celebrates the cosmic dance of Shiva that maintains the balance of the universe.", "seo": {"description": "Complete guide to Maha Shivaratri festival with rituals, stories, bhajans, aartis, fasting, and celebrations. Learn the significance of the Great Night of Lord Shiva.", "keywords": ["maha shivaratri", "lord shiva", "shivaratri", "shiva parvati", "shivling", "hindu festival", "shiva celebrations", "mahashivratri"]}, "sections": [{"type": "hero", "title": "Welcome to Maha Shivaratri", "content": "Maha Shivaratri, the 'Great Night of Shiva', is one of the most sacred Hindu festivals dedicated to Lord Shiva. Devotees observe fasts and perform night-long vigils to honor the supreme deity."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Maha Shivaratri has ancient origins and is mentioned in various Hindu scriptures. The festival holds great spiritual significance and is believed to be the night when Lord Shiva performed the cosmic dance of Tandava."}, {"type": "stories", "title": "Famous Stories", "content": "Maha Shivaratri is associated with several important stories from Hindu mythology.", "subsections": [{"title": "Shiva-Parvati Marriage", "content": "One of the most significant stories is the marriage of Lord Shiva and Goddess Parvati. Parvati undertook intense penance to win Shiva's heart, who was in deep meditation. Her unwavering devotion led Shiva to accept her as his consort."}, {"title": "The Churning of the Ocean", "content": "During the cosmic churning of the ocean (Samudra Manthan), a deadly poison called Halahala emerged that threatened to destroy the universe. Lord Shiva drank the poison and held it in his throat, which turned blue, earning him the name Nilakantha."}]}, {"type": "celebration", "title": "How Maha Shivaratri is Celebrated", "content": "Maha Shivaratri is celebrated with fasting, night-long vigils, and elaborate pooja ceremonies.", "subsections": [{"title": "Night-long Vigil", "content": "Devotees stay awake throughout the night, performing pooja at four different intervals (prahars). They chant 'Om Namah Shivaya' and listen to Shiva stories."}, {"title": "Temple Visits", "content": "People visit Shiva temples throughout the day and night. Major Shiva temples like Kashi Vishwanath, Somnath, and Amarnath see huge gatherings of devotees."}]}, {"type": "rituals", "title": "Rituals and Pooja", "content": "Maha Shivaratri rituals include elaborate ceremonies and offerings to Lord Shiva.", "subsections": [{"title": "Shivaling Abhishekam", "content": "The Shivaling is bathed with water, milk, honey, curd, and ghee while chanting Vedic mantras. This ritual is believed to please Lord Shiva immensely."}, {"title": "Bilva Leaves Offering", "content": "Offering Bilva (bel) leaves to the Shivaling is considered highly auspicious. It is believed that Goddess Lakshmi resides in these leaves."}]}, {"type": "food", "title": "Shivaratri Special Foods", "content": "Simple sattvic foods are consumed during Shivaratri fasting.", "subsections": [{"title": "Fasting Foods", "content": "Popular fasting foods include fruits, milk, curd, nuts, and dishes made from buckwheat and singhara flour. These foods are pure and sattvic in nature."}, {"title": "Prasad Offerings", "content": "Traditional prasad includes Panchamrit (mixture of milk, curd, honey, ghee, and sugar), fruits, and dry fruits."}]}, {"type": "bhajans", "title": "Shivaratri Bhajans", "content": "Devotional songs sung during Shivaratri to honor Lord Shiva.", "subsections": [{"title": "Shiv Tandav Stotram", "hindi": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्", "english": "With his neck consecrated by the flow of water that flows from his hair,\nAnd on his neck a snake, which is hung like a garland", "meaning": "This powerful stotram describes Lord Shiva's cosmic dance and divine attributes."}]}, {"type": "aartis", "title": "Shivaratri Aartis", "content": "Traditional aartis performed during Shivaratri celebrations.", "subsections": [{"title": "Om Jai Shiv Omkara", "hindi": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा\nब्रह्मा विष्णु सदाशिव, अर्धांगी धारा", "english": "Om Jai Shiv Omkara, Lord Om Jai Shiv Omkara\nBrahma Vishnu Sadashiv, with Ardhangini (half-body as Parvati)", "meaning": "This aarti praises Lord Shiva in his various forms and acknowledges his divine consort Parvati."}]}, {"type": "videos", "title": "Shivaratri Videos", "content": "Watch these videos to learn more about Shivaratri celebrations:", "videos": [{"title": "Complete Shivaratri Pooja Guide", "embedId": "shivaratri_pooja_2024", "description": "Step-by-step guide for performing Shivaratri pooja"}, {"title": "Shiva Temples of India", "embedId": "shiva_temples", "description": "Virtual tour of famous Shiva temples across India"}]}]}
+{
+  "id": "maha-shivaratri",
+  "name": "Maha Shivaratri",
+  "title": "The Great Night of Lord Shiva",
+  "description": "Maha Shivaratri is one of the most significant festivals dedicated to Lord Shiva. Observed on the 14th night of the new moon in the month of Phalguna, it represents the cosmic dance of creation, preservation, and destruction.",
+  "duration": "1 night",
+  "icon": "🔱",
+  "significance": "Commemorates the marriage of Lord Shiva and Goddess Parvati, and celebrates the cosmic dance of Shiva that maintains the balance of the universe.",
+  "seo": {
+    "description": "Complete guide to Maha Shivaratri festival with rituals, stories, bhajans, aartis, fasting, and celebrations. Learn the significance of the Great Night of Lord Shiva.",
+    "keywords": [
+      "maha shivaratri",
+      "lord shiva",
+      "shivaratri",
+      "shiva parvati",
+      "shivling",
+      "hindu festival",
+      "shiva celebrations",
+      "mahashivratri"
+    ],
+    "title": "Maha Shivaratri 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Maha Shivaratri",
+      "content": "Maha Shivaratri, the 'Great Night of Shiva', is one of the most sacred Hindu festivals dedicated to Lord Shiva. Devotees observe fasts and perform night-long vigils to honor the supreme deity."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Maha Shivaratri has ancient origins and is mentioned in various Hindu scriptures. The festival holds great spiritual significance and is believed to be the night when Lord Shiva performed the cosmic dance of Tandava."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Maha Shivaratri is associated with several important stories from Hindu mythology.",
+      "summary": "Maha Shivaratri is associated with several important stories from Hindu mythology.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": [
+        "Shiva"
+      ]
+    },
+    {
+      "type": "info",
+      "title": "How Maha Shivaratri is Celebrated",
+      "content": "Maha Shivaratri is celebrated with fasting, night-long vigils, and elaborate pooja ceremonies."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Pooja",
+      "content": "Maha Shivaratri rituals include elaborate ceremonies and offerings to Lord Shiva.",
+      "steps": [
+        "Shivaling Abhishekam: The Shivaling is bathed with water, milk, honey, curd, and ghee while chanting Vedic mantras. This ritual is believed to please Lord Shiva immensely.",
+        "Bilva Leaves Offering: Offering Bilva (bel) leaves to the Shivaling is considered highly auspicious. It is believed that Goddess Lakshmi resides in these leaves."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Maha Shivaratri rituals include elaborate ceremonies and offerings to Lord Shiva."
+    },
+    {
+      "type": "info",
+      "title": "Shivaratri Special Foods",
+      "content": "Simple sattvic foods are consumed during Shivaratri fasting."
+    },
+    {
+      "type": "info",
+      "title": "Shivaratri Bhajans",
+      "content": "Devotional songs sung during Shivaratri to honor Lord Shiva."
+    },
+    {
+      "type": "info",
+      "title": "Shivaratri Aartis",
+      "content": "Traditional aartis performed during Shivaratri celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Shivaratri Videos",
+      "content": "Watch these videos to learn more about Shivaratri celebrations:",
+      "videos": [
+        {
+          "title": "Complete Shivaratri Pooja Guide",
+          "embedId": "shivaratri_pooja_2024",
+          "description": "Step-by-step guide for performing Shivaratri pooja",
+          "thumbnailUrl": "https://img.youtube.com/vi/shivaratri_pooja_2024/0.jpg"
+        },
+        {
+          "title": "Shiva Temples of India",
+          "embedId": "shiva_temples",
+          "description": "Virtual tour of famous Shiva temples across India",
+          "thumbnailUrl": "https://img.youtube.com/vi/shiva_temples/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-03-08",
+  "tithi": "Chaturdashi (Phalguna/Magha)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-02-26"
+}

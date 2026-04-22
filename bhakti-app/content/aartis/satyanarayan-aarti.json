@@ -1,1 +1,93 @@
-{"id": "satyanarayan-aarti", "name": "Satyanarayan Aarti", "title": "Shri Satyanarayan Ki Aarti", "description": "A sacred aarti performed during Satyanarayan Puja, dedicated to Lord Vishnu in his form as Satyanarayan (the embodiment of truth). This aarti is performed to seek blessings for prosperity and happiness.", "duration": "6 minutes", "icon": "🙏", "deity": "Lord Satyanarayan (Vishnu)", "significance": "Invokes Lord Vishnu's blessings for truth, prosperity, happiness, and fulfillment of desires.", "seo": {"description": "Complete Satyanarayan Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Satyanarayan aarti.", "keywords": ["satyanarayan aarti", "lord vishnu", "satyanarayan puja", "truth deity", "prosperity aarti", "happiness blessings", "vishnu worship"]}, "sections": [{"type": "hero", "title": "Lord Satyanarayan Aarti", "content": "The Satyanarayan Aarti is a sacred devotional hymn that praises Lord Vishnu in his form as Satyanarayan, the embodiment of truth and righteousness."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti is an integral part of Satyanarayan Puja, which has been performed for centuries to seek divine blessings for prosperity, happiness, and fulfillment of desires."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Satyanarayan Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "श्री सत्यनारायण की आरती\nजय सत्यनारायण भगवान की\n\nपाप विनाशक दुःख हरन\nसुख सम्पत्ति करन दाता\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nशंख चक्र गदा पद्म\nधारी श्रीहरि विष्णु\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nकमल नयन श्याम शरीर\nवस्त्र पीत पट सुहाया\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nब्रह्मा विष्णु महेश\nसब मिल कर आरती उतारें\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन", "english": "Aarti of Shri Satyanarayan\nVictory to Lord Satyanarayan\n\nDestroyer of sins, remover of sorrows\nGiver of happiness and prosperity\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nHolding conch, discus, mace, lotus\nLord Hari Vishnu\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nLotus-eyed, dark-complexioned body\nWearing yellow clothes beautifully\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nBrahma, Vishnu, Mahesh\nTogether perform the aarti\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti", "meaning": "This aarti praises Lord Satyanarayan as the supreme deity who destroys sins, removes sorrows, and bestows prosperity and happiness."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Satyanarayan Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, flowers, fruits, and prasad. Place Satyanarayan idol or picture facing east."}, {"title": "Aarti Procedure", "content": "After completing the puja rituals, light the diya and perform the aarti while moving it in circular motion. All family members should participate."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Satyanarayan Aarti.", "subsections": [{"title": "Truth and Righteousness", "content": "The aarti helps in cultivating truth, honesty, and righteousness in daily life."}, {"title": "Prosperity and Happiness", "content": "Regular performance of this aarti brings material prosperity, mental peace, and overall happiness."}]}, {"type": "videos", "title": "Satyanarayan Aarti Videos", "content": "Watch these videos to learn the proper way to perform Satyanarayan Aarti:", "videos": [{"title": "Complete Satyanarayan Aarti with Pronunciation", "embedId": "satyanarayan_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Satyanarayan Puja Complete Guide", "embedId": "satyanarayan_puja_guide", "description": "Complete guide to performing Satyanarayan Puja with aarti"}]}]}
+{
+  "id": "satyanarayan-aarti",
+  "name": "Satyanarayan Aarti",
+  "title": "Shri Satyanarayan Ki Aarti",
+  "description": "A sacred aarti performed during Satyanarayan Puja, dedicated to Lord Vishnu in his form as Satyanarayan (the embodiment of truth). This aarti is performed to seek blessings for prosperity and happiness.",
+  "duration": "6 minutes",
+  "icon": "🙏",
+  "deity": "Lord Satyanarayan (Vishnu)",
+  "significance": "Invokes Lord Vishnu's blessings for truth, prosperity, happiness, and fulfillment of desires.",
+  "seo": {
+    "description": "Complete Satyanarayan Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Satyanarayan aarti.",
+    "keywords": [
+      "satyanarayan aarti",
+      "lord vishnu",
+      "satyanarayan puja",
+      "truth deity",
+      "prosperity aarti",
+      "happiness blessings",
+      "vishnu worship"
+    ],
+    "title": "Satyanarayan Aarti | Satyanarayan (Vishnu) Aarti with Hindi Lyrics & M"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Satyanarayan Aarti",
+      "content": "The Satyanarayan Aarti is a sacred devotional hymn that praises Lord Vishnu in his form as Satyanarayan, the embodiment of truth and righteousness."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti is an integral part of Satyanarayan Puja, which has been performed for centuries to seek divine blessings for prosperity, happiness, and fulfillment of desires."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Satyanarayan Aarti in Hindi with English translation.",
+      "hindi": "श्री सत्यनारायण की आरती\nजय सत्यनारायण भगवान की\n\nपाप विनाशक दुःख हरन\nसुख सम्पत्ति करन दाता\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nशंख चक्र गदा पद्म\nधारी श्रीहरि विष्णु\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nकमल नयन श्याम शरीर\nवस्त्र पीत पट सुहाया\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन\n\nब्रह्मा विष्णु महेश\nसब मिल कर आरती उतारें\n\nजय सत्यनारायण भगवान की\nआरती उतारै भक्त जन",
+      "english": "Aarti of Shri Satyanarayan\nVictory to Lord Satyanarayan\n\nDestroyer of sins, remover of sorrows\nGiver of happiness and prosperity\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nHolding conch, discus, mace, lotus\nLord Hari Vishnu\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nLotus-eyed, dark-complexioned body\nWearing yellow clothes beautifully\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti\n\nBrahma, Vishnu, Mahesh\nTogether perform the aarti\n\nVictory to Lord Satyanarayan\nDevotees perform the aarti",
+      "meaning": "This aarti praises Lord Satyanarayan as the supreme deity who destroys sins, removes sorrows, and bestows prosperity and happiness."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Satyanarayan Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, flowers, fruits, and prasad. Place Satyanarayan idol or picture facing east.",
+        "Aarti Procedure: After completing the puja rituals, light the diya and perform the aarti while moving it in circular motion. All family members should participate."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Satyanarayan Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Satyanarayan Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Satyanarayan Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Satyanarayan Aarti:",
+      "videos": [
+        {
+          "title": "Complete Satyanarayan Aarti with Pronunciation",
+          "embedId": "satyanarayan_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/satyanarayan_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Satyanarayan Puja Complete Guide",
+          "embedId": "satyanarayan_puja_guide",
+          "description": "Complete guide to performing Satyanarayan Puja with aarti",
+          "thumbnailUrl": "https://img.youtube.com/vi/satyanarayan_puja_guide/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "satyanarayan (vishnu)"
+  ],
+  "relatedContent": []
+}

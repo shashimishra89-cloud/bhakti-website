@@ -1,1 +1,93 @@
-{"id": "saraswati-aarti", "name": "Saraswati Aarti", "title": "Maa Saraswati Aarti", "description": "A beautiful aarti dedicated to Goddess Saraswati, the deity of knowledge, music, arts, and wisdom. This aarti is performed during Basant Panchami and by students seeking blessings for education.", "duration": "4 minutes", "icon": "📚", "deity": "Goddess Saraswati", "significance": "Invokes Goddess Saraswati's blessings for knowledge, wisdom, artistic skills, and academic success.", "seo": {"description": "Complete Saraswati Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Saraswati aarti.", "keywords": ["saraswati aarti", "goddess saraswati", "knowledge goddess", "basant panchami", "education aarti", "wisdom deity", "arts music"]}, "sections": [{"type": "hero", "title": "Goddess Saraswati Aarti", "content": "The Saraswati Aarti is a beautiful devotional hymn that praises Goddess Saraswati, the divine mother of knowledge, wisdom, music, and all creative arts."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries by students, scholars, and artists. It is especially significant during Basant Panchami when Saraswati is worshipped."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Saraswati Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "आरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nश्वेत पद्मासन सुशोभित\nवस्त्र श्वेतम् सुंदर\nकमल वर अभय दात्री\nवीणा पुस्तक धारिणी\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nब्रह्मा विष्णु महेश्वर\nपूजित शिर मस्तक\nदेवों की देवी\nमुनीश्रेष्ठ वंदित\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nविद्या ग्यान प्रदायिनी\nकला कौशल धारिणी\nस्तुति गान सुनावे\nमोक्ष मार्ग दिखावे\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की", "english": "Aarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nSeated gracefully on white lotus\nBeautiful white clothes\nLotus in hand, giver of fearlessness\nHolding veena and books\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nWorshipped by Brahma, Vishnu, Maheshwar\nOn their heads\nGoddess of gods\nWorshipped by great sages\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nGiver of knowledge and wisdom\nHolder of arts and skills\nListens to praises and songs\nShows the path to liberation\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati", "meaning": "This aarti praises Goddess Saraswati as the divine source of all knowledge, arts, and wisdom, sought by gods and sages alike."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Saraswati Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, white flowers, books, and sweets. Place Saraswati idol or picture facing east."}, {"title": "Aarti Procedure", "content": "Offer white flowers and books, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and seek knowledge."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Saraswati Aarti.", "subsections": [{"title": "Knowledge and Wisdom", "content": "The aarti invokes Saraswati's blessings for academic success, intellectual growth, and spiritual wisdom."}, {"title": "Creative Skills", "content": "Regular performance of this aarti helps develop artistic talents, musical abilities, and creative thinking."}]}, {"type": "videos", "title": "Saraswati Aarti Videos", "content": "Watch these videos to learn the proper way to perform Saraswati Aarti:", "videos": [{"title": "Complete Saraswati Aarti with Pronunciation", "embedId": "saraswati_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Saraswati Aarti during Basant Panchami", "embedId": "basant_panchami_aarti", "description": "Traditional Saraswati Aarti performed during Basant Panchami"}]}]}
+{
+  "id": "saraswati-aarti",
+  "name": "Saraswati Aarti",
+  "title": "Maa Saraswati Aarti",
+  "description": "A beautiful aarti dedicated to Goddess Saraswati, the deity of knowledge, music, arts, and wisdom. This aarti is performed during Basant Panchami and by students seeking blessings for education.",
+  "duration": "4 minutes",
+  "icon": "📚",
+  "deity": "Goddess Saraswati",
+  "significance": "Invokes Goddess Saraswati's blessings for knowledge, wisdom, artistic skills, and academic success.",
+  "seo": {
+    "description": "Complete Saraswati Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Saraswati aarti.",
+    "keywords": [
+      "saraswati aarti",
+      "goddess saraswati",
+      "knowledge goddess",
+      "basant panchami",
+      "education aarti",
+      "wisdom deity",
+      "arts music"
+    ],
+    "title": "Saraswati Aarti | Saraswati Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Goddess Saraswati Aarti",
+      "content": "The Saraswati Aarti is a beautiful devotional hymn that praises Goddess Saraswati, the divine mother of knowledge, wisdom, music, and all creative arts."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries by students, scholars, and artists. It is especially significant during Basant Panchami when Saraswati is worshipped."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Saraswati Aarti in Hindi with English translation.",
+      "hindi": "आरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nश्वेत पद्मासन सुशोभित\nवस्त्र श्वेतम् सुंदर\nकमल वर अभय दात्री\nवीणा पुस्तक धारिणी\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nब्रह्मा विष्णु महेश्वर\nपूजित शिर मस्तक\nदेवों की देवी\nमुनीश्रेष्ठ वंदित\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की\n\nविद्या ग्यान प्रदायिनी\nकला कौशल धारिणी\nस्तुति गान सुनावे\nमोक्ष मार्ग दिखावे\n\nआरती सरस्वती माता की\nजय जय सरस्वती माता की",
+      "english": "Aarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nSeated gracefully on white lotus\nBeautiful white clothes\nLotus in hand, giver of fearlessness\nHolding veena and books\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nWorshipped by Brahma, Vishnu, Maheshwar\nOn their heads\nGoddess of gods\nWorshipped by great sages\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati\n\nGiver of knowledge and wisdom\nHolder of arts and skills\nListens to praises and songs\nShows the path to liberation\n\nAarti of Goddess Saraswati\nVictory, victory to Goddess Saraswati",
+      "meaning": "This aarti praises Goddess Saraswati as the divine source of all knowledge, arts, and wisdom, sought by gods and sages alike."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Saraswati Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, white flowers, books, and sweets. Place Saraswati idol or picture facing east.",
+        "Aarti Procedure: Offer white flowers and books, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and seek knowledge."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Saraswati Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Saraswati Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Saraswati Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Saraswati Aarti:",
+      "videos": [
+        {
+          "title": "Complete Saraswati Aarti with Pronunciation",
+          "embedId": "saraswati_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/saraswati_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Saraswati Aarti during Basant Panchami",
+          "embedId": "basant_panchami_aarti",
+          "description": "Traditional Saraswati Aarti performed during Basant Panchami",
+          "thumbnailUrl": "https://img.youtube.com/vi/basant_panchami_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "saraswati"
+  ],
+  "relatedContent": []
+}

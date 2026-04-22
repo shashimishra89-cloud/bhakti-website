@@ -1,1 +1,121 @@
-{"id": "ram-navami", "name": "Ram Navami", "title": "Birth of Lord Rama", "description": "Ram Navami is a Hindu festival celebrating the birth of Lord Rama, the seventh avatar of Lord Vishnu. It falls on the ninth day of the bright fortnight in the month of Chaitra and marks the culmination of Chaitra Navratri.", "duration": "1 day", "icon": "🏹", "significance": "Celebrates the birth of Lord Rama, who represents righteousness, truth, and the ideal human being (Maryada Purushottam).", "seo": {"description": "Complete guide to Ram Navami festival with rituals, stories, bhajans, aartis, and celebrations. Learn the significance of Lord Rama's birth.", "keywords": ["ram navami", "lord rama", "ram navami festival", "chaitra navratri", "maryada purushottam", "hindu festival", "rama celebrations"]}, "sections": [{"type": "hero", "title": "Welcome to Ram Navami", "content": "Ram Navami celebrates the birth of Lord Rama, the embodiment of righteousness and the ideal human being. This festival inspires millions to follow the path of dharma and truth."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Ram Navami has been celebrated for millennia and finds mention in ancient Hindu texts. Lord Rama's life and teachings continue to guide humanity towards righteous living."}, {"type": "stories", "title": "Famous Stories", "content": "The birth and life of Lord Rama are filled with inspiring stories of dharma, sacrifice, and devotion.", "subsections": [{"title": "Birth of Rama", "content": "Lord Rama was born to King Dasharatha and Queen Kaushalya in Ayodhya. His birth was prophesied to end the reign of the demon king Ravana and establish dharma on earth."}, {"title": "Rama's Exile", "content": "Despite being the rightful heir, Rama accepted 14 years of exile to honor his father's promise to Kaikeyi. This sacrifice exemplifies his commitment to dharma."}]}, {"type": "celebration", "title": "How Ram Navami is Celebrated", "content": "Ram Navami is celebrated with devotion, fasting, and community gatherings.", "subsections": [{"title": "Temple Celebrations", "content": "Temples are decorated with flowers and lights. Special pooja is performed, and the Ramayana is recited throughout the day."}, {"title": "Community Meals", "content": "Community meals (langar) are organized, and sweet dishes like Kheer and Ladoo are distributed as prasad."}]}, {"type": "rituals", "title": "Rituals and Pooja", "content": "Ram Navami rituals include elaborate ceremonies and offerings.", "subsections": [{"title": "Rama Pooja", "content": "The idol of baby Rama is given a ceremonial bath and dressed in new clothes. Offerings of flowers, fruits, and sweets are made."}, {"title": "Havan and Yajna", "content": "Sacred fire rituals are performed, chanting Vedic mantras to invoke blessings from Lord Rama."}]}, {"type": "food", "title": "Ram Navami Special Foods", "content": "Traditional foods prepared for Ram Navami are simple and sattvic.", "subsections": [{"title": "Sattvic Meals", "content": "Fruits, kheer, panakam (jaggery water drink), and coconut water are consumed as part of the celebration."}, {"title": "Traditional Sweets", "content": "Ladoo, Barfi, and Kheer are prepared and offered to Lord Rama as prasad."}]}, {"type": "bhajans", "title": "Ram Navami Bhajans", "content": "Devotional songs sung during Ram Navami to honor Lord Rama.", "subsections": [{"title": "Ram Ji Ki Nikali Sawari", "hindi": "राम जी की निकली सवारी\nअयोध्या से कन्यकुबारी\nसब के दिल में है उत्साही\nदेखो राम की बड़ी भीड़", "english": "Rama's procession has started\nFrom Ayodhya to Kanjakubari\nEveryone is excited\nSee the large crowd of Rama", "meaning": "This bhajan celebrates the joyous procession of Lord Rama."}]}, {"type": "aartis", "title": "Ram Navami Aartis", "content": "Traditional aartis performed during Ram Navami celebrations.", "subsections": [{"title": "Aarti Shree Ram Ji Ki", "hindi": "आरती श्री राम जी की\nजग में सबसे न्यारी\nरघुपति राम अवतारी\nजय जय राम जी की", "english": "Aarti of Shree Ram Ji\nThe most unique in the world\nLord of Raghu dynasty, Ram incarnated\nVictory to Ram Ji", "meaning": "This aarti praises Lord Rama as the supreme incarnation of righteousness."}]}, {"type": "videos", "title": "Ram Navami Videos", "content": "Watch these videos to learn more about Ram Navami celebrations:", "videos": [{"title": "Complete Ram Navami Pooja Guide", "embedId": "ramnavami_pooja_2024", "description": "Step-by-step guide for performing Ram Navami pooja"}, {"title": "Ayodhya Ram Temple", "embedId": "ayodhya_temple", "description": "Virtual tour of the magnificent Ram Temple in Ayodhya"}]}]}
+{
+  "id": "ram-navami",
+  "name": "Ram Navami",
+  "title": "Birth of Lord Rama",
+  "description": "Ram Navami is a Hindu festival celebrating the birth of Lord Rama, the seventh avatar of Lord Vishnu. It falls on the ninth day of the bright fortnight in the month of Chaitra and marks the culmination of Chaitra Navratri.",
+  "duration": "1 day",
+  "icon": "🏹",
+  "significance": "Celebrates the birth of Lord Rama, who represents righteousness, truth, and the ideal human being (Maryada Purushottam).",
+  "seo": {
+    "description": "Complete guide to Ram Navami festival with rituals, stories, bhajans, aartis, and celebrations. Learn the significance of Lord Rama's birth.",
+    "keywords": [
+      "ram navami",
+      "lord rama",
+      "ram navami festival",
+      "chaitra navratri",
+      "maryada purushottam",
+      "hindu festival",
+      "rama celebrations"
+    ],
+    "title": "Ram Navami 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Ram Navami",
+      "content": "Ram Navami celebrates the birth of Lord Rama, the embodiment of righteousness and the ideal human being. This festival inspires millions to follow the path of dharma and truth."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Ram Navami has been celebrated for millennia and finds mention in ancient Hindu texts. Lord Rama's life and teachings continue to guide humanity towards righteous living."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "The birth and life of Lord Rama are filled with inspiring stories of dharma, sacrifice, and devotion.",
+      "summary": "The birth and life of Lord Rama are filled with inspiring stories of dharma, sacrifice, and devotion.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": [
+        "Rama"
+      ]
+    },
+    {
+      "type": "info",
+      "title": "How Ram Navami is Celebrated",
+      "content": "Ram Navami is celebrated with devotion, fasting, and community gatherings."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Pooja",
+      "content": "Ram Navami rituals include elaborate ceremonies and offerings.",
+      "steps": [
+        "Rama Pooja: The idol of baby Rama is given a ceremonial bath and dressed in new clothes. Offerings of flowers, fruits, and sweets are made.",
+        "Havan and Yajna: Sacred fire rituals are performed, chanting Vedic mantras to invoke blessings from Lord Rama."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Ram Navami rituals include elaborate ceremonies and offerings."
+    },
+    {
+      "type": "info",
+      "title": "Ram Navami Special Foods",
+      "content": "Traditional foods prepared for Ram Navami are simple and sattvic."
+    },
+    {
+      "type": "info",
+      "title": "Ram Navami Bhajans",
+      "content": "Devotional songs sung during Ram Navami to honor Lord Rama."
+    },
+    {
+      "type": "info",
+      "title": "Ram Navami Aartis",
+      "content": "Traditional aartis performed during Ram Navami celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Ram Navami Videos",
+      "content": "Watch these videos to learn more about Ram Navami celebrations:",
+      "videos": [
+        {
+          "title": "Complete Ram Navami Pooja Guide",
+          "embedId": "ramnavami_pooja_2024",
+          "description": "Step-by-step guide for performing Ram Navami pooja",
+          "thumbnailUrl": "https://img.youtube.com/vi/ramnavami_pooja_2024/0.jpg"
+        },
+        {
+          "title": "Ayodhya Ram Temple",
+          "embedId": "ayodhya_temple",
+          "description": "Virtual tour of the magnificent Ram Temple in Ayodhya",
+          "thumbnailUrl": "https://img.youtube.com/vi/ayodhya_temple/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-04-17",
+  "tithi": "Navami (Chaitra)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-04-06"
+}

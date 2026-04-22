@@ -1,0 +1,82 @@
+{
+  "id": "story-id",
+  "category": "story",
+  "name": "Story Title",
+  "title": "Story Title | From Hindu Scriptures",
+  "subtitle": "Ancient wisdom tale",
+  "description": "A beautiful story from Hindu scriptures that teaches important moral and spiritual lessons. Describe the story's context and what readers will learn (100-500 characters).",
+  "icon": "📖",
+  "color": "from-green-400 to-teal-500",
+  "deity": "Main Deity/Character",
+  "duration": "5-10 minutes read",
+  "significance": "Explain the spiritual lesson and why this story is important in Hindu tradition.",
+  "featured": false,
+  "difficulty": "beginner",
+  "tags": ["story", "moral", "wisdom", "scriptures"],
+  "relatedContent": ["related-story-1", "related-story-2"],
+  "seo": {
+    "title": "Story Title - Hindu Mythology Tale with Moral",
+    "description": "Read this beautiful story from Hindu scriptures with moral lesson. Ancient wisdom tale for spiritual growth.",
+    "keywords": ["hindu story", "moral story", "scripture tale", "wisdom"],
+    "ogImage": "https://example.com/story-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Introduction",
+      "content": "Introduction to the story, setting the scene, introducing the main characters, and preparing the reader for the narrative. Mention the scripture source (Mahabharata, Ramayana, Purana, etc.)."
+    },
+    {
+      "type": "story",
+      "title": "The Story",
+      "content": "Once upon a time, in the ancient kingdom of [Place], there lived [Main Character]...\n\n[Write the complete story here with vivid details, dialogues, and narrative flow. Include:\n- Setting and characters\n- The conflict or situation\n- The events that unfold\n- The climax\n- The resolution\n\nMake it engaging while staying true to the original scripture. Use proper storytelling techniques with clear beginning, middle, and end.]",
+      "summary": "Brief summary of the story plot",
+      "moral": "The main moral or spiritual lesson from this story",
+      "relatedDeities": ["Deity 1", "Deity 2 mentioned in story"]
+    },
+    {
+      "type": "info",
+      "title": "Moral and Spiritual Lessons",
+      "content": "Detailed explanation of the lessons taught by this story:\n\n1. **Primary Lesson**: Explain the main moral teaching\n2. **Secondary Lessons**: Other wisdom teachings embedded in the story\n3. **Practical Application**: How to apply these lessons in modern life\n4. **Spiritual Significance**: Deeper spiritual meaning for devotees"
+    },
+    {
+      "type": "shloka",
+      "title": "Related Shlokas",
+      "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "english": "Whenever there is a decline in righteousness and rise of unrighteousness, O Bharata, then I manifest myself.",
+      "meaning": "The Lord incarnates whenever dharma declines and adharma rises to establish righteousness again.",
+      "transliteration": "Yada yada hi dharmasya glanir bhavati bharata\nAbhyuthanam adharmasya tadatmanam srujamyaham"
+    },
+    {
+      "type": "history",
+      "title": "Source and Origin",
+      "content": "Information about which Hindu scripture this story comes from, the historical context, and its significance in the text.",
+      "origin": "Mahabharata / Ramayana / Purana Name",
+      "composer": "Sage/Author Name (Vyasa, Valmiki, etc.)",
+      "timeline": "Ancient period (Treta Yuga / Dvapara Yuga)"
+    },
+    {
+      "type": "info",
+      "title": "Cultural Significance",
+      "content": "How this story has influenced Hindu culture, art, festivals, and daily life. Mention any temples, celebrations, or customs associated with this narrative."
+    },
+    {
+      "type": "video",
+      "title": "Story Narrations",
+      "videos": [
+        {
+          "title": "Animated Story",
+          "embedId": "video_id_1",
+          "description": "Beautiful animated version of this story",
+          "thumbnailUrl": "https://example.com/thumb1.jpg"
+        },
+        {
+          "title": "Detailed Explanation",
+          "embedId": "video_id_2",
+          "description": "Scholarly explanation of the story's deeper meaning",
+          "thumbnailUrl": "https://example.com/thumb2.jpg"
+        }
+      ]
+    }
+  ]
+}

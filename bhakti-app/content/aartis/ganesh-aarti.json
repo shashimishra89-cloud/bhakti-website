@@ -1,1 +1,93 @@
-{"id": "ganesh-aarti", "name": "Ganesh Aarti", "title": "Jai Ganesh Jai Ganesh Deva", "description": "The most beloved aarti dedicated to Lord Ganesha, the remover of obstacles and the god of wisdom. This aarti is performed before beginning any new venture or during Ganesh Chaturthi celebrations.", "duration": "5 minutes", "icon": "🐘", "deity": "Lord Ganesha", "significance": "Invokes Lord Ganesha's blessings for removing obstacles, granting wisdom, and ensuring success in all endeavors.", "seo": {"description": "Complete Ganesh Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Ganesha aarti.", "keywords": ["ganesh aarti", "lord ganesha", "ganpati aarti", "obstacle remover", "wisdom god", "jai ganesh jai ganesh deva", "ganesh chaturthi"]}, "sections": [{"type": "hero", "title": "Lord Ganesha Aarti", "content": "The Ganesh Aarti is a powerful devotional hymn that praises Lord Ganesha, the elephant-headed deity who removes obstacles and grants wisdom to his devotees."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries in Hindu tradition. It is especially significant during Ganesh Chaturthi and before starting any new work or venture."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Ganesh Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "जय गणेश जय गणेश देवा\nमाता जाकी पार्वती पिता महादेवा\nएकदंत दयावंत चार भुजाधारी\nमस्तक सिंदूर सोहे मूसे की सवारी\n\nअंधे को आंख देत कोढ़ी को काया\nबांझ को पुत्र देत निर्धन को माया\nसूर श्याम शरण आए सफल कीजे सेवा\nमाता जाकी पार्वती पिता महादेवा\n\nदीनन की लाज राखो शंभु सुतकारी\nकामना करो पूरी आस तुम्हारी\nराम श्याम मेरे घट में बसो निरंतर\nमाता जाकी पार्वती पिता महादेवा\n\nजय गणेश जय गणेश जय गणेश देवा\nमाता जाकी पार्वती पिता महादेवा", "english": "Victory to Ganesha, victory to Lord Ganesha\nWhose mother is Parvati and father is Mahadeva\nOne-tusked, compassionate, bearer of four arms\nVermillion adorns his forehead, riding on a mouse\n\nYou give eyes to the blind, body to the leper\nYou give children to the childless, wealth to the poor\nSur Shyam has come to your shelter, make his service successful\nWhose mother is Parvati and father is Mahadeva\n\nProtect the honor of the humble, O son of Shambhu\nFulfill desires, you are our hope\nRam Shyam, reside in my heart continuously\nWhose mother is Parvati and father is Mahadeva\n\nVictory to Ganesha, victory to Ganesha, victory to Lord Ganesha\nWhose mother is Parvati and father is Mahadeva", "meaning": "This aarti praises Lord Ganesha as the compassionate deity who removes obstacles and grants blessings to all who seek his refuge."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Ganesh Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, durva grass, modak, flowers, and incense. Place Ganesha idol or picture facing north."}, {"title": "Aarti Procedure", "content": "Light the diya, offer durva grass and modak, then perform the aarti by moving the diya in circular motion while singing the aarti with devotion."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Ganesh Aarti.", "subsections": [{"title": "Removal of Obstacles", "content": "The aarti invokes Lord Ganesha's power to remove all types of obstacles - physical, mental, and spiritual."}, {"title": "Wisdom and Success", "content": "Regular performance of this aarti is believed to enhance wisdom, intelligence, and bring success in education and career."}]}, {"type": "videos", "title": "Ganesh Aarti Videos", "content": "Watch these videos to learn the proper way to perform Ganesh Aarti:", "videos": [{"title": "Complete Ganesh Aarti with Pronunciation", "embedId": "ganesh_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Ganesh Aarti during Ganesh Chaturthi", "embedId": "ganesh_chaturthi_aarti", "description": "Traditional Ganesh Aarti performed during Ganesh Chaturthi celebrations"}]}]}
+{
+  "id": "ganesh-aarti",
+  "name": "Ganesh Aarti",
+  "title": "Jai Ganesh Jai Ganesh Deva",
+  "description": "The most beloved aarti dedicated to Lord Ganesha, the remover of obstacles and the god of wisdom. This aarti is performed before beginning any new venture or during Ganesh Chaturthi celebrations.",
+  "duration": "5 minutes",
+  "icon": "🪔",
+  "deity": "Lord Ganesha",
+  "significance": "Invokes Lord Ganesha's blessings for removing obstacles, granting wisdom, and ensuring success in all endeavors.",
+  "seo": {
+    "description": "Complete Ganesh Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Ganesha aarti.",
+    "keywords": [
+      "ganesh aarti",
+      "lord ganesha",
+      "ganpati aarti",
+      "obstacle remover",
+      "wisdom god",
+      "jai ganesh jai ganesh deva",
+      "ganesh chaturthi"
+    ],
+    "title": "Ganesh Aarti | Ganesha Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Ganesha Aarti",
+      "content": "The Ganesh Aarti is a powerful devotional hymn that praises Lord Ganesha, the elephant-headed deity who removes obstacles and grants wisdom to his devotees."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries in Hindu tradition. It is especially significant during Ganesh Chaturthi and before starting any new work or venture."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Ganesh Aarti in Hindi with English translation.",
+      "hindi": "जय गणेश जय गणेश देवा\nमाता जाकी पार्वती पिता महादेवा\nएकदंत दयावंत चार भुजाधारी\nमस्तक सिंदूर सोहे मूसे की सवारी\n\nअंधे को आंख देत कोढ़ी को काया\nबांझ को पुत्र देत निर्धन को माया\nसूर श्याम शरण आए सफल कीजे सेवा\nमाता जाकी पार्वती पिता महादेवा\n\nदीनन की लाज राखो शंभु सुतकारी\nकामना करो पूरी आस तुम्हारी\nराम श्याम मेरे घट में बसो निरंतर\nमाता जाकी पार्वती पिता महादेवा\n\nजय गणेश जय गणेश जय गणेश देवा\nमाता जाकी पार्वती पिता महादेवा",
+      "english": "Victory to Ganesha, victory to Lord Ganesha\nWhose mother is Parvati and father is Mahadeva\nOne-tusked, compassionate, bearer of four arms\nVermillion adorns his forehead, riding on a mouse\n\nYou give eyes to the blind, body to the leper\nYou give children to the childless, wealth to the poor\nSur Shyam has come to your shelter, make his service successful\nWhose mother is Parvati and father is Mahadeva\n\nProtect the honor of the humble, O son of Shambhu\nFulfill desires, you are our hope\nRam Shyam, reside in my heart continuously\nWhose mother is Parvati and father is Mahadeva\n\nVictory to Ganesha, victory to Ganesha, victory to Lord Ganesha\nWhose mother is Parvati and father is Mahadeva",
+      "meaning": "This aarti praises Lord Ganesha as the compassionate deity who removes obstacles and grants blessings to all who seek his refuge."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Ganesh Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, durva grass, modak, flowers, and incense. Place Ganesha idol or picture facing north.",
+        "Aarti Procedure: Light the diya, offer durva grass and modak, then perform the aarti by moving the diya in circular motion while singing the aarti with devotion."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Ganesh Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Ganesh Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Ganesh Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Ganesh Aarti:",
+      "videos": [
+        {
+          "title": "Complete Ganesh Aarti with Pronunciation",
+          "embedId": "ganesh_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/ganesh_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Ganesh Aarti during Ganesh Chaturthi",
+          "embedId": "ganesh_chaturthi_aarti",
+          "description": "Traditional Ganesh Aarti performed during Ganesh Chaturthi celebrations",
+          "thumbnailUrl": "https://img.youtube.com/vi/ganesh_chaturthi_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "ganesha"
+  ],
+  "relatedContent": []
+}

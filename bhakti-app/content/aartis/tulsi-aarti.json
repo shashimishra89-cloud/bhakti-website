@@ -1,1 +1,93 @@
-{"id": "tulsi-aarti", "name": "Tulsi Aarti", "title": "Tulsi Mata Aarti", "description": "A sacred aarti dedicated to Goddess Tulsi, the personification of the holy basil plant and a divine manifestation of Goddess Lakshmi. This aarti is performed to seek her blessings for health, prosperity, and spiritual purity.", "duration": "4 minutes", "icon": "��", "deity": "Goddess Tulsi", "significance": "Invokes Goddess Tulsi's blessings for health, prosperity, spiritual purity, and protection from negative energies.", "seo": {"description": "Complete Tulsi Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Tulsi aarti.", "keywords": ["tulsi aarti", "goddess tulsi", "holy basil", "tulsi mata", "health prosperity", "spiritual purity", "lakshmi incarnation"]}, "sections": [{"type": "hero", "title": "Goddess Tulsi Aarti", "content": "The Tulsi Aarti is a sacred devotional hymn that praises Goddess Tulsi, the divine mother who represents purity, health, and spiritual prosperity."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Tulsi is considered one of the most sacred plants in Hinduism. This aarti has been sung for centuries by devotees who worship Tulsi daily for her divine blessings."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Tulsi Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "आरती तुलसी माता की\nजय जय तुलसी माता की\n\nश्वेत वर्णा शांत स्वभाव\nपतित पावन हर अवघाव\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nवृन्दावन की रानी\nश्रीहरि की प्रिय बहना\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nदेवों की देवी\nमुनीश्रेष्ठ वंदित\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nरोग दुःख हरन वाली\nसुख सम्पत्ति देन वाली\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन", "english": "Aarti of Goddess Tulsi\nVictory, victory to Goddess Tulsi\n\nWhite complexion, peaceful nature\nPurifier of the fallen, destroyer of obstacles\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nQueen of Vrindavan\nDear sister of Lord Hari\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nGoddess of gods\nWorshipped by great sages\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nRemover of diseases and sorrows\nGiver of happiness and prosperity\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti", "meaning": "This aarti praises Goddess Tulsi as the divine mother who purifies, heals, and blesses her devotees with prosperity."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Tulsi Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the Tulsi plant, arrange a thali with diya, water, flowers, and sweets. Light a diya near the Tulsi plant in the evening."}, {"title": "Aarti Procedure", "content": "Offer water and flowers to the Tulsi plant, light the diya, and perform the aarti while moving it in circular motion around the plant."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Tulsi Aarti.", "subsections": [{"title": "Health and Healing", "content": "The aarti invokes Tulsi's healing properties and helps in maintaining physical and mental health."}, {"title": "Spiritual Purity", "content": "Regular performance of this aarti brings spiritual purity, removes negative energies, and enhances devotion."}]}, {"type": "videos", "title": "Tulsi Aarti Videos", "content": "Watch these videos to learn the proper way to perform Tulsi Aarti:", "videos": [{"title": "Complete Tulsi Aarti with Pronunciation", "embedId": "tulsi_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Daily Tulsi Puja and Aarti", "embedId": "tulsi_daily_puja", "description": "Complete guide to daily Tulsi worship and aarti"}]}]}
+{
+  "id": "tulsi-aarti",
+  "name": "Tulsi Aarti",
+  "title": "Tulsi Mata Aarti",
+  "description": "A sacred aarti dedicated to Goddess Tulsi, the personification of the holy basil plant and a divine manifestation of Goddess Lakshmi. This aarti is performed to seek her blessings for health, prosperity, and spiritual purity.",
+  "duration": "4 minutes",
+  "icon": "��",
+  "deity": "Goddess Tulsi",
+  "significance": "Invokes Goddess Tulsi's blessings for health, prosperity, spiritual purity, and protection from negative energies.",
+  "seo": {
+    "description": "Complete Tulsi Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Tulsi aarti.",
+    "keywords": [
+      "tulsi aarti",
+      "goddess tulsi",
+      "holy basil",
+      "tulsi mata",
+      "health prosperity",
+      "spiritual purity",
+      "lakshmi incarnation"
+    ],
+    "title": "Tulsi Aarti | Tulsi Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Goddess Tulsi Aarti",
+      "content": "The Tulsi Aarti is a sacred devotional hymn that praises Goddess Tulsi, the divine mother who represents purity, health, and spiritual prosperity."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Tulsi is considered one of the most sacred plants in Hinduism. This aarti has been sung for centuries by devotees who worship Tulsi daily for her divine blessings."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Tulsi Aarti in Hindi with English translation.",
+      "hindi": "आरती तुलसी माता की\nजय जय तुलसी माता की\n\nश्वेत वर्णा शांत स्वभाव\nपतित पावन हर अवघाव\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nवृन्दावन की रानी\nश्रीहरि की प्रिय बहना\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nदेवों की देवी\nमुनीश्रेष्ठ वंदित\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन\n\nरोग दुःख हरन वाली\nसुख सम्पत्ति देन वाली\n\nजय जय तुलसी माता की\nआरती उतारै भक्त जन",
+      "english": "Aarti of Goddess Tulsi\nVictory, victory to Goddess Tulsi\n\nWhite complexion, peaceful nature\nPurifier of the fallen, destroyer of obstacles\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nQueen of Vrindavan\nDear sister of Lord Hari\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nGoddess of gods\nWorshipped by great sages\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti\n\nRemover of diseases and sorrows\nGiver of happiness and prosperity\n\nVictory, victory to Goddess Tulsi\nDevotees perform the aarti",
+      "meaning": "This aarti praises Goddess Tulsi as the divine mother who purifies, heals, and blesses her devotees with prosperity."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Tulsi Aarti.",
+      "steps": [
+        "Preparation: Clean the Tulsi plant, arrange a thali with diya, water, flowers, and sweets. Light a diya near the Tulsi plant in the evening.",
+        "Aarti Procedure: Offer water and flowers to the Tulsi plant, light the diya, and perform the aarti while moving it in circular motion around the plant."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Tulsi Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Tulsi Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Tulsi Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Tulsi Aarti:",
+      "videos": [
+        {
+          "title": "Complete Tulsi Aarti with Pronunciation",
+          "embedId": "tulsi_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/tulsi_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Daily Tulsi Puja and Aarti",
+          "embedId": "tulsi_daily_puja",
+          "description": "Complete guide to daily Tulsi worship and aarti",
+          "thumbnailUrl": "https://img.youtube.com/vi/tulsi_daily_puja/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "tulsi"
+  ],
+  "relatedContent": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sacred-mantra",
+  "category": "mantra",
+  "name": "Sacred Mantra",
+  "title": "Mantra Name | Sanskrit with Transliteration",
+  "subtitle": "Powerful Vedic/Hindu mantra",
+  "description": "A powerful mantra from ancient Hindu scriptures. Describe its origin, purpose, and spiritual potency (100-500 characters).",
+  "icon": "🕉️",
+  "color": "from-purple-400 to-pink-500",
+  "deity": "Associated Deity",
+  "duration": "5-15 minutes",
+  "significance": "Explain the spiritual power and significance of this mantra in Hindu tradition.",
+  "repetitionCount": 108,
+  "featured": false,
+  "difficulty": "intermediate",
+  "tags": ["mantra", "vedic", "meditation"],
+  "relatedContent": ["related-mantra-1", "related-mantra-2"],
+  "seo": {
+    "title": "Mantra Name - Sanskrit Lyrics with Meaning",
+    "description": "Learn this powerful mantra with correct Sanskrit pronunciation, transliteration, and meaning.",
+    "keywords": ["mantra", "sanskrit", "meaning", "chanting", "meditation"],
+    "ogImage": "https://example.com/mantra-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "mantra",
+      "title": "Complete Mantra",
+      "sanskrit": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचodayात्॥",
+      "transliteration": "Om bhur bhuvah swah tat-savitur varenyam bhargo devasya dheemahi dhiyo yo nah prachodayat",
+      "meaning": "Detailed explanation of the mantra's meaning, word by word translation, and overall spiritual significance.",
+      "benefits": [
+        "Spiritual enlightenment",
+        "Mental clarity",
+        "Divine protection",
+        "Inner peace"
+      ],
+      "audioUrl": "https://example.com/audio/mantra.mp3"
+    },
+    {
+      "type": "history",
+      "title": "Origin and History",
+      "content": "Detailed history of the mantra, which scripture it comes from, who revealed it, and its ancient significance.",
+      "origin": "Vedic Period",
+      "composer": "Rishi/Seer Name",
+      "timeline": "Ancient (3000+ years)"
+    },
+    {
+      "type": "ritual",
+      "title": "How to Chant This Mantra",
+      "content": "Complete guidelines for proper chanting including pronunciation, posture, and mindset.",
+      "steps": [
+        "Purify yourself with a bath or washing hands/feet",
+        "Sit in a comfortable meditative posture facing east or north",
+        "Take a few deep breaths to calm the mind",
+        "Begin with Om chanting to set the vibration",
+        "Chant the mantra slowly with full attention on each syllable",
+        "Use a rudraksha or tulsi mala for counting (108 times)",
+        "After completion, sit in silence for a few minutes"
+      ],
+      "materials": ["Rudraksha mala (108 beads)", "Diya (optional)", "Incense (optional)", "Comfortable asana"],
+      "bestTime": "Brahma Muhurta (4-6 AM) or during Sandhya (sunrise/sunset)",
+      "duration": "15-30 minutes for 108 repetitions"
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Chanting",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Awakens spiritual energy and connects with divine consciousness"
+        },
+        {
+          "category": "mental",
+          "description": "Improves concentration, memory, and mental clarity"
+        },
+        {
+          "category": "physical",
+          "description": "Regulates breathing and reduces stress hormones"
+        },
+        {
+          "category": "material",
+          "description": "Removes obstacles and brings success in endeavors"
+        }
+      ]
+    },
+    {
+      "type": "info",
+      "title": "Scientific Research",
+      "content": "Modern scientific studies on the effects of this mantra on brain waves, stress levels, and overall wellness."
+    }
+  ]
+}

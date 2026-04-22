@@ -1,1 +1,120 @@
-{"id": "baisakhi", "name": "Baisakhi", "title": "Harvest Festival - Vaisakhi", "description": "Baisakhi, also known as Vaisakhi, is an important harvest festival celebrated across North India, especially in Punjab. It marks the beginning of the Sikh New Year and commemorates the formation of the Khalsa Panth by Guru Gobind Singh.", "duration": "1 day", "icon": "🌾", "significance": "Celebrates the harvest season, the Sikh New Year, and the formation of the Khalsa Panth in 1699 by Guru Gobind Singh.", "seo": {"description": "Complete guide to Baisakhi festival with harvest celebrations, Sikh traditions, bhangra, giddha, and community gatherings. Learn the significance of Vaisakhi.", "keywords": ["baisakhi", "vaisakhi", "harvest festival", "sikh festival", "khalsa panth", "guru gobind singh", "punjab festival", "bhangra"]}, "sections": [{"type": "hero", "title": "Welcome to Baisakhi", "content": "Baisakhi is a joyous festival celebrating the harvest season, new beginnings, and the rich cultural heritage of Punjab. It's a time of thanksgiving, community gatherings, and vibrant celebrations."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Baisakhi holds immense historical importance as it marks the formation of the Khalsa Panth by Guru Gobind Singh in 1699, establishing a distinct Sikh identity and warrior tradition."}, {"type": "stories", "title": "Famous Stories", "content": "Baisakhi is associated with important historical and religious events.", "subsections": [{"title": "Formation of Khalsa", "content": "On Baisakhi day in 1699, Guru Gobind Singh established the Khalsa Panth. He called for volunteers and baptized the first five Sikhs known as the Panj Piare, creating a community of saint-soldiers."}, {"title": "Harvest Celebrations", "content": "Baisakhi marks the time when farmers harvest their Rabi crops. The golden fields of wheat symbolize prosperity and abundance, bringing joy to farming communities."}]}, {"type": "celebration", "title": "How Baisakhi is Celebrated", "content": "Baisakhi is celebrated with great enthusiasm across Punjab and other parts of India.", "subsections": [{"title": "Gurdwara Visits", "content": "People visit Gurdwaras early in the morning, participate in kirtan (devotional singing), and receive karah prasad (sweet pudding)."}, {"title": "Nagar Kirtan", "content": "Colorful processions called Nagar Kirtan are organized, with the Sikh holy book Guru Granth Sahib carried in a beautifully decorated palanquin."}]}, {"type": "rituals", "title": "Rituals and Traditions", "content": "Baisakhi rituals include religious ceremonies and traditional practices.", "subsections": [{"title": "Amrit Sanchar", "content": "Many Sikhs choose to be baptized on Baisakhi day, following the tradition established by Guru Gobind Singh."}, {"title": "Community Service", "content": "Langar (community kitchen) is organized where free meals are served to all, regardless of caste, creed, or religion."}]}, {"type": "food", "title": "Baisakhi Special Foods", "content": "Traditional Punjabi cuisine is prepared and shared during Baisakhi.", "subsections": [{"title": "Traditional Dishes", "content": "Popular dishes include Makki di Roti with Sarson da Saag, Butter Chicken, Dal Makhani, and various Punjabi breads."}, {"title": "Festival Sweets", "content": "Traditional sweets like Kheer, Ladoo, Jalebi, and Pinni are prepared and distributed among family and friends."}]}, {"type": "bhajans", "title": "Baisakhi Bhajans", "content": "Devotional songs sung during Baisakhi celebrations.", "subsections": [{"title": "Baisakhi Aaya", "hindi": "बैसाखी आया भीड़ लाया\nगिद्धा बैसाखी भांगड़ा लाया\nखेतों में फसलें लहलहाईं\nखुशियों से घर भर गए", "english": "Baisakhi came bringing crowds\nBaisakhi brought giddha and bhangra\nCrops swayed in the fields\nHomes filled with happiness", "meaning": "This folk song celebrates the joy and prosperity that Baisakhi brings."}]}, {"type": "aartis", "title": "Baisakhi Aartis", "content": "Traditional aartis performed during Baisakhi celebrations.", "subsections": [{"title": "Waheguru Aarti", "hindi": "वाहेगुरु वाहेगुरु\nवाहेगुरु जी की आरती\nसतगुरु नानक प्रभु दीआं\nवाहेगुरु जी की आरती", "english": "Waheguru Waheguru\nAarti of Waheguru Ji\nGiven by Satguru Nanak\nAarti of Waheguru Ji", "meaning": "This aarti praises the divine and expresses gratitude for blessings."}]}, {"type": "videos", "title": "Baisakhi Videos", "content": "Watch these videos to learn more about Baisakhi celebrations:", "videos": [{"title": "Baisakhi Celebration Guide", "embedId": "baisakhi_celebration_2024", "description": "Complete guide to celebrating Baisakhi"}, {"title": "Bhangra Dance Tutorial", "embedId": "bhangra_tutorial", "description": "Learn traditional Bhangra dance steps"}]}]}
+{
+  "id": "baisakhi",
+  "name": "Baisakhi",
+  "title": "Harvest Festival - Vaisakhi",
+  "description": "Baisakhi, also known as Vaisakhi, is an important harvest festival celebrated across North India, especially in Punjab. It marks the beginning of the Sikh New Year and commemorates the formation of the Khalsa Panth by Guru Gobind Singh.",
+  "duration": "1 day",
+  "icon": "🌾",
+  "significance": "Celebrates the harvest season, the Sikh New Year, and the formation of the Khalsa Panth in 1699 by Guru Gobind Singh.",
+  "seo": {
+    "description": "Complete guide to Baisakhi festival with harvest celebrations, Sikh traditions, bhangra, giddha, and community gatherings. Learn the significance of Vaisakhi.",
+    "keywords": [
+      "baisakhi",
+      "vaisakhi",
+      "harvest festival",
+      "sikh festival",
+      "khalsa panth",
+      "guru gobind singh",
+      "punjab festival",
+      "bhangra"
+    ],
+    "title": "Baisakhi 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Baisakhi",
+      "content": "Baisakhi is a joyous festival celebrating the harvest season, new beginnings, and the rich cultural heritage of Punjab. It's a time of thanksgiving, community gatherings, and vibrant celebrations."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Baisakhi holds immense historical importance as it marks the formation of the Khalsa Panth by Guru Gobind Singh in 1699, establishing a distinct Sikh identity and warrior tradition."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Baisakhi is associated with important historical and religious events.",
+      "summary": "Baisakhi is associated with important historical and religious events.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": []
+    },
+    {
+      "type": "info",
+      "title": "How Baisakhi is Celebrated",
+      "content": "Baisakhi is celebrated with great enthusiasm across Punjab and other parts of India."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Traditions",
+      "content": "Baisakhi rituals include religious ceremonies and traditional practices.",
+      "steps": [
+        "Amrit Sanchar: Many Sikhs choose to be baptized on Baisakhi day, following the tradition established by Guru Gobind Singh.",
+        "Community Service: Langar (community kitchen) is organized where free meals are served to all, regardless of caste, creed, or religion."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Baisakhi rituals include religious ceremonies and traditional practices."
+    },
+    {
+      "type": "info",
+      "title": "Baisakhi Special Foods",
+      "content": "Traditional Punjabi cuisine is prepared and shared during Baisakhi."
+    },
+    {
+      "type": "info",
+      "title": "Baisakhi Bhajans",
+      "content": "Devotional songs sung during Baisakhi celebrations."
+    },
+    {
+      "type": "info",
+      "title": "Baisakhi Aartis",
+      "content": "Traditional aartis performed during Baisakhi celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Baisakhi Videos",
+      "content": "Watch these videos to learn more about Baisakhi celebrations:",
+      "videos": [
+        {
+          "title": "Baisakhi Celebration Guide",
+          "embedId": "baisakhi_celebration_2024",
+          "description": "Complete guide to celebrating Baisakhi",
+          "thumbnailUrl": "https://img.youtube.com/vi/baisakhi_celebration_2024/0.jpg"
+        },
+        {
+          "title": "Bhangra Dance Tutorial",
+          "embedId": "bhangra_tutorial",
+          "description": "Learn traditional Bhangra dance steps",
+          "thumbnailUrl": "https://img.youtube.com/vi/bhangra_tutorial/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-04-13",
+  "tithi": "Solar New Year",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-04-14"
+}

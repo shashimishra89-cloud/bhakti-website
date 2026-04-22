@@ -1,1 +1,93 @@
-{"id": "lakshmi-aarti", "name": "Lakshmi Aarti", "title": "Om Jai Lakshmi Mata", "description": "The most popular aarti dedicated to Goddess Lakshmi, the goddess of wealth, prosperity, and fortune. This aarti is performed during Diwali and other auspicious occasions to seek her blessings.", "duration": "5 minutes", "icon": "💰", "deity": "Goddess Lakshmi", "significance": "Invokes the blessings of Goddess Lakshmi for wealth, prosperity, and success in all endeavors.", "seo": {"description": "Complete Lakshmi Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Lakshmi aarti.", "keywords": ["lakshmi aarti", "goddess lakshmi", "diwali aarti", "wealth goddess", "prosperity aarti", "om jai lakshmi mata", "lakshmi puja"]}, "sections": [{"type": "hero", "title": "Goddess Lakshmi Aarti", "content": "The Lakshmi Aarti is a powerful devotional hymn that praises Goddess Lakshmi, the divine mother who bestows wealth, prosperity, and good fortune upon her devotees."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries in Hindu households and temples. It is especially significant during Diwali when Goddess Lakshmi is worshipped with great devotion."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Lakshmi Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता\nतुमको निशदिन ध्यावत, हर विष्णु विधाता\nॐ जय लक्ष्मी माता\n\nउमा रमा ब्रह्माणी, तुम शिव शक्ति भवानी\nतीनों लोक में व्याप्त, तेरी महिमा भवानी\nॐ जय लक्ष्मी माता\n\nमहालक्ष्मी जी आरती, कीजै जो कोई नर नारी\nउर आनंद अति होवै, पाप उतरे तन भारी\nॐ जय लक्ष्मी माता\n\nजय लक्ष्मी माता, मैया जय लक्ष्मी माता\nतुमको निशदिन ध्यावत, हर विष्णु विधाता\nॐ जय लक्ष्मी माता", "english": "Om Jai Lakshmi Mata, Mother Jai Lakshmi Mata\nDay and night we meditate on you, Hari Vishnu the creator\nOm Jai Lakshmi Mata\n\nUma, Rama, Brahmani, you are Shiva's power Bhavani\nSpread across all three worlds, your glory O Bhavani\nOm Jai Lakshmi Mata\n\nWhoever performs Mahalakshmi's aarti, man or woman\nExperiences great joy in heart, heavy sins are removed from body\nOm Jai Lakshmi Mata\n\nVictory to Lakshmi Mata, Mother Victory to Lakshmi Mata\nDay and night we meditate on you, Hari Vishnu the creator\nOm Jai Lakshmi Mata", "meaning": "This aarti praises Goddess Lakshmi as the supreme divine mother who is worshipped by all gods and holds the divine weapons symbolizing protection and prosperity."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Lakshmi Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, flowers, incense, and offerings. Place Lakshmi idol or picture facing east."}, {"title": "Aarti Procedure", "content": "Light the diya, perform the aarti by moving it in circular motion in front of the deity. Sing the aarti with devotion while ringing bells."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Lakshmi Aarti.", "subsections": [{"title": "Divine Blessings", "content": "The aarti invokes Goddess Lakshmi's blessings for material prosperity, spiritual wealth, and overall well-being."}, {"title": "Removal of Obstacles", "content": "Regular performance of this aarti is believed to remove financial obstacles and bring success in business and career."}]}, {"type": "videos", "title": "Lakshmi Aarti Videos", "content": "Watch these videos to learn the proper way to perform Lakshmi Aarti:", "videos": [{"title": "Complete Lakshmi Aarti with Pronunciation", "embedId": "lakshmi_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Lakshmi Aarti during Diwali", "embedId": "diwali_lakshmi_aarti", "description": "Traditional Lakshmi Aarti performed during Diwali celebrations"}]}]}
+{
+  "id": "lakshmi-aarti",
+  "name": "Lakshmi Aarti",
+  "title": "Om Jai Lakshmi Mata",
+  "description": "The most popular aarti dedicated to Goddess Lakshmi, the goddess of wealth, prosperity, and fortune. This aarti is performed during Diwali and other auspicious occasions to seek her blessings.",
+  "duration": "5 minutes",
+  "icon": "💰",
+  "deity": "Goddess Lakshmi",
+  "significance": "Invokes the blessings of Goddess Lakshmi for wealth, prosperity, and success in all endeavors.",
+  "seo": {
+    "description": "Complete Lakshmi Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Lakshmi aarti.",
+    "keywords": [
+      "lakshmi aarti",
+      "goddess lakshmi",
+      "diwali aarti",
+      "wealth goddess",
+      "prosperity aarti",
+      "om jai lakshmi mata",
+      "lakshmi puja"
+    ],
+    "title": "Lakshmi Aarti | Lakshmi Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Goddess Lakshmi Aarti",
+      "content": "The Lakshmi Aarti is a powerful devotional hymn that praises Goddess Lakshmi, the divine mother who bestows wealth, prosperity, and good fortune upon her devotees."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries in Hindu households and temples. It is especially significant during Diwali when Goddess Lakshmi is worshipped with great devotion."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Lakshmi Aarti in Hindi with English translation.",
+      "hindi": "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता\nतुमको निशदिन ध्यावत, हर विष्णु विधाता\nॐ जय लक्ष्मी माता\n\nउमा रमा ब्रह्माणी, तुम शिव शक्ति भवानी\nतीनों लोक में व्याप्त, तेरी महिमा भवानी\nॐ जय लक्ष्मी माता\n\nमहालक्ष्मी जी आरती, कीजै जो कोई नर नारी\nउर आनंद अति होवै, पाप उतरे तन भारी\nॐ जय लक्ष्मी माता\n\nजय लक्ष्मी माता, मैया जय लक्ष्मी माता\nतुमको निशदिन ध्यावत, हर विष्णु विधाता\nॐ जय लक्ष्मी माता",
+      "english": "Om Jai Lakshmi Mata, Mother Jai Lakshmi Mata\nDay and night we meditate on you, Hari Vishnu the creator\nOm Jai Lakshmi Mata\n\nUma, Rama, Brahmani, you are Shiva's power Bhavani\nSpread across all three worlds, your glory O Bhavani\nOm Jai Lakshmi Mata\n\nWhoever performs Mahalakshmi's aarti, man or woman\nExperiences great joy in heart, heavy sins are removed from body\nOm Jai Lakshmi Mata\n\nVictory to Lakshmi Mata, Mother Victory to Lakshmi Mata\nDay and night we meditate on you, Hari Vishnu the creator\nOm Jai Lakshmi Mata",
+      "meaning": "This aarti praises Goddess Lakshmi as the supreme divine mother who is worshipped by all gods and holds the divine weapons symbolizing protection and prosperity."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Lakshmi Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, flowers, incense, and offerings. Place Lakshmi idol or picture facing east.",
+        "Aarti Procedure: Light the diya, perform the aarti by moving it in circular motion in front of the deity. Sing the aarti with devotion while ringing bells."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Lakshmi Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Lakshmi Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Lakshmi Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Lakshmi Aarti:",
+      "videos": [
+        {
+          "title": "Complete Lakshmi Aarti with Pronunciation",
+          "embedId": "lakshmi_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/lakshmi_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Lakshmi Aarti during Diwali",
+          "embedId": "diwali_lakshmi_aarti",
+          "description": "Traditional Lakshmi Aarti performed during Diwali celebrations",
+          "thumbnailUrl": "https://img.youtube.com/vi/diwali_lakshmi_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "lakshmi"
+  ],
+  "relatedContent": []
+}
