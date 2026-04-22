@@ -1,1 +1,103 @@
-{"id": "shiv-tandav-stotram", "name": "Shiv Tandav Stotram", "title": "Shiv Tandav Stotram - Ravana's Creation", "description": "A powerful stotram composed by Ravana, the demon king of Lanka, describing Lord Shiva's cosmic dance (Tandava). This hymn beautifully captures the divine power and beauty of Lord Shiva's dance of creation and destruction.", "duration": "15 minutes", "icon": "🔱", "deity": "Lord Shiva", "significance": "Invokes Lord Shiva's divine power, brings spiritual strength, and helps overcome ego and obstacles.", "seo": {"description": "Complete Shiv Tandav Stotram with lyrics, meaning, and benefits. Learn the proper way to recite this powerful Shiva stotram.", "keywords": ["shiv tandav stotram", "lord shiva", "ravana", "cosmic dance", "tandava", "shiva stotram", "divine power"]}, "sections": [{"type": "hero", "title": "Shiv Tandav Stotram", "content": "The Shiv Tandav Stotram is a magnificent hymn that describes Lord Shiva's cosmic dance, composed by none other than Ravana, the greatest devotee of Shiva despite being a demon king."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This stotram was composed by Ravana after he pleased Lord Shiva with his intense devotion. It is considered one of the most powerful Shiva stotrams, showcasing the depth of Ravana's devotion despite his demonic nature."}, {"type": "lyrics", "title": "Complete Stotram Lyrics", "content": "The powerful verses describing Shiva's Tandava dance.", "subsections": [{"title": "Opening Verses", "hindi": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्\n\nडमड्डमड्डमड्डमन्निनादवड्डमर्दयन्तं\nतं जटाजूटं जटधारी भजताम् भजताम्॥", "english": "With his neck consecrated by the flow of water that flows from his hair,\nAnd on his neck a snake, which is hung like a garland,\n\nAnd the Damaru drum that emits the sound Damad Damad Damad,\nI worship that Shiva, who wears matted hair, who wears matted hair.", "meaning": "These verses describe Shiva's magnificent appearance with matted hair, snake garland, and the sound of his Damaru drum."}, {"title": "Cosmic Dance Description", "hindi": "विकट्ट विकट्ट विकट्ट विकट्ट विकट्ट विकट्ट विकट्ट\nविकट्ट विकट्ट विकट्ट विकट्ट विकट्ट विकट्ट विकट्ट\n\nजटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्", "english": "Fierce, fierce, fierce, fierce, fierce, fierce, fierce,\nFierce, fierce, fierce, fierce, fierce, fierce, fierce,\n\nWith his neck consecrated by the flow of water that flows from his hair,\nAnd on his neck a snake, which is hung like a garland", "meaning": "The repetition emphasizes the fierce nature of Shiva's Tandava dance."}]}, {"type": "benefits", "title": "Benefits of Reciting Shiv Tandav Stotram", "content": "The spiritual and practical benefits of regular recitation.", "subsections": [{"title": "Spiritual Benefits", "content": "Removes ego, provides spiritual strength, helps overcome obstacles, and brings divine blessings."}, {"title": "Material Benefits", "content": "Increases confidence, provides courage, helps overcome fears, and brings success in endeavors."}]}, {"type": "rituals", "title": "How to Recite", "content": "Proper method and guidelines for reciting Shiv Tandav Stotram.", "subsections": [{"title": "Best Time", "content": "Early morning after bath, especially on Mondays and during Mahashivratri."}, {"title": "Procedure", "content": "Sit facing north, light a diya, offer bilva leaves and water, then recite with devotion and understanding of the cosmic dance."}]}, {"type": "videos", "title": "Shiv Tandav Stotram Videos", "content": "Watch these videos to learn the proper way to recite Shiv Tandav Stotram:", "videos": [{"title": "Complete Shiv Tandav Stotram with Pronunciation", "embedId": "shiv_tandav_complete", "description": "Full stotram with correct pronunciation and meaning"}, {"title": "Shiv Tandav Stotram - Meaning and Significance", "embedId": "shiv_tandav_meaning", "description": "Detailed explanation of the cosmic dance and its significance"}]}]}
+{
+  "id": "shiv-tandav-stotram",
+  "name": "Shiv Tandav Stotram",
+  "title": "Shiv Tandav Stotram - Ravana's Creation",
+  "description": "A powerful stotram composed by Ravana, the demon king of Lanka, describing Lord Shiva's cosmic dance (Tandava). This hymn beautifully captures the divine power and beauty of Lord Shiva's dance of creation and destruction.",
+  "duration": "15 minutes",
+  "icon": "🔱",
+  "deity": "Lord Shiva",
+  "significance": "Invokes Lord Shiva's divine power, brings spiritual strength, and helps overcome ego and obstacles.",
+  "seo": {
+    "description": "Complete Shiv Tandav Stotram with lyrics, meaning, and benefits. Learn the proper way to recite this powerful Shiva stotram.",
+    "keywords": [
+      "shiv tandav stotram",
+      "lord shiva",
+      "ravana",
+      "cosmic dance",
+      "tandava",
+      "shiva stotram",
+      "divine power"
+    ],
+    "title": "Shiv Tandav Stotram | Shiva Bhajan with Lyrics"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Shiv Tandav Stotram",
+      "content": "The Shiv Tandav Stotram is a magnificent hymn that describes Lord Shiva's cosmic dance, composed by none other than Ravana, the greatest devotee of Shiva despite being a demon king."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This stotram was composed by Ravana after he pleased Lord Shiva with his intense devotion. It is considered one of the most powerful Shiva stotrams, showcasing the depth of Ravana's devotion despite his demonic nature."
+    },
+    {
+      "type": "bhajan",
+      "title": "Complete Stotram Lyrics",
+      "content": "The powerful verses describing Shiva's Tandava dance.",
+      "hindi": "जटाटवीगलज्जलप्रवाहपावितस्थले\nगलेऽवलम्ब्य लम्बितां भुजंगतुंगमालिकाम्\n\nडमड्डमड्डमड्डमन्निनादवड्डमर्दयन्तं\nतं जटाजूटं जटधारी भजताम् भजताम्॥",
+      "english": "With his neck consecrated by the flow of water that flows from his hair,\nAnd on his neck a snake, which is hung like a garland,\n\nAnd the Damaru drum that emits the sound Damad Damad Damad,\nI worship that Shiva, who wears matted hair, who wears matted hair.",
+      "meaning": "These verses describe Shiva's magnificent appearance with matted hair, snake garland, and the sound of his Damaru drum."
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Reciting Shiv Tandav Stotram",
+      "content": "The spiritual and practical benefits of regular recitation.",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Removes ego, provides spiritual strength, helps overcome obstacles, and brings divine blessings."
+        },
+        {
+          "category": "material",
+          "description": "Increases confidence, provides courage, helps overcome fears, and brings success in endeavors."
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Recite",
+      "content": "Proper method and guidelines for reciting Shiv Tandav Stotram.",
+      "steps": [
+        "Best Time: Early morning after bath, especially on Mondays and during Mahashivratri.",
+        "Procedure: Sit facing north, light a diya, offer bilva leaves and water, then recite with devotion and understanding of the cosmic dance."
+      ],
+      "bestTime": "Early morning after bath, especially on Mondays and during Mahashivratri.",
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "duration": "Proper method and guidelines for reciting Shiv Tandav Stotram."
+    },
+    {
+      "type": "video",
+      "title": "Shiv Tandav Stotram Videos",
+      "content": "Watch these videos to learn the proper way to recite Shiv Tandav Stotram:",
+      "videos": [
+        {
+          "title": "Complete Shiv Tandav Stotram with Pronunciation",
+          "embedId": "shiv_tandav_complete",
+          "description": "Full stotram with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/shiv_tandav_complete/0.jpg"
+        },
+        {
+          "title": "Shiv Tandav Stotram - Meaning and Significance",
+          "embedId": "shiv_tandav_meaning",
+          "description": "Detailed explanation of the cosmic dance and its significance",
+          "thumbnailUrl": "https://img.youtube.com/vi/shiv_tandav_meaning/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "bhajan",
+  "color": "from-blue-400 to-indigo-500",
+  "subtitle": "Melodious devotional song",
+  "difficulty": "beginner",
+  "tags": [
+    "bhajan",
+    "shiva"
+  ],
+  "relatedContent": []
+}

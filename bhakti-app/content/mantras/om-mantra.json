@@ -1,1 +1,104 @@
-{"id": "om-mantra", "name": "Om Mantra", "title": "The Primordial Sound of the Universe", "description": "Om is the most sacred and fundamental mantra in Hinduism, representing the primordial sound of the universe. It is considered the source of all creation and the essence of all Vedas and mantras.", "duration": "5 minutes", "icon": "🌌", "deity": "Brahman (Supreme Reality)", "significance": "Connects with cosmic consciousness, brings universal harmony, provides spiritual foundation, and awakens inner divinity.", "seo": {"description": "Complete Om mantra with meaning, benefits, and proper chanting method. Learn this primordial sound of the universe.", "keywords": ["om mantra", "primordial sound", "universal consciousness", "brahman", "cosmic vibration", "spiritual foundation", "omkar"]}, "sections": [{"type": "hero", "title": "Om - The Primordial Sound", "content": "Om is the most sacred sound in Hinduism, representing the vibration of the universe and the ultimate reality. It is considered the source of all creation and the essence of all spiritual practices."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Om has been revered since ancient times and is mentioned in the Upanishads as the ultimate reality. It is considered the sound that existed before creation and continues to exist eternally."}, {"type": "lyrics", "title": "Om with Detailed Explanation", "content": "The complete understanding of Om and its components.", "subsections": [{"title": "Om Sound", "hindi": "ॐ\n\nॐ\nॐ\nॐ", "english": "Om\n\nOm\nOm\nOm", "meaning": "The primordial sound of the universe, representing past, present, and future."}, {"title": "Components of Om", "hindi": "ॐ = अ + उ + म\n\nअ - ब्रह्मा (रचना)\nउ - विष्णु (स्थिति)\nम - महेश (विनाश)\n\nअ + उ + म + अर्धमात्रा = ॐ", "english": "Om = A + U + M\n\nA - Brahma (Creation)\nU - Vishnu (Preservation)\nM - Mahesh (Destruction)\n\nA + U + M + Ardhamatra = Om", "meaning": "Om represents the complete cycle of creation, preservation, and destruction, along with the transcendental state."}]}, {"type": "benefits", "title": "Benefits of Chanting Om", "content": "The spiritual and practical benefits of regular chanting.", "subsections": [{"title": "Spiritual Benefits", "content": "Connects with cosmic consciousness, brings universal harmony, awakens inner divinity, and leads to self-realization."}, {"title": "Material Benefits", "content": "Reduces stress, improves concentration, brings mental peace, enhances meditation, and provides emotional balance."}]}, {"type": "rituals", "title": "How to Chant", "content": "Proper method and guidelines for chanting Om.", "subsections": [{"title": "Best Time", "content": "Early morning during Brahma Muhurta (4-6 AM), before meditation, or at the beginning of any spiritual practice."}, {"title": "Procedure", "content": "Sit in a comfortable position, close your eyes, take a deep breath, and chant Om while focusing on the vibration throughout your body."}]}, {"type": "videos", "title": "Om Mantra Videos", "content": "Watch these videos to learn the proper way to chant Om:", "videos": [{"title": "Complete Om Mantra with Pronunciation", "embedId": "om_mantra_complete", "description": "Full Om mantra with correct pronunciation and meaning"}, {"title": "Om - The Science Behind the Sound", "embedId": "om_science", "description": "Scientific explanation of Om's effects on body and mind"}]}]}
+{
+  "id": "om-mantra",
+  "name": "Om Mantra",
+  "title": "The Primordial Sound of the Universe",
+  "description": "Om is the most sacred and fundamental mantra in Hinduism, representing the primordial sound of the universe. It is considered the source of all creation and the essence of all Vedas and mantras.",
+  "duration": "5 minutes",
+  "icon": "🌌",
+  "deity": "Brahman (Supreme Reality)",
+  "significance": "Connects with cosmic consciousness, brings universal harmony, provides spiritual foundation, and awakens inner divinity.",
+  "seo": {
+    "description": "Complete Om mantra with meaning, benefits, and proper chanting method. Learn this primordial sound of the universe.",
+    "keywords": [
+      "om mantra",
+      "primordial sound",
+      "universal consciousness",
+      "brahman",
+      "cosmic vibration",
+      "spiritual foundation",
+      "omkar"
+    ],
+    "title": "Om Mantra | Brahman (Supreme Reality) Mantra with Sanskrit & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Om - The Primordial Sound",
+      "content": "Om is the most sacred sound in Hinduism, representing the vibration of the universe and the ultimate reality. It is considered the source of all creation and the essence of all spiritual practices."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Om has been revered since ancient times and is mentioned in the Upanishads as the ultimate reality. It is considered the sound that existed before creation and continues to exist eternally."
+    },
+    {
+      "type": "mantra",
+      "title": "Om with Detailed Explanation",
+      "content": "The complete understanding of Om and its components.",
+      "meaning": "The primordial sound of the universe, representing past, present, and future.",
+      "sanskrit": "ॐ",
+      "transliteration": "Om"
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Chanting Om",
+      "content": "The spiritual and practical benefits of regular chanting.",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Connects with cosmic consciousness, brings universal harmony, awakens inner divinity, and leads to self-realization."
+        },
+        {
+          "category": "material",
+          "description": "Reduces stress, improves concentration, brings mental peace, enhances meditation, and provides emotional balance."
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Chant",
+      "content": "Proper method and guidelines for chanting Om.",
+      "steps": [
+        "Best Time: Early morning during Brahma Muhurta (4-6 AM), before meditation, or at the beginning of any spiritual practice.",
+        "Procedure: Sit in a comfortable position, close your eyes, take a deep breath, and chant Om while focusing on the vibration throughout your body."
+      ],
+      "bestTime": "Early morning during Brahma Muhurta (4-6 AM), before meditation, or at the beginning of any spiritual practice.",
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "duration": "Proper method and guidelines for chanting Om."
+    },
+    {
+      "type": "video",
+      "title": "Om Mantra Videos",
+      "content": "Watch these videos to learn the proper way to chant Om:",
+      "videos": [
+        {
+          "title": "Complete Om Mantra with Pronunciation",
+          "embedId": "om_mantra_complete",
+          "description": "Full Om mantra with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/om_mantra_complete/0.jpg"
+        },
+        {
+          "title": "Om - The Science Behind the Sound",
+          "embedId": "om_science",
+          "description": "Scientific explanation of Om's effects on body and mind",
+          "thumbnailUrl": "https://img.youtube.com/vi/om_science/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "mantra",
+  "color": "from-purple-400 to-pink-500",
+  "subtitle": "Powerful sacred chant",
+  "difficulty": "beginner",
+  "tags": [
+    "mantra",
+    "brahman (supreme reality)"
+  ],
+  "relatedContent": [],
+  "repetitionCount": 108
+}

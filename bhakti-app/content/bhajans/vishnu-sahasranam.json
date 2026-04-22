@@ -1,1 +1,103 @@
-{"id": "vishnu-sahasranam", "name": "Vishnu Sahasranam", "title": "Shri Vishnu Sahasranamam", "description": "A sacred hymn consisting of 1000 names of Lord Vishnu, as revealed in the Mahabharata. This powerful stotram is considered one of the most important devotional texts in Hinduism, invoking the supreme qualities of Lord Vishnu.", "duration": "25 minutes", "icon": "🌊", "deity": "Lord Vishnu", "significance": "Brings peace, prosperity, and spiritual liberation. Regular recitation removes sins and grants divine blessings.", "seo": {"description": "Complete Vishnu Sahasranamam with 1000 names of Lord Vishnu, meaning, and benefits. Learn the proper way to recite Vishnu Sahasranam.", "keywords": ["vishnu sahasranam", "lord vishnu", "1000 names", "vishnu stotram", "mahabharata", "divine names", "spiritual liberation"]}, "sections": [{"type": "hero", "title": "Shri Vishnu Sahasranamam", "content": "The Vishnu Sahasranamam is a sacred compilation of 1000 divine names of Lord Vishnu, each describing his supreme qualities, powers, and manifestations."}, {"type": "historical_significance", "title": "Historical Significance", "content": "The Vishnu Sahasranamam appears in the Anushasana Parva of the Mahabharata, where Bhishma teaches it to Yudhishthira. It has been revered for thousands of years as a powerful spiritual practice."}, {"type": "lyrics", "title": "Key Names and Their Meanings", "content": "Some of the most important names from the 1000 names with their meanings.", "subsections": [{"title": "Opening Verses", "hindi": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।\nस्रस्रं हिरण्मयं वन्दे विष्णुं जटाधारीम्॥\n\nविश्वं नारायणं देवं अक्षरं परमं शिवम्।\nसर्वेश्वरं शाश्वतं च भूतभावनं भूतेश्वरम्॥", "english": "I worship Vishnu, who wears white garments, is all-pervading, has a moon-like complexion, four arms, and is peaceful.\n\nI worship Vishnu, who is the universe, the supreme deity, the imperishable, the supreme good, the lord of all, eternal, the basis of all existence, and the lord of beings.", "meaning": "These opening verses establish the divine nature of Lord Vishnu as the supreme reality."}, {"title": "First 50 Names", "hindi": "विष्णुः वषट्कारः पुण्यः पुण्यकीर्तिः अनिरुद्धः\nअप्रमेयः हृषीकेशः पद्मनाभो अमरप्रभुः\n\nविश्वकर्मा कुशलः कुशलानामि विश्वात्मा\nसुवर्णबिन्दुः भूरिधर्मः विद्वान् वैद्यः समाहितः\n\nसच्चिदानन्दः विश्वेशः धनेशः धनञ्जयः\nविजयः जयश्रयः वन्देयो वन्दितः उपेन्द्रः", "english": "Vishnu, the all-pervading, the supreme, the glorious, the unobstructed,\nImmeasurable, Lord of the senses, lotus-navelled, immortal lord,\n\nCreator of the universe, skilled, master of skills, soul of the universe,\nGolden point, upholder of righteousness, wise, physician, contemplative,\n\nExistence-knowledge-bliss, lord of the universe, lord of wealth, victorious over wealth,\nVictorious, source of victory, worthy of worship, worshipped, lord of Indra.", "meaning": "These names describe Vishnu's various qualities as the supreme creator, sustainer, and source of all prosperity."}]}, {"type": "benefits", "title": "Benefits of Reciting Vishnu Sahasranamam", "content": "The spiritual and practical benefits of regular recitation.", "subsections": [{"title": "Spiritual Benefits", "content": "Attains spiritual liberation, removes all sins, provides divine protection, and brings peace of mind."}, {"title": "Material Benefits", "content": "Brings prosperity, success, good health, and removes obstacles from life's path."}]}, {"type": "rituals", "title": "How to Recite", "content": "Proper method and guidelines for reciting Vishnu Sahasranamam.", "subsections": [{"title": "Best Time", "content": "Early morning after bath, especially on Ekadashi and other auspicious days."}, {"title": "Procedure", "content": "Sit facing east, light a diya, offer tulsi leaves and flowers, then recite with devotion and understanding of the meanings."}]}, {"type": "videos", "title": "Vishnu Sahasranamam Videos", "content": "Watch these videos to learn the proper way to recite Vishnu Sahasranamam:", "videos": [{"title": "Complete Vishnu Sahasranamam with Pronunciation", "embedId": "vishnu_sahasranam_complete", "description": "Full Sahasranamam with correct pronunciation and meaning"}, {"title": "Vishnu Sahasranamam - Daily Practice", "embedId": "vishnu_sahasranam_daily", "description": "Daily practice guide with proper pronunciation"}]}]}
+{
+  "id": "vishnu-sahasranam",
+  "name": "Vishnu Sahasranam",
+  "title": "Shri Vishnu Sahasranamam",
+  "description": "A sacred hymn consisting of 1000 names of Lord Vishnu, as revealed in the Mahabharata. This powerful stotram is considered one of the most important devotional texts in Hinduism, invoking the supreme qualities of Lord Vishnu.",
+  "duration": "25 minutes",
+  "icon": "🌊",
+  "deity": "Lord Vishnu",
+  "significance": "Brings peace, prosperity, and spiritual liberation. Regular recitation removes sins and grants divine blessings.",
+  "seo": {
+    "description": "Complete Vishnu Sahasranamam with 1000 names of Lord Vishnu, meaning, and benefits. Learn the proper way to recite Vishnu Sahasranam.",
+    "keywords": [
+      "vishnu sahasranam",
+      "lord vishnu",
+      "1000 names",
+      "vishnu stotram",
+      "mahabharata",
+      "divine names",
+      "spiritual liberation"
+    ],
+    "title": "Vishnu Sahasranam | Vishnu Bhajan with Lyrics"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Shri Vishnu Sahasranamam",
+      "content": "The Vishnu Sahasranamam is a sacred compilation of 1000 divine names of Lord Vishnu, each describing his supreme qualities, powers, and manifestations."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "The Vishnu Sahasranamam appears in the Anushasana Parva of the Mahabharata, where Bhishma teaches it to Yudhishthira. It has been revered for thousands of years as a powerful spiritual practice."
+    },
+    {
+      "type": "bhajan",
+      "title": "Key Names and Their Meanings",
+      "content": "Some of the most important names from the 1000 names with their meanings.",
+      "hindi": "शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।\nस्रस्रं हिरण्मयं वन्दे विष्णुं जटाधारीम्॥\n\nविश्वं नारायणं देवं अक्षरं परमं शिवम्।\nसर्वेश्वरं शाश्वतं च भूतभावनं भूतेश्वरम्॥",
+      "english": "I worship Vishnu, who wears white garments, is all-pervading, has a moon-like complexion, four arms, and is peaceful.\n\nI worship Vishnu, who is the universe, the supreme deity, the imperishable, the supreme good, the lord of all, eternal, the basis of all existence, and the lord of beings.",
+      "meaning": "These opening verses establish the divine nature of Lord Vishnu as the supreme reality."
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Reciting Vishnu Sahasranamam",
+      "content": "The spiritual and practical benefits of regular recitation.",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Attains spiritual liberation, removes all sins, provides divine protection, and brings peace of mind."
+        },
+        {
+          "category": "material",
+          "description": "Brings prosperity, success, good health, and removes obstacles from life's path."
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Recite",
+      "content": "Proper method and guidelines for reciting Vishnu Sahasranamam.",
+      "steps": [
+        "Best Time: Early morning after bath, especially on Ekadashi and other auspicious days.",
+        "Procedure: Sit facing east, light a diya, offer tulsi leaves and flowers, then recite with devotion and understanding of the meanings."
+      ],
+      "bestTime": "Early morning after bath, especially on Ekadashi and other auspicious days.",
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "duration": "Proper method and guidelines for reciting Vishnu Sahasranamam."
+    },
+    {
+      "type": "video",
+      "title": "Vishnu Sahasranamam Videos",
+      "content": "Watch these videos to learn the proper way to recite Vishnu Sahasranamam:",
+      "videos": [
+        {
+          "title": "Complete Vishnu Sahasranamam with Pronunciation",
+          "embedId": "vishnu_sahasranam_complete",
+          "description": "Full Sahasranamam with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/vishnu_sahasranam_complete/0.jpg"
+        },
+        {
+          "title": "Vishnu Sahasranamam - Daily Practice",
+          "embedId": "vishnu_sahasranam_daily",
+          "description": "Daily practice guide with proper pronunciation",
+          "thumbnailUrl": "https://img.youtube.com/vi/vishnu_sahasranam_daily/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "bhajan",
+  "color": "from-blue-400 to-indigo-500",
+  "subtitle": "Melodious devotional song",
+  "difficulty": "beginner",
+  "tags": [
+    "bhajan",
+    "vishnu"
+  ],
+  "relatedContent": []
+}

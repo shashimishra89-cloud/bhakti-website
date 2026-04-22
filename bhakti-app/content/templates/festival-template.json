@@ -1,0 +1,92 @@
+{
+  "id": "festival-name",
+  "category": "festival",
+  "name": "Festival Name",
+  "title": "Festival Name - Complete Guide with Rituals and Stories",
+  "subtitle": "The festival of significance",
+  "description": "A comprehensive description of this Hindu festival, its significance, how it's celebrated, and why it's important (100-500 characters).",
+  "icon": "🎊",
+  "color": "from-yellow-400 to-amber-500",
+  "deity": "Associated Deity",
+  "date": "2024-10-31",
+  "tithi": "Amavasya/Krishna Paksha/Pratipada/etc",
+  "duration": "1 day / 5 days / 9 days",
+  "region": ["all-india", "north", "south"],
+  "significance": "Explain the spiritual and cultural significance of this festival, what it celebrates, and why devotees observe it.",
+  "rituals": [
+    "Main ritual description",
+    "Secondary ritual description",
+    "Traditional observance"
+  ],
+  "featured": true,
+  "difficulty": "beginner",
+  "tags": ["festival", "celebration", "hindu", "deity"],
+  "relatedContent": ["related-festival-1", "related-festival-2"],
+  "seo": {
+    "title": "Festival Name 2024 - Date, Rituals, Stories, Celebration Guide",
+    "description": "Complete guide to Festival Name including date, rituals, significance, stories, and how to celebrate. Learn about this beautiful Hindu festival.",
+    "keywords": ["festival name", "hindu festival", "celebration", "rituals", "date 2024"],
+    "ogImage": "https://example.com/festival-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "About Festival Name",
+      "content": "Comprehensive introduction to the festival covering its essence, when it's celebrated, and general overview of observances."
+    },
+    {
+      "type": "story",
+      "title": "Legend and Stories",
+      "content": "The main mythological story or legend behind this festival. Describe the narrative from Hindu scriptures or traditional lore.",
+      "summary": "Brief summary of the story",
+      "moral": "The spiritual teaching or moral lesson",
+      "relatedDeities": ["Deity 1", "Deity 2"]
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Observances",
+      "content": "Detailed explanation of all rituals performed during this festival.",
+      "steps": [
+        "Step 1: Preparation and purification",
+        "Step 2: Main puja ritual",
+        "Step 3: Offerings and prayers",
+        "Step 4: Traditional customs",
+        "Step 5: Distribution of prasad"
+      ],
+      "materials": ["Puja thali", "Flowers", "Incense", "Diya", "Prasad ingredients", "Decorative items"],
+      "bestTime": "Specific tithi or muhurat",
+      "duration": "Duration of main ritual"
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Historical background of the festival, how celebrations have evolved over time, and regional variations.",
+      "origin": "Ancient India",
+      "timeline": "Thousands of years",
+      "composer": "Scriptural reference"
+    },
+    {
+      "type": "info",
+      "title": "Regional Celebrations",
+      "content": "How this festival is celebrated differently across various regions of India and among Hindu communities worldwide."
+    },
+    {
+      "type": "video",
+      "title": "Festival Videos",
+      "videos": [
+        {
+          "title": "Festival Celebration Video",
+          "embedId": "video_id_1",
+          "description": "Beautiful celebration of the festival",
+          "thumbnailUrl": "https://example.com/thumb1.jpg"
+        },
+        {
+          "title": "Ritual Demonstration",
+          "embedId": "video_id_2",
+          "description": "How to perform the main ritual",
+          "thumbnailUrl": "https://example.com/thumb2.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "deity-aarti",
+  "category": "aarti",
+  "name": "Deity Aarti",
+  "title": "Complete Aarti Title | Hindi Lyrics with Meaning",
+  "subtitle": "Beautiful aarti dedicated to the deity",
+  "description": "A comprehensive description of this aarti, its significance, and when it is performed. Should be 100-500 characters.",
+  "icon": "🪔",
+  "color": "from-orange-400 to-red-500",
+  "deity": "Deity Name",
+  "duration": "5 minutes",
+  "significance": "Explain the spiritual and practical significance of this aarti (50-500 characters).",
+  "featured": false,
+  "difficulty": "beginner",
+  "tags": ["aarti", "deity", "evening-prayer"],
+  "relatedContent": ["related-aarti-1", "related-aarti-2"],
+  "seo": {
+    "title": "Deity Aarti Lyrics in Hindi | Complete Aarti with Meaning",
+    "description": "Complete Deity Aarti with Hindi lyrics, English translation, and meaning. Learn the proper way to perform this beautiful aarti.",
+    "keywords": ["deity aarti", "hindi lyrics", "meaning", "devotional song"],
+    "ogImage": "https://example.com/aarti-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "aarti",
+      "title": "Complete Aarti",
+      "hindi": "आरती के हिंदी शब्द यहाँ लिखें\nपंक्ति १\nपंक्ति २\nपंक्ति ३",
+      "english": "English translation of the aarti lyrics\nLine 1\nLine 2\nLine 3",
+      "meaning": "Explanation of the aarti meaning and what it signifies spiritually.",
+      "audioUrl": "https://example.com/audio/deity-aarti.mp3",
+      "videoUrl": "https://example.com/video/deity-aarti"
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Detailed history of when and how this aarti originated. Explain its importance in Hindu tradition and how it has been passed down through generations.",
+      "origin": "Ancient India",
+      "composer": "Traditional/Unknown",
+      "timeline": "Centuries old"
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Performing This Aarti",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Spiritual benefit of performing this aarti"
+        },
+        {
+          "category": "mental",
+          "description": "Mental peace and clarity gained from this aarti"
+        },
+        {
+          "category": "material",
+          "description": "Material prosperity and success blessings"
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Detailed instructions on performing the aarti with proper procedure.",
+      "steps": [
+        "Light the diya with ghee or oil",
+        "Place flowers and prasad before the deity",
+        "Ring the bell while singing the aarti",
+        "Move the diya in circular motion",
+        "Conclude with pranam and distribution of prasad"
+      ],
+      "materials": ["Diya", "Ghee/Oil", "Cotton wick", "Flowers", "Prasad", "Bell", "Incense sticks"],
+      "bestTime": "Evening during sunset or after puja",
+      "duration": "5-7 minutes"
+    },
+    {
+      "type": "video",
+      "title": "Aarti Video Collection",
+      "videos": [
+        {
+          "title": "Complete Aarti with Lyrics",
+          "embedId": "video_id_1",
+          "description": "Watch the complete aarti with on-screen lyrics",
+          "thumbnailUrl": "https://example.com/thumb1.jpg"
+        },
+        {
+          "title": "Aarti with Meaning",
+          "embedId": "video_id_2",
+          "description": "Learn the meaning of each verse",
+          "thumbnailUrl": "https://example.com/thumb2.jpg"
+        }
+      ]
+    }
+  ]
+}

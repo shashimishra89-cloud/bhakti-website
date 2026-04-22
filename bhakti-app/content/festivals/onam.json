@@ -1,1 +1,120 @@
-{"id": "onam", "name": "Onam", "title": "Harvest Festival of Kerala", "description": "Onam is the most important festival of Kerala, celebrating the homecoming of the legendary King Mahabali. It's a ten-day harvest festival that showcases Kerala's rich cultural heritage through various traditional activities.", "duration": "10 days", "icon": "🐍", "significance": "Celebrates the homecoming of King Mahabali and the harvest season, symbolizing prosperity and equality.", "seo": {"description": "Complete guide to Onam festival with Onam Sadya, boat races, Kathakali, Pulikali, and traditional celebrations. Learn the significance of Kerala's harvest festival.", "keywords": ["onam", "kerala festival", "mahabali", "onam sadya", "snake boat race", "harvest festival", "kerala onam", "onam celebrations"]}, "sections": [{"type": "hero", "title": "Welcome to Onam", "content": "Onam is Kerala's most vibrant festival, celebrating the golden age of King Mahabali's reign and the abundance of the harvest season. It's a time when Kerala comes alive with colors, traditions, and joy."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Onam has ancient origins and is deeply rooted in Kerala's cultural and agricultural traditions. The festival celebrates the concept of equality and prosperity during King Mahabali's rule."}, {"type": "stories", "title": "Famous Stories", "content": "The legend of King Mahabali forms the heart of Onam celebrations.", "subsections": [{"title": "King Mahabali's Story", "content": "King Mahabali was a benevolent demon king who ruled Kerala with justice and equality. His growing power concerned the gods, who sent Lord Vishnu in his Vamana (dwarf) avatar to end his reign."}, {"title": "Vamana Avatar", "content": "Vishnu appeared as a dwarf Brahmin and asked Mahabali for three paces of land. When granted, Vamana grew to cosmic size, covering the universe in two steps and placing his third on Mahabali's head, pushing him to the netherworld."}]}, {"type": "celebration", "title": "How Onam is Celebrated", "content": "Onam celebrations span ten days with various traditional activities.", "subsections": [{"title": "Onam Sadya", "content": "The traditional Onam feast (Sadya) is served on banana leaves with over 26 dishes, including avial, thoran, olan, and payasam."}, {"title": "Snake Boat Races", "content": "Exciting snake boat races (Vallam Kali) are held in backwaters, with hundreds of rowers synchronizing their movements to traditional songs."}]}, {"type": "rituals", "title": "Rituals and Traditions", "content": "Onam rituals include traditional practices that have been passed down through generations.", "subsections": [{"title": "Pookalam", "content": "Colorful flower carpets (Pookalam) are created in front of houses for all ten days, growing in size and complexity each day."}, {"title": "Onathappan", "content": "Triangular clay figures representing Mahabali and Vamana are placed in the center of Pookalam as part of the worship."}]}, {"type": "food", "title": "Onam Special Foods", "content": "Onam Sadya is the highlight of the festival with its elaborate spread.", "subsections": [{"title": "Traditional Dishes", "content": "The Sadya includes dishes like Erissery, Avial, Thoran, Olan, Kalan, Pachadi, and various types of pickles and papad."}, {"title": "Desserts", "content": "Traditional desserts include Ada Pradhaman, Palada Payasam, and various types of Kheer prepared with coconut milk and jaggery."}]}, {"type": "bhajans", "title": "Onam Bhajans", "content": "Traditional songs sung during Onam celebrations.", "subsections": [{"title": "Maveli Nadu Vaneerum", "hindi": "मावेली नाडु वानीरुम\nजब जब आते पदपाली\nकानन दुःख दूर होया\nअंगमांग शोभा गोया", "english": "When Maveli's country rules\nWhenever feet come here\nForest sorrows disappear\nEvery limb shines with beauty", "meaning": "This traditional song welcomes King Mahabali and remembers his golden rule."}]}, {"type": "aartis", "title": "Onam Aartis", "content": "Traditional aartis performed during Onam celebrations.", "subsections": [{"title": "Mahabali Aarti", "hindi": "महाबली महाराजा की\nआरती हो गई भारी\nआओ आओ सब मिलकर\nकरें उत्सव त्यारी", "english": "Aarti of King Mahabali\nThe aarti has become grand\nCome come all together\nPrepare for the celebration", "meaning": "This aarti celebrates the homecoming of King Mahabali."}]}, {"type": "videos", "title": "Onam Videos", "content": "Watch these videos to learn more about Onam celebrations:", "videos": [{"title": "Complete Onam Celebration Guide", "embedId": "onam_celebration_2024", "description": "Complete guide to celebrating Onam festival"}, {"title": "Onam Sadya Preparation", "embedId": "onam_sadya", "description": "Learn to prepare traditional Onam Sadya"}]}]}
+{
+  "id": "onam",
+  "name": "Onam",
+  "title": "Harvest Festival of Kerala",
+  "description": "Onam is the most important festival of Kerala, celebrating the homecoming of the legendary King Mahabali. It's a ten-day harvest festival that showcases Kerala's rich cultural heritage through various traditional activities.",
+  "duration": "10 days",
+  "icon": "🐍",
+  "significance": "Celebrates the homecoming of King Mahabali and the harvest season, symbolizing prosperity and equality.",
+  "seo": {
+    "description": "Complete guide to Onam festival with Onam Sadya, boat races, Kathakali, Pulikali, and traditional celebrations. Learn the significance of Kerala's harvest festival.",
+    "keywords": [
+      "onam",
+      "kerala festival",
+      "mahabali",
+      "onam sadya",
+      "snake boat race",
+      "harvest festival",
+      "kerala onam",
+      "onam celebrations"
+    ],
+    "title": "Onam 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Onam",
+      "content": "Onam is Kerala's most vibrant festival, celebrating the golden age of King Mahabali's reign and the abundance of the harvest season. It's a time when Kerala comes alive with colors, traditions, and joy."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Onam has ancient origins and is deeply rooted in Kerala's cultural and agricultural traditions. The festival celebrates the concept of equality and prosperity during King Mahabali's rule."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "The legend of King Mahabali forms the heart of Onam celebrations.",
+      "summary": "The legend of King Mahabali forms the heart of Onam celebrations.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": []
+    },
+    {
+      "type": "info",
+      "title": "How Onam is Celebrated",
+      "content": "Onam celebrations span ten days with various traditional activities."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Traditions",
+      "content": "Onam rituals include traditional practices that have been passed down through generations.",
+      "steps": [
+        "Pookalam: Colorful flower carpets (Pookalam) are created in front of houses for all ten days, growing in size and complexity each day.",
+        "Onathappan: Triangular clay figures representing Mahabali and Vamana are placed in the center of Pookalam as part of the worship."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Onam rituals include traditional practices that have been passed down through generations."
+    },
+    {
+      "type": "info",
+      "title": "Onam Special Foods",
+      "content": "Onam Sadya is the highlight of the festival with its elaborate spread."
+    },
+    {
+      "type": "info",
+      "title": "Onam Bhajans",
+      "content": "Traditional songs sung during Onam celebrations. This is an essential part of the celebration that devotees observe with great reverence and joy."
+    },
+    {
+      "type": "info",
+      "title": "Onam Aartis",
+      "content": "Traditional aartis performed during Onam celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Onam Videos",
+      "content": "Watch these videos to learn more about Onam celebrations:",
+      "videos": [
+        {
+          "title": "Complete Onam Celebration Guide",
+          "embedId": "onam_celebration_2024",
+          "description": "Complete guide to celebrating Onam festival",
+          "thumbnailUrl": "https://img.youtube.com/vi/onam_celebration_2024/0.jpg"
+        },
+        {
+          "title": "Onam Sadya Preparation",
+          "embedId": "onam_sadya",
+          "description": "Learn to prepare traditional Onam Sadya",
+          "thumbnailUrl": "https://img.youtube.com/vi/onam_sadya/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-09-15",
+  "tithi": "Thiruvonam (Chingam)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-09-05"
+}

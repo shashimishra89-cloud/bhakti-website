@@ -1,1 +1,119 @@
-{"id": "raksha-bandhan", "name": "Raksha Bandhan", "title": "Bond of Protection - Rakhi", "description": "Raksha Bandhan is a beautiful Hindu festival celebrating the sacred bond between brothers and sisters. On this day, sisters tie a protective thread (rakhi) on their brothers' wrists, and brothers promise to protect their sisters.", "duration": "1 day", "icon": "👫", "significance": "Celebrates the eternal bond of love and protection between brothers and sisters, symbolizing the promise of safety and care.", "seo": {"description": "Complete guide to Raksha Bandhan festival with rituals, stories, rakhi designs, gifts, and celebrations. Learn the significance of the bond of protection.", "keywords": ["raksha bandhan", "rakhi", "brother sister festival", "bond of protection", "hindu festival", "raksha bandhan celebrations", "rakhi gifts"]}, "sections": [{"type": "hero", "title": "Welcome to Raksha Bandhan", "content": "Raksha Bandhan celebrates the beautiful and sacred relationship between brothers and sisters. This festival strengthens family bonds and reiterates the promise of protection and love."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Raksha Bandhan has ancient origins and is mentioned in various historical texts and mythological stories. The festival has been celebrated for centuries across India."}, {"type": "stories", "title": "Famous Stories", "content": "Raksha Bandhan is associated with several inspiring stories from Indian history and mythology.", "subsections": [{"title": "Draupadi and Krishna", "content": "When Krishna injured his finger, Draupadi immediately tore a piece of her sari and tied it around his finger. In return, Krishna promised to protect her always, fulfilling this promise during her disrobing in the Kaurava court."}, {"title": "Rani Karnavati and Humayun", "content": "When Rani Karnavati of Chittor was attacked by Bahadur Shah, she sent a rakhi to Mughal Emperor Humayun, seeking his protection. Humayun, respecting the sacred bond, came to her aid."}]}, {"type": "celebration", "title": "How Raksha Bandhan is Celebrated", "content": "Raksha Bandhan is celebrated with joy, gifts, and family gatherings.", "subsections": [{"title": "Rakhi Tying Ceremony", "content": "Sisters prepare a thali with rakhi, kumkum, rice grains, diya, and sweets. They perform aarti, apply tilak on their brothers' foreheads, and tie the rakhi."}, {"title": "Gift Exchange", "content": "Brothers give gifts to their sisters as a token of love and appreciation. Traditional gifts include clothes, jewelry, money, and sweets."}]}, {"type": "rituals", "title": "Rituals and Traditions", "content": "Raksha Bandhan rituals are simple yet meaningful.", "subsections": [{"title": "Preparation of Thali", "content": "Sisters prepare a decorative thali containing rakhi, roli, akshat (rice grains), diya, and sweets for the ceremony."}, {"title": "Tilak and Aarti", "content": "Sisters apply tilak on their brothers' foreheads, perform aarti, and chant prayers for their well-being and prosperity."}]}, {"type": "food", "title": "Raksha Bandhan Special Foods", "content": "Traditional sweets and dishes prepared for Raksha Bandhan.", "subsections": [{"title": "Traditional Sweets", "content": "Popular sweets include Ladoo, Barfi, Jalebi, and Kheer. These are prepared at home and shared with family."}, {"title": "Festival Meals", "content": "Special meals are prepared with favorite dishes of both brothers and sisters, celebrating family togetherness."}]}, {"type": "bhajans", "title": "Raksha Bandhan Bhajans", "content": "Devotional songs celebrating the brother-sister bond.", "subsections": [{"title": "Bhaiya Mere Rakhi Ke Bandhan", "hindi": "भैया मेरे राखी के बंधन को\nनिभाना तो आना पड़ेगा\nये बंधन अमर प्रेम का\nतोड़ना नहीं चाहिए", "english": "Brother, to fulfill this bond of rakhi\nYou will have to come\nThis bond of eternal love\nShould never be broken", "meaning": "This beautiful song expresses the emotional bond between brother and sister."}]}, {"type": "aartis", "title": "Raksha Bandhan Aartis", "content": "Traditional aartis performed during Raksha Bandhan.", "subsections": [{"title": "Rakhi Aarti", "hindi": "सुमन लाए बहना राखी के\nभाई के लिए भेजो दुआएं\nदीर्घायु हो भाई मेरा\nखुश रहे सदा भाई मेरा", "english": "Sister brings offerings for rakhi\nSend prayers for brother\nMay my brother live long\nMay my brother always be happy", "meaning": "This aarti expresses the sister's heartfelt prayers for her brother's well-being."}]}, {"type": "videos", "title": "Raksha Bandhan Videos", "content": "Watch these videos to learn more about Raksha Bandhan celebrations:", "videos": [{"title": "Raksha Bandhan Celebration Guide", "embedId": "rakhi_celebration_2024", "description": "Complete guide to celebrating Raksha Bandhan"}, {"title": "DIY Rakhi Making Tutorial", "embedId": "diy_rakhi", "description": "Learn to make beautiful rakhis at home"}]}]}
+{
+  "id": "raksha-bandhan",
+  "name": "Raksha Bandhan",
+  "title": "Bond of Protection - Rakhi",
+  "description": "Raksha Bandhan is a beautiful Hindu festival celebrating the sacred bond between brothers and sisters. On this day, sisters tie a protective thread (rakhi) on their brothers' wrists, and brothers promise to protect their sisters.",
+  "duration": "1 day",
+  "icon": "👫",
+  "significance": "Celebrates the eternal bond of love and protection between brothers and sisters, symbolizing the promise of safety and care.",
+  "seo": {
+    "description": "Complete guide to Raksha Bandhan festival with rituals, stories, rakhi designs, gifts, and celebrations. Learn the significance of the bond of protection.",
+    "keywords": [
+      "raksha bandhan",
+      "rakhi",
+      "brother sister festival",
+      "bond of protection",
+      "hindu festival",
+      "raksha bandhan celebrations",
+      "rakhi gifts"
+    ],
+    "title": "Raksha Bandhan 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Raksha Bandhan",
+      "content": "Raksha Bandhan celebrates the beautiful and sacred relationship between brothers and sisters. This festival strengthens family bonds and reiterates the promise of protection and love."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Raksha Bandhan has ancient origins and is mentioned in various historical texts and mythological stories. The festival has been celebrated for centuries across India."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Raksha Bandhan is associated with several inspiring stories from Indian history and mythology.",
+      "summary": "Raksha Bandhan is associated with several inspiring stories from Indian history and mythology.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": []
+    },
+    {
+      "type": "info",
+      "title": "How Raksha Bandhan is Celebrated",
+      "content": "Raksha Bandhan is celebrated with joy, gifts, and family gatherings."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Traditions",
+      "content": "Raksha Bandhan rituals are simple yet meaningful.",
+      "steps": [
+        "Preparation of Thali: Sisters prepare a decorative thali containing rakhi, roli, akshat (rice grains), diya, and sweets for the ceremony.",
+        "Tilak and Aarti: Sisters apply tilak on their brothers' foreheads, perform aarti, and chant prayers for their well-being and prosperity."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Raksha Bandhan rituals are simple yet meaningful."
+    },
+    {
+      "type": "info",
+      "title": "Raksha Bandhan Special Foods",
+      "content": "Traditional sweets and dishes prepared for Raksha Bandhan."
+    },
+    {
+      "type": "info",
+      "title": "Raksha Bandhan Bhajans",
+      "content": "Devotional songs celebrating the brother-sister bond."
+    },
+    {
+      "type": "info",
+      "title": "Raksha Bandhan Aartis",
+      "content": "Traditional aartis performed during Raksha Bandhan."
+    },
+    {
+      "type": "video",
+      "title": "Raksha Bandhan Videos",
+      "content": "Watch these videos to learn more about Raksha Bandhan celebrations:",
+      "videos": [
+        {
+          "title": "Raksha Bandhan Celebration Guide",
+          "embedId": "rakhi_celebration_2024",
+          "description": "Complete guide to celebrating Raksha Bandhan",
+          "thumbnailUrl": "https://img.youtube.com/vi/rakhi_celebration_2024/0.jpg"
+        },
+        {
+          "title": "DIY Rakhi Making Tutorial",
+          "embedId": "diy_rakhi",
+          "description": "Learn to make beautiful rakhis at home",
+          "thumbnailUrl": "https://img.youtube.com/vi/diy_rakhi/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-08-19",
+  "tithi": "Purnima (Shravana)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-08-09"
+}

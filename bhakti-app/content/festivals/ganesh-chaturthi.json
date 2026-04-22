@@ -1,1 +1,122 @@
-{"id": "ganesh-chaturthi", "name": "Ganesh Chaturthi", "title": "Festival of Lord Ganesha - Vinayaka Chaturthi", "description": "Ganesh Chaturthi is a vibrant Hindu festival celebrating the birth of Lord Ganesha, the elephant-headed deity known as the remover of obstacles and the patron of arts and sciences.", "duration": "11 days", "icon": "��", "significance": "Celebrates the birth of Lord Ganesha and seeks his blessings for new beginnings, wisdom, and the removal of obstacles.", "seo": {"description": "Complete guide to Ganesh Chaturthi festival with rituals, stories, bhajans, aartis, modak recipes, and celebrations. Learn the significance of Lord Ganesha's birth.", "keywords": ["ganesh chaturthi", "lord ganesha", "vinayaka chaturthi", "modak", "ganesh pooja", "hindu festival", "ganpati festival", "ganesh celebrations"]}, "sections": [{"type": "hero", "title": "Welcome to Ganesh Chaturthi", "content": "Ganesh Chaturthi is one of the most beloved Hindu festivals, celebrating the birth of Lord Ganesha, the remover of obstacles and the god of wisdom and prosperity."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Ganesh Chaturthi has been celebrated since ancient times, but gained widespread popularity during the Maratha rule under Chatrapati Shivaji Maharaj and later revived by Lokmanya Tilak during the freedom struggle."}, {"type": "stories", "title": "Famous Stories", "content": "The birth of Lord Ganesha is surrounded by fascinating stories that explain his unique appearance and significance.", "subsections": [{"title": "Birth of Ganesha", "content": "Goddess Parvati created Ganesha from the turmeric paste she used for her bath and breathed life into him. She asked him to guard the entrance while she bathed. When Lord Shiva returned and was stopped by Ganesha, who didn't recognize him, Shiva in anger cut off the boy's head."}, {"title": "Ganesha Gets Elephant Head", "content": "Seeing Parvati's grief, Shiva promised to replace the head with that of the first living being he found, which was an elephant. Thus, Ganesha got his elephant head and was blessed to be worshipped first before any other deity."}]}, {"type": "celebration", "title": "How Ganesh Chaturthi is Celebrated", "content": "Ganesh Chaturthi celebrations span 11 days with elaborate rituals and community gatherings.", "subsections": [{"title": "Installation of Idols", "content": "People bring clay idols of Lord Ganesha to their homes and install them with elaborate ceremonies. The idols are decorated with flowers, garlands, and traditional ornaments."}, {"title": "Daily Pooja and Aarti", "content": "For 11 days, devotees perform daily pooja and aarti, offering modak, durva (grass), and other favorite items of Lord Ganesha."}, {"title": "Visarjan (Immersion)", "content": "On the 11th day, the idols are immersed in water bodies with grand processions, chanting 'Ganpati Bappa Morya, Pudhachya Varshi Lavkar Ya' (Come again soon next year)."}]}, {"type": "rituals", "title": "Rituals and Pooja", "content": "Ganesh Chaturthi pooja involves specific rituals and offerings.", "subsections": [{"title": "Pranapratishtha", "content": "The ritual of invoking life into the idol is called Pranapratishtha. This is done by chanting mantras and offering various items to the deity."}, {"title": "Shodashopachara", "content": "This is a 16-step pooja that includes offering water, flowers, incense, food, and other items to Lord Ganesha while chanting specific mantras."}]}, {"type": "food", "title": "Ganesh Chaturthi Special Foods", "content": "Modak is Lord Ganesha's favorite sweet and is prepared in various forms.", "subsections": [{"title": "Modak Varieties", "content": "Popular modak varieties include Ukadiche Modak (steamed), Fried Modak, Chocolate Modak, and Mawa Modak. Each variety has a unique taste and preparation method."}, {"title": "Other Offerings", "content": "Other traditional offerings include Karanji, Ladoo, Pedha, and fruits like bananas and coconuts."}]}, {"type": "bhajans", "title": "Ganesh Chaturthi Bhajans", "content": "Devotional songs sung during Ganesh Chaturthi to honor Lord Ganesha.", "subsections": [{"title": "Sukh Karta Dukh Harta", "hindi": "सुख कर्ता दुःख हर्ता वार्ता विघ्नाची\nनुरवी पुरवी प्रेम कृपा जयाची\nसर्वांगी सुंदर उती शेंदुराची", "english": "Giver of happiness, remover of sorrows, destroyer of obstacles\nFulfill our desires with your love and grace\nBeautiful in every way, with the glow of vermillion", "meaning": "This popular Marathi bhajan praises Lord Ganesha as the one who brings joy and removes obstacles."}]}, {"type": "aartis", "title": "Ganesh Chaturthi Aartis", "content": "Traditional aartis performed during Ganesh Chaturthi celebrations.", "subsections": [{"title": "Jai Ganesh Jai Ganesh Deva", "hindi": "जय गणेश जय गणेश देवा\nमाता जाकी पार्वती पिता महादेवा\nएकदंत दयावंत चार भुजाधारी", "english": "Victory to Ganesha, victory to Lord Ganesha\nWhose mother is Parvati and father is Mahadeva\nOne-tusked, compassionate, bearer of four arms", "meaning": "This traditional aarti praises Lord Ganesha and his divine parents, seeking his blessings."}]}, {"type": "videos", "title": "Ganesh Chaturthi Videos", "content": "Watch these videos to learn more about Ganesh Chaturthi celebrations:", "videos": [{"title": "Complete Ganesh Chaturthi Pooja", "embedId": "ganesh_pooja_2024", "description": "Step-by-step guide for performing Ganesh Chaturthi pooja"}, {"title": "Modak Recipe Tutorial", "embedId": "modak_recipe", "description": "Learn to make traditional Modak at home"}]}]}
+{
+  "id": "ganesh-chaturthi",
+  "name": "Ganesh Chaturthi",
+  "title": "Festival of Lord Ganesha - Vinayaka Chaturthi",
+  "description": "Ganesh Chaturthi is a vibrant Hindu festival celebrating the birth of Lord Ganesha, the elephant-headed deity known as the remover of obstacles and the patron of arts and sciences.",
+  "duration": "11 days",
+  "icon": "��",
+  "significance": "Celebrates the birth of Lord Ganesha and seeks his blessings for new beginnings, wisdom, and the removal of obstacles.",
+  "seo": {
+    "description": "Complete guide to Ganesh Chaturthi festival with rituals, stories, bhajans, aartis, modak recipes, and celebrations. Learn the significance of Lord Ganesha's birth.",
+    "keywords": [
+      "ganesh chaturthi",
+      "lord ganesha",
+      "vinayaka chaturthi",
+      "modak",
+      "ganesh pooja",
+      "hindu festival",
+      "ganpati festival",
+      "ganesh celebrations"
+    ],
+    "title": "Ganesh Chaturthi 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Ganesh Chaturthi",
+      "content": "Ganesh Chaturthi is one of the most beloved Hindu festivals, celebrating the birth of Lord Ganesha, the remover of obstacles and the god of wisdom and prosperity."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Ganesh Chaturthi has been celebrated since ancient times, but gained widespread popularity during the Maratha rule under Chatrapati Shivaji Maharaj and later revived by Lokmanya Tilak during the freedom struggle."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "The birth of Lord Ganesha is surrounded by fascinating stories that explain his unique appearance and significance.",
+      "summary": "The birth of Lord Ganesha is surrounded by fascinating stories that explain his unique appearance and significance.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": [
+        "Ganesha"
+      ]
+    },
+    {
+      "type": "info",
+      "title": "How Ganesh Chaturthi is Celebrated",
+      "content": "Ganesh Chaturthi celebrations span 11 days with elaborate rituals and community gatherings."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Pooja",
+      "content": "Ganesh Chaturthi pooja involves specific rituals and offerings.",
+      "steps": [
+        "Pranapratishtha: The ritual of invoking life into the idol is called Pranapratishtha. This is done by chanting mantras and offering various items to the deity.",
+        "Shodashopachara: This is a 16-step pooja that includes offering water, flowers, incense, food, and other items to Lord Ganesha while chanting specific mantras."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Ganesh Chaturthi pooja involves specific rituals and offerings."
+    },
+    {
+      "type": "info",
+      "title": "Ganesh Chaturthi Special Foods",
+      "content": "Modak is Lord Ganesha's favorite sweet and is prepared in various forms."
+    },
+    {
+      "type": "info",
+      "title": "Ganesh Chaturthi Bhajans",
+      "content": "Devotional songs sung during Ganesh Chaturthi to honor Lord Ganesha."
+    },
+    {
+      "type": "info",
+      "title": "Ganesh Chaturthi Aartis",
+      "content": "Traditional aartis performed during Ganesh Chaturthi celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Ganesh Chaturthi Videos",
+      "content": "Watch these videos to learn more about Ganesh Chaturthi celebrations:",
+      "videos": [
+        {
+          "title": "Complete Ganesh Chaturthi Pooja",
+          "embedId": "ganesh_pooja_2024",
+          "description": "Step-by-step guide for performing Ganesh Chaturthi pooja",
+          "thumbnailUrl": "https://img.youtube.com/vi/ganesh_pooja_2024/0.jpg"
+        },
+        {
+          "title": "Modak Recipe Tutorial",
+          "embedId": "modak_recipe",
+          "description": "Learn to make traditional Modak at home",
+          "thumbnailUrl": "https://img.youtube.com/vi/modak_recipe/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-09-07",
+  "tithi": "Chaturthi (Bhadrapada)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-08-27"
+}

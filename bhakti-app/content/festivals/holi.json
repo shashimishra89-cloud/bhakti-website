@@ -1,1 +1,120 @@
-{"id": "holi", "name": "Holi", "title": "Festival of Colors - Rangwali Holi", "description": "Holi is a vibrant spring festival celebrating love, joy, and the triumph of good over evil. Known as the Festival of Colors, it marks the arrival of spring and the end of winter.", "duration": "2 days", "icon": "��", "significance": "Celebrates the divine love of Radha and Krishna, and commemorates the victory of devotee Prahlad over the demoness Holika.", "seo": {"description": "Complete guide to Holi festival with colors, rituals, stories, bhajans, recipes, and celebrations. Learn the significance of Festival of Colors.", "keywords": ["holi", "festival of colors", "radha krishna", "praahlad", "holika dahan", "hindu festival", "holi celebrations", "holi recipes"]}, "sections": [{"type": "hero", "title": "Welcome to Holi", "content": "Holi, the festival of colors, is one of the most joyous Hindu festivals celebrated with great enthusiasm across India and worldwide. This two-day festival signifies the arrival of spring and the victory of good over evil."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Holi has ancient origins and is mentioned in Hindu scriptures. The festival celebrates various divine events including the divine love of Radha and Krishna, and the victory of Prahlad over Holika."}, {"type": "stories", "title": "Famous Stories", "content": "Holi is associated with several important stories from Hindu mythology, each teaching valuable lessons about good triumphing over evil.", "subsections": [{"title": "Prahlad and Holika", "content": "The story of Holi begins with the demon king Hiranyakashipu, who wanted everyone to worship only him. However, his son Prahlad was a devoted follower of Lord Vishnu. Enraged, Hiranyakashipu asked his sister Holika, who had a boon to remain unburnt by fire, to sit in a pyre with Prahlad on her lap. However, because of Prahlad's devotion and Holika's evil intentions, she was burned while Prahlad remained safe."}, {"title": "Krishna and Radha's Love", "content": "Another beloved story is of young Krishna, who was self-conscious about his dark complexion compared to fair Radha. His mother Yashoda playfully suggested he could color Radha's face any color he wanted. Krishna took this advice and started the tradition of playing with colors during Holi."}]}, {"type": "celebration", "title": "How Holi is Celebrated", "content": "Holi celebrations span two days with different rituals and traditions.", "subsections": [{"title": "Day 1: Holika Dahan", "content": "The first evening is celebrated as Holika Dahan, where people gather to perform rituals around a bonfire. The bonfire symbolizes the burning of evil and the victory of good."}, {"title": "Day 2: Rangwali Holi", "content": "The second day is the main Holi celebration where people play with colors, water guns, and water balloons. Everyone dances, sings, and celebrates with joy and enthusiasm."}]}, {"type": "rituals", "title": "Rituals and Traditions", "content": "Holi is celebrated with various rituals that vary by region but share common themes of joy and celebration.", "subsections": [{"title": "Holika Dahan Ritual", "content": "People collect wood and other combustible materials for the bonfire. They perform rituals around the fire, offering prayers and seeking blessings for prosperity."}, {"title": "Playing with Colors", "content": "People apply dry colors (gulal) and wet colors on each other's faces. Water guns (pichkaris) and water balloons are used to splash colored water."}]}, {"type": "food", "title": "Holi Special Foods", "content": "Holi celebrations are incomplete without traditional sweets and drinks.", "subsections": [{"title": "Traditional Sweets", "content": "Popular Holi sweets include Gujiya, Mathri, Malpua, and Kheer. These sweets are prepared in advance and shared with friends and family."}, {"title": "Special Drinks", "content": "Bhang and Thandai are traditional Holi drinks. Bhang is made from cannabis leaves and is consumed during Holi celebrations."}]}, {"type": "bhajans", "title": "Holi Bhajans", "content": "Devotional songs sung during Holi to celebrate the divine love of Radha and Krishna.", "subsections": [{"title": "Holi Khele Raghuveera", "hindi": "होली खेले रघुवीरा अवध में\nहोली खेले रघुवीरा\nउड़त गुलाल लाल भयो अंबर\nखुशियों से भरा है यह समां", "english": "Raghuvira plays Holi in Ayodhya\nRaghuvira plays Holi\nFlying colors have made the sky red\nThis atmosphere is filled with joy", "meaning": "This bhajan celebrates Lord Rama playing Holi, representing joy and divine celebration."}]}, {"type": "aartis", "title": "Holi Aartis", "content": "Traditional aartis performed during Holi celebrations.", "subsections": [{"title": "Holi Aarti", "hindi": "होली आई रे, होली आई\nरंग बरसे नीले गगन से\nधरती हर्षाई", "english": "Holi has come, Holi has come\nColors rain from the blue sky\nThe earth rejoices", "meaning": "This aarti celebrates the arrival of Holi with great joy and colors."}]}, {"type": "videos", "title": "Holi Videos", "content": "Watch these videos to learn more about Holi celebrations:", "videos": [{"title": "Holi Celebration Guide", "embedId": "holi_celebration_2024", "description": "Complete guide to celebrating Holi safely and joyfully"}, {"title": "Mathura Vrindavan Holi", "embedId": "mathura_holi", "description": "Traditional Holi celebrations in the land of Krishna"}]}]}
+{
+  "id": "holi",
+  "name": "Holi",
+  "title": "Festival of Colors - Rangwali Holi",
+  "description": "Holi is a vibrant spring festival celebrating love, joy, and the triumph of good over evil. Known as the Festival of Colors, it marks the arrival of spring and the end of winter.",
+  "duration": "2 days",
+  "icon": "��",
+  "significance": "Celebrates the divine love of Radha and Krishna, and commemorates the victory of devotee Prahlad over the demoness Holika.",
+  "seo": {
+    "description": "Complete guide to Holi festival with colors, rituals, stories, bhajans, recipes, and celebrations. Learn the significance of Festival of Colors.",
+    "keywords": [
+      "holi",
+      "festival of colors",
+      "radha krishna",
+      "praahlad",
+      "holika dahan",
+      "hindu festival",
+      "holi celebrations",
+      "holi recipes"
+    ],
+    "title": "Holi 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Holi",
+      "content": "Holi, the festival of colors, is one of the most joyous Hindu festivals celebrated with great enthusiasm across India and worldwide. This two-day festival signifies the arrival of spring and the victory of good over evil."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Holi has ancient origins and is mentioned in Hindu scriptures. The festival celebrates various divine events including the divine love of Radha and Krishna, and the victory of Prahlad over Holika."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Holi is associated with several important stories from Hindu mythology, each teaching valuable lessons about good triumphing over evil.",
+      "summary": "Holi is associated with several important stories from Hindu mythology, each teaching valuable lessons about good triumphing over evil.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": []
+    },
+    {
+      "type": "info",
+      "title": "How Holi is Celebrated",
+      "content": "Holi celebrations span two days with different rituals and traditions."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Traditions",
+      "content": "Holi is celebrated with various rituals that vary by region but share common themes of joy and celebration.",
+      "steps": [
+        "Holika Dahan Ritual: People collect wood and other combustible materials for the bonfire. They perform rituals around the fire, offering prayers and seeking blessings for prosperity.",
+        "Playing with Colors: People apply dry colors (gulal) and wet colors on each other's faces. Water guns (pichkaris) and water balloons are used to splash colored water."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Holi is celebrated with various rituals that vary by region but share common themes of joy and celebration."
+    },
+    {
+      "type": "info",
+      "title": "Holi Special Foods",
+      "content": "Holi celebrations are incomplete without traditional sweets and drinks."
+    },
+    {
+      "type": "info",
+      "title": "Holi Bhajans",
+      "content": "Devotional songs sung during Holi to celebrate the divine love of Radha and Krishna."
+    },
+    {
+      "type": "info",
+      "title": "Holi Aartis",
+      "content": "Traditional aartis performed during Holi celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Holi Videos",
+      "content": "Watch these videos to learn more about Holi celebrations:",
+      "videos": [
+        {
+          "title": "Holi Celebration Guide",
+          "embedId": "holi_celebration_2024",
+          "description": "Complete guide to celebrating Holi safely and joyfully",
+          "thumbnailUrl": "https://img.youtube.com/vi/holi_celebration_2024/0.jpg"
+        },
+        {
+          "title": "Mathura Vrindavan Holi",
+          "embedId": "mathura_holi",
+          "description": "Traditional Holi celebrations in the land of Krishna",
+          "thumbnailUrl": "https://img.youtube.com/vi/mathura_holi/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-03-25",
+  "tithi": "Purnima (Phalguna)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-03-14"
+}

@@ -1,1 +1,122 @@
-{"id": "krishna-janmashtami", "name": "Krishna Janmashtami", "title": "Birth of Lord Krishna - Gokulashtami", "description": "Krishna Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Lord Vishnu. This joyous festival commemorates the divine incarnation who taught the world about dharma, love, and devotion.", "duration": "2 days", "icon": "🦚", "significance": "Celebrates the birth of Lord Krishna, who came to earth to establish dharma and guide humanity towards righteousness and spiritual awakening.", "seo": {"description": "Complete guide to Krishna Janmashtami festival with rituals, stories, bhajans, aartis, recipes, and celebrations. Learn the significance of Lord Krishna's birth.", "keywords": ["krishna janmashtami", "lord krishna", "gokulashtami", "janmashtami", "dahi handi", "hindu festival", "krishna celebrations", "krishna bhajans"]}, "sections": [{"type": "hero", "title": "Welcome to Krishna Janmashtami", "content": "Krishna Janmashtami is one of the most joyous Hindu festivals, celebrating the birth of Lord Krishna, the supreme personality of Godhead who descended to earth to establish dharma."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Krishna Janmashtami has been celebrated for thousands of years and finds mention in various Hindu scriptures including the Bhagavata Purana and Mahabharata. The festival marks the divine descent of Lord Krishna."}, {"type": "stories", "title": "Famous Stories", "content": "The birth and childhood of Lord Krishna are filled with divine stories that teach profound spiritual truths.", "subsections": [{"title": "The Birth of Krishna", "content": "Lord Krishna was born in a prison cell in Mathura to Devaki and Vasudeva. His cruel uncle, King Kansa, had imprisoned them after a prophecy foretold that Devaki's eighth son would be his killer."}, {"title": "Miraculous Escape", "content": "On the night of Krishna's birth, the prison doors opened automatically and the guards fell asleep. Vasudeva carried the baby across the Yamuna River to Gokul, where he was exchanged for a baby girl and raised by Yashoda and Nanda."}]}, {"type": "celebration", "title": "How Janmashtami is Celebrated", "content": "Janmashtami celebrations include fasting, midnight prayers, and joyous festivities.", "subsections": [{"title": "Midnight Celebrations", "content": "Devotees fast until midnight, which is believed to be the time of Krishna's birth. Temples are decorated, and special prayers are conducted at midnight."}, {"title": "Dahi Handi", "content": "The next day, Dahi Handi is celebrated, especially in Maharashtra. Young men form human pyramids to break a pot of butter (dahi) hung at a height, symbolizing Krishna's love for butter."}]}, {"type": "rituals", "title": "Rituals and Pooja", "content": "Janmashtami rituals include elaborate pooja ceremonies and traditional practices.", "subsections": [{"title": "Abhishekam", "content": "The idol of baby Krishna is given a ceremonial bath (abhishekam) with milk, curd, honey, and ghee while chanting Vedic mantras."}, {"title": "Jhulan Seva", "content": "Devotees decorate a swing (jhula) and place the idol of Krishna on it, singing bhajans and gently swinging the deity as a sign of love and devotion."}]}, {"type": "food", "title": "Janmashtami Special Foods", "content": "Traditional foods prepared for Janmashtami reflect Krishna's favorite delicacies.", "subsections": [{"title": "Krishna's Favorites", "content": "Makhan Mishri (butter with sugar crystals), Kheer, Malpua, and Panchamrit are Krishna's favorite foods and are offered as prasad."}, {"title": "Traditional Sweets", "content": "Other popular sweets include Ladoo, Barfi, and Kalakand. These are distributed among devotees as blessed prasad."}]}, {"type": "bhajans", "title": "Janmashtami Bhajans", "content": "Devotional songs sung during Janmashtami to honor Lord Krishna.", "subsections": [{"title": "Achyutam Keshavam", "hindi": "अच्युतम् केशवम् राम नारायणम्\nकृष्ण दामोदरम् वासुदेवम् हरिम्\nश्रीधरम् माधवम् गोपिका वल्लभम्", "english": "Achyutam Keshavam Ram Narayanam\nKrishna Damodaram Vasudevam Harim\nShridharam Madhavam Gopika Vallabham", "meaning": "This beautiful bhajan praises Lord Krishna by his various names, invoking his divine presence."}]}, {"type": "aartis", "title": "Janmashtami Aartis", "content": "Traditional aartis performed during Janmashtami celebrations.", "subsections": [{"title": "Aarti Kunj Bihari Ki", "hindi": "आरती कुंज बिहारी की, श्री गिरिधर कृष्ण मुरारी की\nआरती कुंज बिहारी की", "english": "Aarti of Kunj Bihari, Shri Giridhar Krishna Murari\nAarti of Kunj Bihari", "meaning": "This aarti glorifies Lord Krishna as the one who wanders through the gardens of Vrindavan."}]}, {"type": "videos", "title": "Janmashtami Videos", "content": "Watch these videos to learn more about Janmashtami celebrations:", "videos": [{"title": "Complete Janmashtami Pooja Guide", "embedId": "janmashtami_pooja_2024", "description": "Step-by-step guide for performing Janmashtami pooja"}, {"title": "Dahi Handi Celebration", "embedId": "dahi_handi_2024", "description": "Exciting Dahi Handi celebrations from Maharashtra"}]}]}
+{
+  "id": "krishna-janmashtami",
+  "name": "Krishna Janmashtami",
+  "title": "Birth of Lord Krishna - Gokulashtami",
+  "description": "Krishna Janmashtami celebrates the birth of Lord Krishna, the eighth avatar of Lord Vishnu. This joyous festival commemorates the divine incarnation who taught the world about dharma, love, and devotion.",
+  "duration": "2 days",
+  "icon": "🦚",
+  "significance": "Celebrates the birth of Lord Krishna, who came to earth to establish dharma and guide humanity towards righteousness and spiritual awakening.",
+  "seo": {
+    "description": "Complete guide to Krishna Janmashtami festival with rituals, stories, bhajans, aartis, recipes, and celebrations. Learn the significance of Lord Krishna's birth.",
+    "keywords": [
+      "krishna janmashtami",
+      "lord krishna",
+      "gokulashtami",
+      "janmashtami",
+      "dahi handi",
+      "hindu festival",
+      "krishna celebrations",
+      "krishna bhajans"
+    ],
+    "title": "Krishna Janmashtami 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Krishna Janmashtami",
+      "content": "Krishna Janmashtami is one of the most joyous Hindu festivals, celebrating the birth of Lord Krishna, the supreme personality of Godhead who descended to earth to establish dharma."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Krishna Janmashtami has been celebrated for thousands of years and finds mention in various Hindu scriptures including the Bhagavata Purana and Mahabharata. The festival marks the divine descent of Lord Krishna."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "The birth and childhood of Lord Krishna are filled with divine stories that teach profound spiritual truths.",
+      "summary": "The birth and childhood of Lord Krishna are filled with divine stories that teach profound spiritual truths.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": [
+        "Krishna"
+      ]
+    },
+    {
+      "type": "info",
+      "title": "How Janmashtami is Celebrated",
+      "content": "Janmashtami celebrations include fasting, midnight prayers, and joyous festivities."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Pooja",
+      "content": "Janmashtami rituals include elaborate pooja ceremonies and traditional practices.",
+      "steps": [
+        "Abhishekam: The idol of baby Krishna is given a ceremonial bath (abhishekam) with milk, curd, honey, and ghee while chanting Vedic mantras.",
+        "Jhulan Seva: Devotees decorate a swing (jhula) and place the idol of Krishna on it, singing bhajans and gently swinging the deity as a sign of love and devotion."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Janmashtami rituals include elaborate pooja ceremonies and traditional practices."
+    },
+    {
+      "type": "info",
+      "title": "Janmashtami Special Foods",
+      "content": "Traditional foods prepared for Janmashtami reflect Krishna's favorite delicacies."
+    },
+    {
+      "type": "info",
+      "title": "Janmashtami Bhajans",
+      "content": "Devotional songs sung during Janmashtami to honor Lord Krishna."
+    },
+    {
+      "type": "info",
+      "title": "Janmashtami Aartis",
+      "content": "Traditional aartis performed during Janmashtami celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Janmashtami Videos",
+      "content": "Watch these videos to learn more about Janmashtami celebrations:",
+      "videos": [
+        {
+          "title": "Complete Janmashtami Pooja Guide",
+          "embedId": "janmashtami_pooja_2024",
+          "description": "Step-by-step guide for performing Janmashtami pooja",
+          "thumbnailUrl": "https://img.youtube.com/vi/janmashtami_pooja_2024/0.jpg"
+        },
+        {
+          "title": "Dahi Handi Celebration",
+          "embedId": "dahi_handi_2024",
+          "description": "Exciting Dahi Handi celebrations from Maharashtra",
+          "thumbnailUrl": "https://img.youtube.com/vi/dahi_handi_2024/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-08-26",
+  "tithi": "Ashtami (Bhadrapada)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-08-16"
+}

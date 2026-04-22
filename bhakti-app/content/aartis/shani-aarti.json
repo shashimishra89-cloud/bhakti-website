@@ -1,1 +1,93 @@
-{"id": "shani-aarti", "name": "Shani Aarti", "title": "Shani Dev Aarti", "description": "A powerful aarti dedicated to Lord Shani (Saturn), the deity of justice and karma who rewards or punishes based on one's deeds. This aarti is performed to seek his blessings and mitigate negative effects.", "duration": "5 minutes", "icon": "🪐", "deity": "Lord Shani (Saturn)", "significance": "Invokes Lord Shani's blessings for justice, discipline, success through hard work, and protection from misfortune.", "seo": {"description": "Complete Shani Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Shani aarti.", "keywords": ["shani aarti", "lord shani", "saturn deity", "shani dev", "justice karma", "saturday aarti", "shani shingnapur"]}, "sections": [{"type": "hero", "title": "Lord Shani Aarti", "content": "The Shani Aarti is a powerful devotional hymn that praises Lord Shani, the supreme dispenser of justice who governs karma and rewards based on one's deeds."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries by devotees seeking Shani's blessings. It is especially significant on Saturdays, the day sacred to Lord Shani."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Shani Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "जय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nकाला वस्त्र धारी\nकाले घोड़े पर सवारी\nनीले गण संग धारी\nदेवों के स्वामी\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nकर्म फल दाता\nन्याय का पालन करता\nभक्तों का रखवारा\nदुष्टों का नाश करता\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nशनि शिंगनापुर वासी\nसबके दुःख हरते आसी\nजो भी तुमको ध्यावे\nतारा कष्ट से बचावे\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज", "english": "Victory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nWearing black clothes\nRiding on a black horse\nAccompanied by dark ganas\nLord of the gods\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nGiver of karma fruits\nMaintainer of justice\nProtector of devotees\nDestroyer of the wicked\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nResident of Shani Shingnapur\nRemoves everyone's sorrows\nWhoever meditates on you\nYou save them from troubles\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj", "meaning": "This aarti praises Lord Shani as the supreme dispenser of justice who protects devotees and destroys evil."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Shani Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, black sesame seeds, mustard oil, and flowers. Place Shani idol or picture facing west."}, {"title": "Aarti Procedure", "content": "Offer black sesame seeds and mustard oil, light the diya, and perform the aarti with devotion while chanting 'Om Sham Shanicharaya Namah'."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Shani Aarti.", "subsections": [{"title": "Justice and Karma", "content": "The aarti helps in accepting the laws of karma and understanding divine justice."}, {"title": "Discipline and Success", "content": "Regular performance of this aarti brings discipline, hard work, and success through righteous means."}]}, {"type": "videos", "title": "Shani Aarti Videos", "content": "Watch these videos to learn the proper way to perform Shani Aarti:", "videos": [{"title": "Complete Shani Aarti with Pronunciation", "embedId": "shani_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Saturday Shani Aarti Special", "embedId": "shani_saturday_aarti", "description": "Traditional Shani Aarti performed on Saturdays"}]}]}
+{
+  "id": "shani-aarti",
+  "name": "Shani Aarti",
+  "title": "Shani Dev Aarti",
+  "description": "A powerful aarti dedicated to Lord Shani (Saturn), the deity of justice and karma who rewards or punishes based on one's deeds. This aarti is performed to seek his blessings and mitigate negative effects.",
+  "duration": "5 minutes",
+  "icon": "🪐",
+  "deity": "Lord Shani (Saturn)",
+  "significance": "Invokes Lord Shani's blessings for justice, discipline, success through hard work, and protection from misfortune.",
+  "seo": {
+    "description": "Complete Shani Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Shani aarti.",
+    "keywords": [
+      "shani aarti",
+      "lord shani",
+      "saturn deity",
+      "shani dev",
+      "justice karma",
+      "saturday aarti",
+      "shani shingnapur"
+    ],
+    "title": "Shani Aarti | Shani (Saturn) Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Shani Aarti",
+      "content": "The Shani Aarti is a powerful devotional hymn that praises Lord Shani, the supreme dispenser of justice who governs karma and rewards based on one's deeds."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries by devotees seeking Shani's blessings. It is especially significant on Saturdays, the day sacred to Lord Shani."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Shani Aarti in Hindi with English translation.",
+      "hindi": "जय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nकाला वस्त्र धारी\nकाले घोड़े पर सवारी\nनीले गण संग धारी\nदेवों के स्वामी\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nकर्म फल दाता\nन्याय का पालन करता\nभक्तों का रखवारा\nदुष्टों का नाश करता\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज\n\nशनि शिंगनापुर वासी\nसबके दुःख हरते आसी\nजो भी तुमको ध्यावे\nतारा कष्ट से बचावे\n\nजय जय जय शनिदेव महाराज\nजय जय जय शनिदेव महाराज",
+      "english": "Victory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nWearing black clothes\nRiding on a black horse\nAccompanied by dark ganas\nLord of the gods\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nGiver of karma fruits\nMaintainer of justice\nProtector of devotees\nDestroyer of the wicked\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj\n\nResident of Shani Shingnapur\nRemoves everyone's sorrows\nWhoever meditates on you\nYou save them from troubles\n\nVictory, victory, victory to Lord Shani Maharaj\nVictory, victory, victory to Lord Shani Maharaj",
+      "meaning": "This aarti praises Lord Shani as the supreme dispenser of justice who protects devotees and destroys evil."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Shani Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, black sesame seeds, mustard oil, and flowers. Place Shani idol or picture facing west.",
+        "Aarti Procedure: Offer black sesame seeds and mustard oil, light the diya, and perform the aarti with devotion while chanting 'Om Sham Shanicharaya Namah'."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Shani Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Shani Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Shani Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Shani Aarti:",
+      "videos": [
+        {
+          "title": "Complete Shani Aarti with Pronunciation",
+          "embedId": "shani_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/shani_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Saturday Shani Aarti Special",
+          "embedId": "shani_saturday_aarti",
+          "description": "Traditional Shani Aarti performed on Saturdays",
+          "thumbnailUrl": "https://img.youtube.com/vi/shani_saturday_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "shani (saturn)"
+  ],
+  "relatedContent": []
+}

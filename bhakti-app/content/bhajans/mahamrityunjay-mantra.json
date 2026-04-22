@@ -1,1 +1,103 @@
-{"id": "mahamrityunjay-mantra", "name": "Mahamrityunjay Mantra", "title": "The Great Death-Conquering Mantra", "description": "The Mahamrityunjay Mantra is one of the most powerful mantras dedicated to Lord Shiva, believed to conquer death and provide immortality. It is mentioned in the Rig Veda and is considered a life-saving mantra.", "duration": "5 minutes", "icon": "💀", "deity": "Lord Shiva", "significance": "Provides protection from death, removes fear of death, brings longevity, and provides spiritual liberation.", "seo": {"description": "Complete Mahamrityunjay Mantra with lyrics, meaning, and benefits. Learn the proper way to chant this powerful Shiva mantra.", "keywords": ["mahamrityunjay mantra", "lord shiva", "death conquering", "immortality mantra", "rig veda", "life saving", "shiva mantra"]}, "sections": [{"type": "hero", "title": "Mahamrityunjay Mantra", "content": "The Mahamrityunjay Mantra is the most powerful mantra dedicated to Lord Shiva, known as the death-conquering mantra. It is believed to provide protection from untimely death and grant longevity."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This mantra appears in the Rig Veda (7.59.12) and is also found in the Yajur Veda. It was revealed to the sage Shukracharya and has been used for healing and protection for thousands of years."}, {"type": "lyrics", "title": "Complete Mantra with Meaning", "content": "The complete Mahamrityunjay Mantra with detailed explanation.", "subsections": [{"title": "Mantra Lyrics", "hindi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्॥", "english": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat॥", "meaning": "We worship the three-eyed Lord Shiva, who is fragrant and nourishes all beings. May He free us from death, for the sake of immortality, just as the cucumber is freed from its vine."}, {"title": "Word by Word Meaning", "hindi": "ॐ - प्रणव (ईश्वर)\nत्र्यम्बकम् - तीन आंखों वाला (शिव)\nयजामहे - हम पूजा करते हैं\nसुगन्धिम् - सुगंधित, सुगंध\nपुष्टिवर्धनम् - पोषण और वृद्धि करने वाला\nउर्वारुकम् - कद्दू (जो आसानी से तोड़ा जाता है)\nइव - की तरह\nबन्धनात् - बंधन से\nमृत्योः - मृत्यु से\nमुक्षीय - मुक्त हो\nमा - नहीं\nअमृतात् - अमरता से", "english": "Om - Pranava (God)\nTryambakam - Three-eyed (Shiva)\nYajamahe - We worship\nSugandhim - Fragrant\nPushtivardhanam - Nourishing and strengthening\nUrvarukam - Cucumber (easily detached)\nIva - Like\nBandhanat - From bondage\nMrityoh - From death\nMukshiya - Be freed\nMa - Not\nAmritat - From immortality", "meaning": "The mantra uses the metaphor of a cucumber easily detaching from its vine to pray for liberation from the cycle of death and rebirth."}]}, {"type": "benefits", "title": "Benefits of Chanting Mahamrityunjay Mantra", "content": "The spiritual and practical benefits of regular chanting.", "subsections": [{"title": "Spiritual Benefits", "content": "Provides protection from untimely death, removes fear of death, brings spiritual liberation, and connects with Shiva consciousness."}, {"title": "Material Benefits", "content": "Improves health, provides healing from diseases, brings longevity, removes obstacles, and provides mental peace."}]}, {"type": "rituals", "title": "How to Chant", "content": "Proper method and guidelines for chanting Mahamrityunjay Mantra.", "subsections": [{"title": "Best Time", "content": "Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during eclipses and difficult times."}, {"title": "Procedure", "content": "Sit facing north, light a diya, offer water and bilva leaves, then chant 108 times with devotion and concentration."}]}, {"type": "videos", "title": "Mahamrityunjay Mantra Videos", "content": "Watch these videos to learn the proper way to chant Mahamrityunjay Mantra:", "videos": [{"title": "Complete Mahamrityunjay Mantra with Pronunciation", "embedId": "mahamrityunjay_complete", "description": "Full mantra with correct pronunciation and meaning"}, {"title": "Mahamrityunjay Mantra - Healing Benefits", "embedId": "mahamrityunjay_healing", "description": "Detailed explanation of healing properties and benefits"}]}]}
+{
+  "id": "mahamrityunjay-mantra",
+  "name": "Mahamrityunjay Mantra",
+  "title": "The Great Death-Conquering Mantra",
+  "description": "The Mahamrityunjay Mantra is one of the most powerful mantras dedicated to Lord Shiva, believed to conquer death and provide immortality. It is mentioned in the Rig Veda and is considered a life-saving mantra.",
+  "duration": "5 minutes",
+  "icon": "💀",
+  "deity": "Lord Shiva",
+  "significance": "Provides protection from death, removes fear of death, brings longevity, and provides spiritual liberation.",
+  "seo": {
+    "description": "Complete Mahamrityunjay Mantra with lyrics, meaning, and benefits. Learn the proper way to chant this powerful Shiva mantra.",
+    "keywords": [
+      "mahamrityunjay mantra",
+      "lord shiva",
+      "death conquering",
+      "immortality mantra",
+      "rig veda",
+      "life saving",
+      "shiva mantra"
+    ],
+    "title": "Mahamrityunjay Mantra | Shiva Bhajan with Lyrics"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Mahamrityunjay Mantra",
+      "content": "The Mahamrityunjay Mantra is the most powerful mantra dedicated to Lord Shiva, known as the death-conquering mantra. It is believed to provide protection from untimely death and grant longevity."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This mantra appears in the Rig Veda (7.59.12) and is also found in the Yajur Veda. It was revealed to the sage Shukracharya and has been used for healing and protection for thousands of years."
+    },
+    {
+      "type": "bhajan",
+      "title": "Complete Mantra with Meaning",
+      "content": "The complete Mahamrityunjay Mantra with detailed explanation.",
+      "hindi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्\nउर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय माऽमृतात्॥",
+      "english": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam\nUrvarukamiva Bandhanan Mrityor Mukshiya Maamritat॥",
+      "meaning": "We worship the three-eyed Lord Shiva, who is fragrant and nourishes all beings. May He free us from death, for the sake of immortality, just as the cucumber is freed from its vine."
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Chanting Mahamrityunjay Mantra",
+      "content": "The spiritual and practical benefits of regular chanting.",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Provides protection from untimely death, removes fear of death, brings spiritual liberation, and connects with Shiva consciousness."
+        },
+        {
+          "category": "material",
+          "description": "Improves health, provides healing from diseases, brings longevity, removes obstacles, and provides mental peace."
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Chant",
+      "content": "Proper method and guidelines for chanting Mahamrityunjay Mantra.",
+      "steps": [
+        "Best Time: Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during eclipses and difficult times.",
+        "Procedure: Sit facing north, light a diya, offer water and bilva leaves, then chant 108 times with devotion and concentration."
+      ],
+      "bestTime": "Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during eclipses and difficult times.",
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "duration": "Proper method and guidelines for chanting Mahamrityunjay Mantra."
+    },
+    {
+      "type": "video",
+      "title": "Mahamrityunjay Mantra Videos",
+      "content": "Watch these videos to learn the proper way to chant Mahamrityunjay Mantra:",
+      "videos": [
+        {
+          "title": "Complete Mahamrityunjay Mantra with Pronunciation",
+          "embedId": "mahamrityunjay_complete",
+          "description": "Full mantra with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/mahamrityunjay_complete/0.jpg"
+        },
+        {
+          "title": "Mahamrityunjay Mantra - Healing Benefits",
+          "embedId": "mahamrityunjay_healing",
+          "description": "Detailed explanation of healing properties and benefits",
+          "thumbnailUrl": "https://img.youtube.com/vi/mahamrityunjay_healing/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "bhajan",
+  "color": "from-blue-400 to-indigo-500",
+  "subtitle": "Melodious devotional song",
+  "difficulty": "beginner",
+  "tags": [
+    "bhajan",
+    "shiva"
+  ],
+  "relatedContent": []
+}

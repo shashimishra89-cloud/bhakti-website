@@ -1,1 +1,122 @@
-{"id": "navratri", "name": "Navratri", "title": "Nine Nights of the Goddess - Durga Puja", "description": "Navratri is a nine-day festival dedicated to the worship of Goddess Durga and her nine divine forms (Navadurga). It celebrates the divine feminine power and the victory of good over evil.", "duration": "9 nights, 10 days", "icon": "🌙", "significance": "Honors the nine forms of Goddess Durga and celebrates her victory over the buffalo demon Mahishasura.", "seo": {"description": "Complete guide to Navratri festival with Garba, Dandiya, rituals, stories, bhajans, and celebrations. Learn the significance of Nine Nights of Goddess.", "keywords": ["navratri", "durga puja", "garba", "dandiya", "navadurga", "goddess durga", "hindu festival", "navratri celebrations"]}, "sections": [{"type": "hero", "title": "Welcome to Navratri", "content": "Navratri, meaning 'nine nights', is one of the most significant Hindu festivals dedicated to Goddess Durga. This festival celebrates the divine feminine power and the victory of good over evil."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Navratri has been celebrated for centuries and finds mention in ancient Hindu texts. The festival commemorates the victory of Goddess Durga over the buffalo demon Mahishasura, symbolizing the triumph of good over evil."}, {"type": "stories", "title": "Famous Stories", "content": "Navratri is associated with powerful stories of Goddess Durga and her various forms.", "subsections": [{"title": "Mahishasura and Durga", "content": "The central story of Navratri is the battle between Goddess Durga and the powerful demon Mahishasura. He had been granted a boon that he could not be killed by any man or god. To defeat him, the gods combined their divine powers to create Goddess Durga, who fought Mahishasura for nine days and nights."}, {"title": "The Nine Forms of Durga", "content": "During Navratri, nine different forms of Goddess Durga are worshipped: Shailaputri, Brahmacharini, Chandraghanta, Kushmanda, Skandamata, Katyayani, Kalaratri, Mahagauri, and Siddhidatri."}]}, {"type": "celebration", "title": "How Navratri is Celebrated", "content": "Navratri celebrations include fasting, dancing, and elaborate rituals.", "subsections": [{"title": "Garba and Dandiya", "content": "In Gujarat and other parts of India, people perform Garba and Dandiya Raas dances. These are traditional folk dances performed in circles with colorful costumes and music."}, {"title": "Fasting and Prayers", "content": "Many devotees observe fasts during Navratri, consuming only specific foods. They perform daily prayers and worship different forms of Goddess Durga each day."}]}, {"type": "rituals", "title": "Rituals and Pooja", "content": "Navratri rituals include elaborate pooja ceremonies and traditional practices.", "subsections": [{"title": "Kalash Sthapana", "content": "The festival begins with Kalash Sthapana, where a pot (kalash) is installed and worshipped as a symbol of the universe and divine energy."}, {"title": "Daily Pooja", "content": "Each day, a specific form of Goddess Durga is worshipped with flowers, fruits, and special offerings. Devotees chant mantras and perform aarti."}]}, {"type": "food", "title": "Navratri Special Foods", "content": "Special fasting foods are prepared during Navratri.", "subsections": [{"title": "Fasting Foods", "content": "Popular Navratri fasting foods include Sabudana Khichdi, Kuttu Ki Puri, Singhade Ka Halwa, and fruits. These foods are prepared without onion and garlic."}, {"title": "Traditional Sweets", "content": "Special sweets like Malpua, Kheer, and Coconut Laddu are prepared as offerings to Goddess Durga."}]}, {"type": "bhajans", "title": "Navratri Bhajans", "content": "Devotional songs sung during Navratri to honor Goddess Durga.", "subsections": [{"title": "Hey Ma Durge", "hindi": "हे मां दुर्गे सुख करनी\nतेरे बिना कौन सहारा\nजग जननी जग की तारा", "english": "O Mother Durga, giver of happiness\nWho is our support without you\nMother of the world, star of the world", "meaning": "This bhajan honors Goddess Durga as the supreme divine mother and protector."}]}, {"type": "aartis", "title": "Navratri Aartis", "content": "Traditional aartis performed during Navratri celebrations.", "subsections": [{"title": "Jai Ambe Gauri", "hindi": "जय अम्बे गौरी, मैया जय श्यामा गौरी\nतुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी", "english": "Jai Ambe Gauri, Mother Jai Shyama Gauri\nDay and night meditate on you, Hari Brahma and Shiva", "meaning": "This is the traditional aarti of Goddess Durga, describing her divine beauty and attributes."}]}, {"type": "videos", "title": "Navratri Videos", "content": "Watch these videos to learn more about Navratri celebrations:", "videos": [{"title": "Complete Navratri Pooja Guide", "embedId": "navratri_pooja_2024", "description": "Step-by-step guide for performing Navratri pooja"}, {"title": "Garba Dandiya Dance Tutorial", "embedId": "garba_tutorial", "description": "Learn traditional Garba and Dandiya dance steps"}]}]}
+{
+  "id": "navratri",
+  "name": "Navratri",
+  "title": "Nine Nights of the Goddess - Durga Puja",
+  "description": "Navratri is a nine-day festival dedicated to the worship of Goddess Durga and her nine divine forms (Navadurga). It celebrates the divine feminine power and the victory of good over evil.",
+  "duration": "9 nights, 10 days",
+  "icon": "🌙",
+  "significance": "Honors the nine forms of Goddess Durga and celebrates her victory over the buffalo demon Mahishasura.",
+  "seo": {
+    "description": "Complete guide to Navratri festival with Garba, Dandiya, rituals, stories, bhajans, and celebrations. Learn the significance of Nine Nights of Goddess.",
+    "keywords": [
+      "navratri",
+      "durga puja",
+      "garba",
+      "dandiya",
+      "navadurga",
+      "goddess durga",
+      "hindu festival",
+      "navratri celebrations"
+    ],
+    "title": "Navratri 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Navratri",
+      "content": "Navratri, meaning 'nine nights', is one of the most significant Hindu festivals dedicated to Goddess Durga. This festival celebrates the divine feminine power and the victory of good over evil."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Navratri has been celebrated for centuries and finds mention in ancient Hindu texts. The festival commemorates the victory of Goddess Durga over the buffalo demon Mahishasura, symbolizing the triumph of good over evil."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Navratri is associated with powerful stories of Goddess Durga and her various forms.",
+      "summary": "Navratri is associated with powerful stories of Goddess Durga and her various forms.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": [
+        "Durga"
+      ]
+    },
+    {
+      "type": "info",
+      "title": "How Navratri is Celebrated",
+      "content": "Navratri celebrations include fasting, dancing, and elaborate rituals."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Pooja",
+      "content": "Navratri rituals include elaborate pooja ceremonies and traditional practices.",
+      "steps": [
+        "Kalash Sthapana: The festival begins with Kalash Sthapana, where a pot (kalash) is installed and worshipped as a symbol of the universe and divine energy.",
+        "Daily Pooja: Each day, a specific form of Goddess Durga is worshipped with flowers, fruits, and special offerings. Devotees chant mantras and perform aarti."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Navratri rituals include elaborate pooja ceremonies and traditional practices."
+    },
+    {
+      "type": "info",
+      "title": "Navratri Special Foods",
+      "content": "Special fasting foods are prepared during Navratri."
+    },
+    {
+      "type": "info",
+      "title": "Navratri Bhajans",
+      "content": "Devotional songs sung during Navratri to honor Goddess Durga."
+    },
+    {
+      "type": "info",
+      "title": "Navratri Aartis",
+      "content": "Traditional aartis performed during Navratri celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Navratri Videos",
+      "content": "Watch these videos to learn more about Navratri celebrations:",
+      "videos": [
+        {
+          "title": "Complete Navratri Pooja Guide",
+          "embedId": "navratri_pooja_2024",
+          "description": "Step-by-step guide for performing Navratri pooja",
+          "thumbnailUrl": "https://img.youtube.com/vi/navratri_pooja_2024/0.jpg"
+        },
+        {
+          "title": "Garba Dandiya Dance Tutorial",
+          "embedId": "garba_tutorial",
+          "description": "Learn traditional Garba and Dandiya dance steps",
+          "thumbnailUrl": "https://img.youtube.com/vi/garba_tutorial/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-10-03",
+  "tithi": "Pratipada (Ashwin)",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-09-22"
+}

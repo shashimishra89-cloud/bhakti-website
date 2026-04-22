@@ -1,9 +1,15 @@
 // Content types for the Bhakti website
+// DEPRECATED: Use contentSchema.ts for new development
+// This file maintained for backward compatibility
 
+/**
+ * @deprecated Use AartiContent, BhajanContent, etc. from contentSchema.ts
+ */
 export interface BaseContent {
   id: string;
   name: string;
   title: string;
+  subtitle?: string;
   description: string;
   duration?: string;
   icon: string;
@@ -15,19 +21,46 @@ export interface BaseContent {
   language?: string;
   theme?: string;
   rituals?: string[];
+  difficulty?: 'beginner' | 'intermediate' | 'advanced';
+  tags?: string[];
+  relatedContent?: string[];
+  category?: 'aarti' | 'bhajan' | 'mantra' | 'festival' | 'chalisa' | 'story';
   seo?: {
+    title?: string;
     keywords: string[];
     description: string;
+    ogImage?: string;
   };
   sections: ContentSection[];
 }
 
+/**
+ * @deprecated Use typed sections from contentSchema.ts (AartiSection, BhajanSection, etc.)
+ */
 export interface ContentSection {
-  type: 'hero' | 'historical_significance' | 'stories' | 'lyrics' | 'rituals' | 'significance' | 'benefits' | 'videos' | 'shloka' | 'story' | 'bhajan' | 'aarti' | 'mantra' | 'ritual';
+  type: 'hero' | 'historical_significance' | 'stories' | 'lyrics' | 'rituals' | 'significance' | 'benefits' | 'videos' | 'shloka' | 'story' | 'bhajan' | 'aarti' | 'mantra' | 'ritual' | 'info' | 'video' | 'history';
   title: string;
   content: string;
   subsections?: Subsection[];
   videos?: VideoEmbed[];
+  // New fields for typed sections
+  hindi?: string;
+  english?: string;
+  sanskrit?: string;
+  meaning?: string;
+  transliteration?: string;
+  items?: Array<{ category: string; description: string }>;
+  steps?: string[];
+  materials?: string[];
+  bestTime?: string;
+  origin?: string;
+  composer?: string;
+  timeline?: string;
+  summary?: string;
+  moral?: string;
+  relatedDeities?: string[];
+  audioUrl?: string;
+  videoUrl?: string;
 }
 
 export interface Subsection {

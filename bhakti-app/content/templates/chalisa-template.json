@@ -1,0 +1,135 @@
+{
+  "id": "deity-chalisa",
+  "category": "chalisa",
+  "name": "Deity Chalisa",
+  "title": "Deity Chalisa | Forty Verses with Meaning",
+  "subtitle": "Powerful forty-verse hymn",
+  "description": "The Deity Chalisa is a powerful forty-verse devotional hymn composed in praise of the deity. Each verse extols the divine virtues, powers, and grace (100-500 characters).",
+  "icon": "📜",
+  "color": "from-red-400 to-orange-500",
+  "deity": "Deity Name",
+  "duration": "10-15 minutes",
+  "significance": "Explain the spiritual power of this 40-verse hymn and the blessings received by reciting it.",
+  "totalVerses": 40,
+  "featured": false,
+  "difficulty": "intermediate",
+  "tags": ["chalisa", "40 verses", "devotional", "deity"],
+  "relatedContent": ["related-chalisa-1", "deity-aarti", "deity-bhajan"],
+  "seo": {
+    "title": "Deity Chalisa Lyrics in Hindi | 40 Verses with Meaning",
+    "description": "Complete Deity Chalisa with all 40 verses in Hindi, English translation, and meaning. Learn this powerful devotional hymn.",
+    "keywords": ["deity chalisa", "40 verses", "hindi lyrics", "meaning", "hanuman chalisa style"],
+    "ogImage": "https://example.com/chalisa-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "bhajan",
+      "title": "Doha (Invocation)",
+      "hindi": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि।\nबरनऊं रघुबर बिमल जसु, जो दायक फल चारि॥\n\nबुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।\nबल बुद्धि विद्या देहु मोहिं, हरहु कलेस बिकार॥",
+      "english": "Having polished the mirror of my heart with the dust of my Guru's lotus feet, I sing the pure fame of the best of Raghu dynasty, which bestows the four fruits of life.\n\nKnowing my body to be devoid of intelligence, I remember the Son of Wind (Hanuman). Grant me strength, intelligence, and knowledge, and remove all my afflictions and sorrows.",
+      "meaning": "The opening verses invoke the guru's blessings and dedicate the Chalisa to the deity, seeking divine gifts and removal of ignorance."
+    },
+    {
+      "type": "bhajan",
+      "title": "Chaupai 1-10",
+      "hindi": "जय हनुमान ज्ञान गुन सागर।\nजय कपीस तिहुं लोक उजागर॥\n\nराम दूत अतुलित बल धामा।\nअंजनि-पुत्र पवनसुत नामा॥\n\n[Continue verses 1-10...]",
+      "english": "Victory to Hanuman, ocean of wisdom and virtue.\nVictory to the Lord of Monkeys, illuminator of the three worlds.\n\nMessenger of Rama, repository of immeasurable strength.\nSon of Anjana, known as the son of Wind.\n\n[Continue translations...]",
+      "meaning": "These verses describe the deity's divine qualities, attributes, and role in the cosmic order."
+    },
+    {
+      "type": "bhajan",
+      "title": "Chaupai 11-20",
+      "hindi": "Verses 11-20 in Hindi...",
+      "english": "English translation of verses 11-20...",
+      "meaning": "Meaning of verses 11-20..."
+    },
+    {
+      "type": "bhajan",
+      "title": "Chaupai 21-30",
+      "hindi": "Verses 21-30 in Hindi...",
+      "english": "English translation of verses 21-30...",
+      "meaning": "Meaning of verses 21-30..."
+    },
+    {
+      "type": "bhajan",
+      "title": "Chaupai 31-40",
+      "hindi": "Verses 31-40 in Hindi...",
+      "english": "English translation of verses 31-40...",
+      "meaning": "Meaning of verses 31-40..."
+    },
+    {
+      "type": "bhajan",
+      "title": "Final Doha",
+      "hindi": "पवनतनय संकट हरन, मंगल मूरति रूप।\nराम लखन सीता सहित, हृदय बसहु सुर भूप॥",
+      "english": "Son of Wind, remover of difficulties, embodiment of auspiciousness.\nWith Rama, Lakshmana, and Sita, reside in my heart, O Lord of Gods.",
+      "meaning": "The concluding verse seeks the deity's permanent residence in the devotee's heart along with Lord Rama, Lakshmana, and Mother Sita."
+    },
+    {
+      "type": "history",
+      "title": "Composer and Origin",
+      "content": "Information about who composed this Chalisa, when and where it was written, and its historical significance in Hindu devotional literature.",
+      "composer": "Goswami Tulsidas / Composer Name",
+      "origin": "India, 16th century / Time period",
+      "timeline": "Composed during the medieval period"
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Recitation",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Removes negative energies and provides spiritual protection"
+        },
+        {
+          "category": "mental",
+          "description": "Enhances memory, concentration, and mental strength"
+        },
+        {
+          "category": "physical",
+          "description": "Removes diseases and provides physical vitality"
+        },
+        {
+          "category": "material",
+          "description": "Removes obstacles and brings success in all endeavors"
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Recite the Chalisa",
+      "content": "Complete guidelines for proper recitation of the Chalisa including preparation, method, and concluding practices.",
+      "steps": [
+        "Wake up early and purify yourself with bath",
+        "Sit facing east or north on an asana",
+        "Light a diya and incense before the deity's image",
+        "Begin with 'Om' chanting to focus the mind",
+        "Recite the Doha with devotion",
+        "Continue through all 40 Chaupais with concentration",
+        "Conclude with the final Doha",
+        "Sit in meditation for a few minutes",
+        "Perform aarti and distribute prasad"
+      ],
+      "materials": ["Deity image or murti", "Diya with ghee", "Incense sticks", "Flowers", "Prasad", "Rudraksha mala (optional)"],
+      "bestTime": "Early morning (Brahma Muhurta) or evening after sunset",
+      "duration": "10-15 minutes for complete recitation"
+    },
+    {
+      "type": "video",
+      "title": "Chalisa Recitation Videos",
+      "videos": [
+        {
+          "title": "Complete Chalisa with Lyrics",
+          "embedId": "video_id_1",
+          "description": "Full 40 verses with on-screen Hindi lyrics",
+          "thumbnailUrl": "https://example.com/thumb1.jpg"
+        },
+        {
+          "title": "Meaning of Each Verse",
+          "embedId": "video_id_2",
+          "description": "Detailed explanation of all verses",
+          "thumbnailUrl": "https://example.com/thumb2.jpg"
+        }
+      ]
+    }
+  ]
+}

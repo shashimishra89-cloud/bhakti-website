@@ -1,1 +1,120 @@
-{"id": "pongal", "name": "Pongal", "title": "Tamil Harvest Festival", "description": "Pongal is the most important harvest festival of Tamil Nadu, celebrated to thank the Sun God for a bountiful harvest. This four-day festival marks the beginning of the Tamil month Thai and is associated with prosperity and abundance.", "duration": "4 days", "icon": "☀️", "significance": "Thanks the Sun God (Surya) and nature for providing agricultural prosperity and celebrates the harvest season.", "seo": {"description": "Complete guide to Pongal festival with harvest celebrations, Sun God worship, traditional foods, and Tamil cultural traditions. Learn the significance of Tamil harvest festival.", "keywords": ["pongal", "tamil festival", "harvest festival", "sun god", "surya pongal", "tamil harvest", "pongal celebrations", "tamil nadu"]}, "sections": [{"type": "hero", "title": "Welcome to Pongal", "content": "Pongal is Tamil Nadu's most vibrant harvest festival, celebrating the abundance of nature and expressing gratitude to the Sun God. It's a time when rural Tamil Nadu comes alive with joyous celebrations."}, {"type": "historical_significance", "title": "Historical Significance", "content": "Pongal has ancient origins dating back over 1000 years and is deeply connected to Tamil agricultural traditions. The festival marks the beginning of the auspicious month of Thai."}, {"type": "stories", "title": "Famous Stories", "content": "Pongal is associated with various legends and traditions.", "subsections": [{"title": "Sun God Worship", "content": "The festival is dedicated to Surya, the Sun God, who is believed to provide the energy needed for agricultural growth. Farmers express gratitude for the bountiful harvest."}, {"title": "Krishna's Lift of Govardhan", "content": "The third day of Pongal, Mattu Pongal, is associated with Lord Krishna lifting the Govardhan Hill to protect villagers and cattle from Indra's wrath."}]}, {"type": "celebration", "title": "How Pongal is Celebrated", "content": "Pongal celebrations span four days, each with specific significance.", "subsections": [{"title": "Day 1: Bhogi Pongal", "content": "People discard old belongings and celebrate new beginnings. Houses are cleaned and decorated with kolam (rangoli) designs."}, {"title": "Day 2: Surya Pongal", "content": "The main day celebrates the Sun God. Pongal dish (rice cooked with milk and jaggery) is prepared and offered to Surya."}, {"title": "Day 3: Mattu Pongal", "content": "This day honors cattle, which are essential for agriculture. Cows are decorated and worshipped for their contribution."}, {"title": "Day 4: Kaanum Pongal", "content": "The final day is for family gatherings and outings. People visit relatives and enjoy picnics."}]}, {"type": "rituals", "title": "Rituals and Traditions", "content": "Pongal rituals include traditional practices that honor nature and agriculture.", "subsections": [{"title": "Cooking Pongal", "content": "The traditional Pongal dish is cooked in clay pots under the open sky. When the rice overflows, people shout 'Pongalo Pongal' celebrating abundance."}, {"title": "Kolam Decorations", "content": "Colorful rice flour designs (kolam) are drawn at the entrance of homes to welcome prosperity and good fortune."}]}, {"type": "food", "title": "Pongal Special Foods", "content": "Traditional foods prepared during Pongal celebrations.", "subsections": [{"title": "Pongal Varieties", "content": "Sweet Pongal (Sakkarai Pongal) and Ven Pongal (salted version) are the main dishes prepared with rice, moong dal, and jaggery."}, {"title": "Traditional Dishes", "content": "Other popular dishes include Vadai, Payasam, Avial, and various vegetable preparations using seasonal harvest."}]}, {"type": "bhajans", "title": "Pongal Bhajans", "content": "Traditional songs sung during Pongal celebrations.", "subsections": [{"title": "Pongalo Pongal", "hindi": "पोंगलो पोंगल\nपोंगल दीपम् इलंगुम्\nपोंगलो पोंगल\nपोंगल वाकुम् इलंगुम्", "english": "Pongalo Pongal\nPongal lamp also\nPongalo Pongal\nPongal word also", "meaning": "This traditional song is sung when the Pongal dish overflows, symbolizing abundance."}]}, {"type": "aartis", "title": "Pongal Aartis", "content": "Traditional aartis performed during Pongal celebrations.", "subsections": [{"title": "Surya Aarti", "hindi": "सूर्य देव की आरती\nकरें सब मिलकर\nधन धान्य की बरसात\nदे सूर्य देव हमें", "english": "Aarti of Sun God\nLet's do it together\nRain of wealth and grains\nGive us Sun God", "meaning": "This aarti expresses gratitude to the Sun God for his blessings."}]}, {"type": "videos", "title": "Pongal Videos", "content": "Watch these videos to learn more about Pongal celebrations:", "videos": [{"title": "Complete Pongal Celebration Guide", "embedId": "pongal_celebration_2024", "description": "Complete guide to celebrating Pongal festival"}, {"title": "Traditional Pongal Recipe", "embedId": "pongal_recipe", "description": "Learn to cook authentic Pongal dish"}]}]}
+{
+  "id": "pongal",
+  "name": "Pongal",
+  "title": "Tamil Harvest Festival",
+  "description": "Pongal is the most important harvest festival of Tamil Nadu, celebrated to thank the Sun God for a bountiful harvest. This four-day festival marks the beginning of the Tamil month Thai and is associated with prosperity and abundance.",
+  "duration": "4 days",
+  "icon": "☀️",
+  "significance": "Thanks the Sun God (Surya) and nature for providing agricultural prosperity and celebrates the harvest season.",
+  "seo": {
+    "description": "Complete guide to Pongal festival with harvest celebrations, Sun God worship, traditional foods, and Tamil cultural traditions. Learn the significance of Tamil harvest festival.",
+    "keywords": [
+      "pongal",
+      "tamil festival",
+      "harvest festival",
+      "sun god",
+      "surya pongal",
+      "tamil harvest",
+      "pongal celebrations",
+      "tamil nadu"
+    ],
+    "title": "Pongal 2024 | Date, Rituals, Significance & Celebration"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Welcome to Pongal",
+      "content": "Pongal is Tamil Nadu's most vibrant harvest festival, celebrating the abundance of nature and expressing gratitude to the Sun God. It's a time when rural Tamil Nadu comes alive with joyous celebrations."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "Pongal has ancient origins dating back over 1000 years and is deeply connected to Tamil agricultural traditions. The festival marks the beginning of the auspicious month of Thai."
+    },
+    {
+      "type": "story",
+      "title": "Famous Stories",
+      "content": "Pongal is associated with various legends and traditions.",
+      "summary": "Pongal is associated with various legends and traditions.",
+      "moral": "The story teaches us the importance of devotion, righteousness, and divine grace.",
+      "relatedDeities": []
+    },
+    {
+      "type": "info",
+      "title": "How Pongal is Celebrated",
+      "content": "Pongal celebrations span four days, each with specific significance."
+    },
+    {
+      "type": "ritual",
+      "title": "Rituals and Traditions",
+      "content": "Pongal rituals include traditional practices that honor nature and agriculture.",
+      "steps": [
+        "Cooking Pongal: The traditional Pongal dish is cooked in clay pots under the open sky. When the rice overflows, people shout 'Pongalo Pongal' celebrating abundance.",
+        "Kolam Decorations: Colorful rice flour designs (kolam) are drawn at the entrance of homes to welcome prosperity and good fortune."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Pongal rituals include traditional practices that honor nature and agriculture."
+    },
+    {
+      "type": "info",
+      "title": "Pongal Special Foods",
+      "content": "Traditional foods prepared during Pongal celebrations."
+    },
+    {
+      "type": "info",
+      "title": "Pongal Bhajans",
+      "content": "Traditional songs sung during Pongal celebrations."
+    },
+    {
+      "type": "info",
+      "title": "Pongal Aartis",
+      "content": "Traditional aartis performed during Pongal celebrations."
+    },
+    {
+      "type": "video",
+      "title": "Pongal Videos",
+      "content": "Watch these videos to learn more about Pongal celebrations:",
+      "videos": [
+        {
+          "title": "Complete Pongal Celebration Guide",
+          "embedId": "pongal_celebration_2024",
+          "description": "Complete guide to celebrating Pongal festival",
+          "thumbnailUrl": "https://img.youtube.com/vi/pongal_celebration_2024/0.jpg"
+        },
+        {
+          "title": "Traditional Pongal Recipe",
+          "embedId": "pongal_recipe",
+          "description": "Learn to cook authentic Pongal dish",
+          "thumbnailUrl": "https://img.youtube.com/vi/pongal_recipe/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "festival",
+  "color": "from-yellow-400 to-amber-500",
+  "subtitle": "Sacred celebration and rituals",
+  "difficulty": "beginner",
+  "tags": [
+    "festival"
+  ],
+  "relatedContent": [],
+  "date": "2024-01-15",
+  "tithi": "Solar Festival",
+  "region": [
+    "all-india"
+  ],
+  "rituals": [
+    "Early morning purification ritual",
+    "Main puja with deity invocation",
+    "Offerings of flowers, fruits, and sweets",
+    "Aarti and devotional singing",
+    "Prasad distribution to family and guests"
+  ],
+  "date2025": "2025-01-14"
+}

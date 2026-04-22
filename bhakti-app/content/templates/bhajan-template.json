@@ -1,0 +1,77 @@
+{
+  "id": "deity-bhajan",
+  "category": "bhajan",
+  "name": "Deity Bhajan",
+  "title": "Bhajan Title in Hindi | English Translation",
+  "subtitle": "Melodious devotional song",
+  "description": "A beautiful bhajan expressing devotion and love for the deity. Describe the mood, theme, and spiritual essence of this bhajan (100-500 characters).",
+  "icon": "🎵",
+  "color": "from-blue-400 to-indigo-500",
+  "deity": "Deity Name",
+  "duration": "4-6 minutes",
+  "significance": "Explain how this bhajan connects devotees with the divine and its spiritual importance.",
+  "featured": false,
+  "difficulty": "beginner",
+  "tags": ["bhajan", "devotional", "evening"],
+  "relatedContent": ["related-bhajan-1", "related-bhajan-2"],
+  "seo": {
+    "title": "Bhajan Title Lyrics in Hindi | With Meaning",
+    "description": "Complete bhajan lyrics in Hindi with English translation and meaning. Learn this beautiful devotional song.",
+    "keywords": ["bhajan", "hindi lyrics", "devotional song", "deity"],
+    "ogImage": "https://example.com/bhajan-og-image.jpg"
+  },
+  "sections": [
+    {
+      "type": "bhajan",
+      "title": "Complete Bhajan Lyrics",
+      "hindi": "भजन के हिंदी बोल यहाँ लिखें\nपंक्ति १\nपंक्ति २\n\nपंक्ति ३\nपंक्ति ४",
+      "english": "English translation of the bhajan\nLine 1\nLine 2\n\nLine 3\nLine 4",
+      "meaning": "Overall meaning and essence of the bhajan, explaining the devotional sentiment expressed."
+    },
+    {
+      "type": "story",
+      "title": "Story Behind the Bhajan",
+      "content": "If there is a story associated with this bhajan, describe it here. Explain the context in which it was composed or any legendary tales connected to it.",
+      "summary": "Brief summary of the story",
+      "moral": "The spiritual lesson or moral from the story"
+    },
+    {
+      "type": "history",
+      "title": "Composer and History",
+      "content": "Information about who composed this bhajan, when it was written, and its journey through time.",
+      "composer": "Composer Name",
+      "origin": "Region/Tradition",
+      "timeline": "Time period"
+    },
+    {
+      "type": "benefits",
+      "title": "Spiritual Benefits",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Deepens devotion and connection with the divine"
+        },
+        {
+          "category": "mental",
+          "description": "Brings peace of mind and reduces stress"
+        },
+        {
+          "category": "physical",
+          "description": "Rhythmic singing improves breathing and wellness"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "title": "Bhajan Renditions",
+      "videos": [
+        {
+          "title": "Famous Artist Version",
+          "embedId": "video_id_1",
+          "description": "Popular rendition by famous artist",
+          "thumbnailUrl": "https://example.com/thumb1.jpg"
+        }
+      ]
+    }
+  ]
+}

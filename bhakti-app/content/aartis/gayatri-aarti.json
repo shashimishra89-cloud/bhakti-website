@@ -1,1 +1,93 @@
-{"id": "gayatri-aarti", "name": "Gayatri Aarti", "title": "Gayatri Mata Aarti", "description": "A sacred aarti dedicated to Goddess Gayatri, the personification of the Gayatri Mantra and the mother of the Vedas. This aarti invokes divine wisdom and spiritual enlightenment.", "duration": "5 minutes", "icon": "🌅", "deity": "Goddess Gayatri", "significance": "Invokes divine wisdom, spiritual enlightenment, and the removal of ignorance and darkness.", "seo": {"description": "Complete Gayatri Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Gayatri aarti.", "keywords": ["gayatri aarti", "goddess gayatri", "gayatri mantra", "vedic mother", "wisdom enlightenment", "spiritual knowledge", "divine light"]}, "sections": [{"type": "hero", "title": "Goddess Gayatri Aarti", "content": "The Gayatri Aarti is a sacred devotional hymn that praises Goddess Gayatri, the divine mother who represents the supreme light of wisdom and spiritual knowledge."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti is deeply connected to the Gayatri Mantra, one of the most powerful Vedic mantras. Goddess Gayatri is considered the mother of all Vedas and the source of divine wisdom."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Gayatri Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "आरती गायत्री माता की\nजय जय गायत्री माता की\n\nब्रह्मा विष्णु महेश्वर\nतुम ही जगत की माता\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nपंच मुखी त्रिनेत्रा\nसफेद वर्णा सुंदर\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nवेद पुराण उपनिषद\nतुमसे बिन अज्ञान\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nज्ञान विज्ञान प्रदायिनी\nअज्ञान का नाश करनी\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन", "english": "Aarti of Goddess Gayatri\nVictory, victory to Goddess Gayatri\n\nBrahma, Vishnu, Maheshwar\nYou alone are the mother of the world\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nFive-faced, three-eyed\nWhite complexion, beautiful\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nVedas, Puranas, Upanishads\nWithout you, there is ignorance\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nGiver of knowledge and science\nDestroyer of ignorance\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti", "meaning": "This aarti praises Goddess Gayatri as the supreme source of all Vedic knowledge and the destroyer of ignorance."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Gayatri Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, white flowers, and water. Place Gayatri idol or picture facing east."}, {"title": "Aarti Procedure", "content": "Chant the Gayatri Mantra 108 times, then light the diya and perform the aarti with devotion while seeking divine wisdom."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Gayatri Aarti.", "subsections": [{"title": "Divine Wisdom", "content": "The aarti invokes divine wisdom and spiritual knowledge, helping to remove ignorance and darkness."}, {"title": "Spiritual Enlightenment", "content": "Regular performance of this aarti leads to spiritual enlightenment and self-realization."}]}, {"type": "videos", "title": "Gayatri Aarti Videos", "content": "Watch these videos to learn the proper way to perform Gayatri Aarti:", "videos": [{"title": "Complete Gayatri Aarti with Pronunciation", "embedId": "gayatri_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Gayatri Mantra and Aarti", "embedId": "gayatri_mantra_aarti", "description": "Complete guide to Gayatri Mantra and aarti"}]}]}
+{
+  "id": "gayatri-aarti",
+  "name": "Gayatri Aarti",
+  "title": "Gayatri Mata Aarti",
+  "description": "A sacred aarti dedicated to Goddess Gayatri, the personification of the Gayatri Mantra and the mother of the Vedas. This aarti invokes divine wisdom and spiritual enlightenment.",
+  "duration": "5 minutes",
+  "icon": "🌅",
+  "deity": "Goddess Gayatri",
+  "significance": "Invokes divine wisdom, spiritual enlightenment, and the removal of ignorance and darkness.",
+  "seo": {
+    "description": "Complete Gayatri Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Gayatri aarti.",
+    "keywords": [
+      "gayatri aarti",
+      "goddess gayatri",
+      "gayatri mantra",
+      "vedic mother",
+      "wisdom enlightenment",
+      "spiritual knowledge",
+      "divine light"
+    ],
+    "title": "Gayatri Aarti | Gayatri Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Goddess Gayatri Aarti",
+      "content": "The Gayatri Aarti is a sacred devotional hymn that praises Goddess Gayatri, the divine mother who represents the supreme light of wisdom and spiritual knowledge."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti is deeply connected to the Gayatri Mantra, one of the most powerful Vedic mantras. Goddess Gayatri is considered the mother of all Vedas and the source of divine wisdom."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Gayatri Aarti in Hindi with English translation.",
+      "hindi": "आरती गायत्री माता की\nजय जय गायत्री माता की\n\nब्रह्मा विष्णु महेश्वर\nतुम ही जगत की माता\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nपंच मुखी त्रिनेत्रा\nसफेद वर्णा सुंदर\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nवेद पुराण उपनिषद\nतुमसे बिन अज्ञान\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन\n\nज्ञान विज्ञान प्रदायिनी\nअज्ञान का नाश करनी\n\nजय जय गायत्री माता की\nआरती उतारै भक्त जन",
+      "english": "Aarti of Goddess Gayatri\nVictory, victory to Goddess Gayatri\n\nBrahma, Vishnu, Maheshwar\nYou alone are the mother of the world\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nFive-faced, three-eyed\nWhite complexion, beautiful\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nVedas, Puranas, Upanishads\nWithout you, there is ignorance\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti\n\nGiver of knowledge and science\nDestroyer of ignorance\n\nVictory, victory to Goddess Gayatri\nDevotees perform the aarti",
+      "meaning": "This aarti praises Goddess Gayatri as the supreme source of all Vedic knowledge and the destroyer of ignorance."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Gayatri Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, white flowers, and water. Place Gayatri idol or picture facing east.",
+        "Aarti Procedure: Chant the Gayatri Mantra 108 times, then light the diya and perform the aarti with devotion while seeking divine wisdom."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Gayatri Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Gayatri Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Gayatri Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Gayatri Aarti:",
+      "videos": [
+        {
+          "title": "Complete Gayatri Aarti with Pronunciation",
+          "embedId": "gayatri_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/gayatri_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Gayatri Mantra and Aarti",
+          "embedId": "gayatri_mantra_aarti",
+          "description": "Complete guide to Gayatri Mantra and aarti",
+          "thumbnailUrl": "https://img.youtube.com/vi/gayatri_mantra_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "gayatri"
+  ],
+  "relatedContent": []
+}

@@ -1,1 +1,93 @@
-{"id": "durga-aarti", "name": "Durga Aarti", "title": "Jai Ambe Gauri", "description": "A powerful aarti dedicated to Goddess Durga, the supreme mother goddess who represents divine feminine power and protection. This aarti is performed during Navratri and Durga Puja celebrations.", "duration": "6 minutes", "icon": "👑", "deity": "Goddess Durga", "significance": "Invokes Goddess Durga's blessings for protection, strength, courage, and victory over evil forces.", "seo": {"description": "Complete Durga Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Durga aarti.", "keywords": ["durga aarti", "goddess durga", "jai ambe gauri", "navratri aarti", "durga puja", "divine mother", "shakti aarti"]}, "sections": [{"type": "hero", "title": "Goddess Durga Aarti", "content": "The Durga Aarti is a powerful devotional hymn that praises Goddess Durga, the divine mother who protects her devotees and destroys evil forces."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries in Shakti tradition. It is especially significant during Navratri when the nine forms of Durga are worshipped."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Durga Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "जय अम्बे गौरी, मैया जय श्यामा गौरी\nतुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी\nजय अम्बे गौरी\n\nमांग सिंदूर विराजत, टीको मृगमद को\nउज्ज्वल से दो नैना, चंद्रवदन नीको\nजय अम्बे गौरी\n\nकनक समान कलेवर, रक्ताम्बर राजै\nरक्त पुष्प गल माला, कंठन पर साजै\nजय अम्बे गौरी\n\nकेहरि वाहन राजत, खड्ग खप्पर धारी\nसुर-नर-मुनि जन सेवत, तिनके दुखहारी\nजय अम्बे गौरी", "english": "Jai Ambe Gauri, Mother Jai Shyama Gauri\nDay and night meditate on you, Hari Brahma and Shiva\nJai Ambe Gauri\n\nVermillion adorns your forehead, tilak of musk\nTwo bright eyes, beautiful moon-like face\nJai Ambe Gauri\n\nGolden-like complexion, wearing red clothes\nGarland of red flowers, adorning the neck\nJai Ambe Gauri\n\nLion as vehicle reigns, holding sword and skull\nGods, humans, and sages serve, you remove their sorrows\nJai Ambe Gauri", "meaning": "This aarti praises Goddess Durga's divine beauty, power, and her role as the protector and destroyer of evil."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Durga Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, red flowers, kumkum, sindoor, and sweets. Place Durga idol or picture facing east."}, {"title": "Aarti Procedure", "content": "Offer red flowers and sindoor, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and ring bells."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Durga Aarti.", "subsections": [{"title": "Divine Protection", "content": "The aarti invokes Goddess Durga's protection from negative energies, evil forces, and obstacles in life."}, {"title": "Inner Strength", "content": "Regular performance of this aarti helps develop inner strength, courage, and confidence to face life's challenges."}]}, {"type": "videos", "title": "Durga Aarti Videos", "content": "Watch these videos to learn the proper way to perform Durga Aarti:", "videos": [{"title": "Complete Durga Aarti with Pronunciation", "embedId": "durga_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Durga Aarti during Navratri", "embedId": "navratri_durga_aarti", "description": "Traditional Durga Aarti performed during Navratri celebrations"}]}]}
+{
+  "id": "durga-aarti",
+  "name": "Durga Aarti",
+  "title": "Jai Ambe Gauri",
+  "description": "A powerful aarti dedicated to Goddess Durga, the supreme mother goddess who represents divine feminine power and protection. This aarti is performed during Navratri and Durga Puja celebrations.",
+  "duration": "6 minutes",
+  "icon": "👑",
+  "deity": "Goddess Durga",
+  "significance": "Invokes Goddess Durga's blessings for protection, strength, courage, and victory over evil forces.",
+  "seo": {
+    "description": "Complete Durga Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Goddess Durga aarti.",
+    "keywords": [
+      "durga aarti",
+      "goddess durga",
+      "jai ambe gauri",
+      "navratri aarti",
+      "durga puja",
+      "divine mother",
+      "shakti aarti"
+    ],
+    "title": "Durga Aarti | Durga Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Goddess Durga Aarti",
+      "content": "The Durga Aarti is a powerful devotional hymn that praises Goddess Durga, the divine mother who protects her devotees and destroys evil forces."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries in Shakti tradition. It is especially significant during Navratri when the nine forms of Durga are worshipped."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Durga Aarti in Hindi with English translation.",
+      "hindi": "जय अम्बे गौरी, मैया जय श्यामा गौरी\nतुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी\nजय अम्बे गौरी\n\nमांग सिंदूर विराजत, टीको मृगमद को\nउज्ज्वल से दो नैना, चंद्रवदन नीको\nजय अम्बे गौरी\n\nकनक समान कलेवर, रक्ताम्बर राजै\nरक्त पुष्प गल माला, कंठन पर साजै\nजय अम्बे गौरी\n\nकेहरि वाहन राजत, खड्ग खप्पर धारी\nसुर-नर-मुनि जन सेवत, तिनके दुखहारी\nजय अम्बे गौरी",
+      "english": "Jai Ambe Gauri, Mother Jai Shyama Gauri\nDay and night meditate on you, Hari Brahma and Shiva\nJai Ambe Gauri\n\nVermillion adorns your forehead, tilak of musk\nTwo bright eyes, beautiful moon-like face\nJai Ambe Gauri\n\nGolden-like complexion, wearing red clothes\nGarland of red flowers, adorning the neck\nJai Ambe Gauri\n\nLion as vehicle reigns, holding sword and skull\nGods, humans, and sages serve, you remove their sorrows\nJai Ambe Gauri",
+      "meaning": "This aarti praises Goddess Durga's divine beauty, power, and her role as the protector and destroyer of evil."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Durga Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, red flowers, kumkum, sindoor, and sweets. Place Durga idol or picture facing east.",
+        "Aarti Procedure: Offer red flowers and sindoor, light the diya, and perform the aarti while moving it in circular motion. Sing with devotion and ring bells."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Durga Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Durga Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Durga Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Durga Aarti:",
+      "videos": [
+        {
+          "title": "Complete Durga Aarti with Pronunciation",
+          "embedId": "durga_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/durga_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Durga Aarti during Navratri",
+          "embedId": "navratri_durga_aarti",
+          "description": "Traditional Durga Aarti performed during Navratri celebrations",
+          "thumbnailUrl": "https://img.youtube.com/vi/navratri_durga_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "durga"
+  ],
+  "relatedContent": []
+}

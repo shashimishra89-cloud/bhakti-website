@@ -1,1 +1,104 @@
-{"id": "om-namah-shivaya", "name": "Om Namah Shivaya", "title": "The Five-Syllable Mantra of Shiva", "description": "Om Namah Shivaya is one of the most powerful and widely chanted mantras dedicated to Lord Shiva. This five-syllable mantra is considered the essence of Shaivism and is believed to contain the entire philosophy of Shiva worship.", "duration": "10 minutes", "icon": "🔱", "deity": "Lord Shiva", "significance": "Brings spiritual purification, removes ego, provides inner peace, and connects with Shiva consciousness.", "seo": {"description": "Complete Om Namah Shivaya mantra with meaning, benefits, and proper chanting method. Learn this powerful Shiva mantra.", "keywords": ["om namah shivaya", "lord shiva", "shiva mantra", "five syllable mantra", "spiritual purification", "shaivism", "shiva consciousness"]}, "sections": [{"type": "hero", "title": "Om Namah Shivaya", "content": "Om Namah Shivaya is the most sacred mantra of Lord Shiva, representing the five elements of nature and the five aspects of consciousness. It is considered the gateway to spiritual liberation."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This mantra has been chanted for thousands of years by Shaivite saints and devotees. It is mentioned in various Hindu scriptures and is considered the foundation of Shiva worship."}, {"type": "lyrics", "title": "Mantra with Detailed Meaning", "content": "The complete mantra with explanation of each syllable.", "subsections": [{"title": "Mantra Lyrics", "hindi": "ॐ नमः शिवाय\n\nॐ नमः शिवाय\nॐ नमः शिवाय\nॐ नमः शिवाय", "english": "Om Namah Shivaya\n\nOm Namah Shivaya\nOm Namah Shivaya\nOm Namah Shivaya", "meaning": "I bow to Lord Shiva, the supreme consciousness."}, {"title": "Syllable by Syllable Meaning", "hindi": "ॐ - प्रणव, ब्रह्मा, विष्णु, शिव का संगम\nन - नमस्कार, प्रणाम\nमः - मेरा, मेरे द्वारा\nशि - शिव, शुद्ध चेतना\nवा - वास, निवास\nय - यम, नियंत्रण", "english": "Om - Pranava, union of Brahma, Vishnu, Shiva\nNa - Salutation, bowing\nMah - Mine, through me\nShi - Shiva, pure consciousness\nVa - Dwelling, residence\nYa - Control, regulation", "meaning": "Each syllable represents different aspects of divine consciousness and spiritual practice."}]}, {"type": "benefits", "title": "Benefits of Chanting Om Namah Shivaya", "content": "The spiritual and practical benefits of regular chanting.", "subsections": [{"title": "Spiritual Benefits", "content": "Purifies the soul, removes ego, brings inner peace, enhances spiritual awareness, and leads to self-realization."}, {"title": "Material Benefits", "content": "Reduces stress, improves concentration, brings mental clarity, removes negative thoughts, and provides emotional stability."}]}, {"type": "rituals", "title": "How to Chant", "content": "Proper method and guidelines for chanting Om Namah Shivaya.", "subsections": [{"title": "Best Time", "content": "Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during Rudra Abhishekam."}, {"title": "Procedure", "content": "Sit facing north, light a diya, offer water and bilva leaves, then chant 108 times with devotion and concentration on the meaning."}]}, {"type": "videos", "title": "Om Namah Shivaya Videos", "content": "Watch these videos to learn the proper way to chant Om Namah Shivaya:", "videos": [{"title": "Complete Om Namah Shivaya with Pronunciation", "embedId": "om_namah_shivaya_complete", "description": "Full mantra with correct pronunciation and meaning"}, {"title": "Om Namah Shivaya - 108 Repetitions", "embedId": "om_namah_shivaya_108", "description": "Complete 108 repetitions for daily practice"}]}]}
+{
+  "id": "om-namah-shivaya",
+  "name": "Om Namah Shivaya",
+  "title": "The Five-Syllable Mantra of Shiva",
+  "description": "Om Namah Shivaya is one of the most powerful and widely chanted mantras dedicated to Lord Shiva. This five-syllable mantra is considered the essence of Shaivism and is believed to contain the entire philosophy of Shiva worship.",
+  "duration": "10 minutes",
+  "icon": "🔱",
+  "deity": "Lord Shiva",
+  "significance": "Brings spiritual purification, removes ego, provides inner peace, and connects with Shiva consciousness.",
+  "seo": {
+    "description": "Complete Om Namah Shivaya mantra with meaning, benefits, and proper chanting method. Learn this powerful Shiva mantra.",
+    "keywords": [
+      "om namah shivaya",
+      "lord shiva",
+      "shiva mantra",
+      "five syllable mantra",
+      "spiritual purification",
+      "shaivism",
+      "shiva consciousness"
+    ],
+    "title": "Om Namah Shivaya | Shiva Mantra with Sanskrit & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Om Namah Shivaya",
+      "content": "Om Namah Shivaya is the most sacred mantra of Lord Shiva, representing the five elements of nature and the five aspects of consciousness. It is considered the gateway to spiritual liberation."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This mantra has been chanted for thousands of years by Shaivite saints and devotees. It is mentioned in various Hindu scriptures and is considered the foundation of Shiva worship."
+    },
+    {
+      "type": "mantra",
+      "title": "Mantra with Detailed Meaning",
+      "content": "The complete mantra with explanation of each syllable.",
+      "meaning": "I bow to Lord Shiva, the supreme consciousness.",
+      "sanskrit": "ॐ नमः शिवाय",
+      "transliteration": "Om Namah Shivaya"
+    },
+    {
+      "type": "benefits",
+      "title": "Benefits of Chanting Om Namah Shivaya",
+      "content": "The spiritual and practical benefits of regular chanting.",
+      "items": [
+        {
+          "category": "spiritual",
+          "description": "Purifies the soul, removes ego, brings inner peace, enhances spiritual awareness, and leads to self-realization."
+        },
+        {
+          "category": "material",
+          "description": "Reduces stress, improves concentration, brings mental clarity, removes negative thoughts, and provides emotional stability."
+        }
+      ]
+    },
+    {
+      "type": "ritual",
+      "title": "How to Chant",
+      "content": "Proper method and guidelines for chanting Om Namah Shivaya.",
+      "steps": [
+        "Best Time: Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during Rudra Abhishekam.",
+        "Procedure: Sit facing north, light a diya, offer water and bilva leaves, then chant 108 times with devotion and concentration on the meaning."
+      ],
+      "bestTime": "Early morning after bath, especially on Mondays and during Mahashivratri. Also effective during Rudra Abhishekam.",
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "duration": "Proper method and guidelines for chanting Om Namah Shivaya."
+    },
+    {
+      "type": "video",
+      "title": "Om Namah Shivaya Videos",
+      "content": "Watch these videos to learn the proper way to chant Om Namah Shivaya:",
+      "videos": [
+        {
+          "title": "Complete Om Namah Shivaya with Pronunciation",
+          "embedId": "om_namah_shivaya_complete",
+          "description": "Full mantra with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/om_namah_shivaya_complete/0.jpg"
+        },
+        {
+          "title": "Om Namah Shivaya - 108 Repetitions",
+          "embedId": "om_namah_shivaya_108",
+          "description": "Complete 108 repetitions for daily practice",
+          "thumbnailUrl": "https://img.youtube.com/vi/om_namah_shivaya_108/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "mantra",
+  "color": "from-purple-400 to-pink-500",
+  "subtitle": "Powerful sacred chant",
+  "difficulty": "beginner",
+  "tags": [
+    "mantra",
+    "shiva"
+  ],
+  "relatedContent": [],
+  "repetitionCount": 108
+}

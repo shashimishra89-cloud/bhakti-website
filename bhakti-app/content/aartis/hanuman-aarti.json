@@ -1,1 +1,93 @@
-{"id": "hanuman-aarti", "name": "Hanuman Aarti", "title": "Aarti Kije Hanuman Lalaki", "description": "A powerful aarti dedicated to Lord Hanuman, the supreme devotee of Lord Rama known for his strength, courage, and unwavering devotion. This aarti is performed to seek his protection and blessings.", "duration": "5 minutes", "icon": "💪", "deity": "Lord Hanuman", "significance": "Invokes Lord Hanuman's blessings for strength, courage, protection from evil, and removal of obstacles.", "seo": {"description": "Complete Hanuman Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Hanuman aarti.", "keywords": ["hanuman aarti", "lord hanuman", "aarti kije hanuman lalaki", "bajrang bali", "hanuman chalisa", "strength devotion", "monkey god"]}, "sections": [{"type": "hero", "title": "Lord Hanuman Aarti", "content": "The Hanuman Aarti is a powerful devotional hymn that praises Lord Hanuman, the mighty devotee of Lord Rama who embodies strength, devotion, and selfless service."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries by devotees seeking Hanuman's protection. It is especially significant on Tuesdays and Saturdays, days sacred to Hanuman."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Hanuman Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "आरती कीजे हनुमान लल्ला की\nदुष्ट दलन रघुनाथ कल्ला की\n\nजाके बल से बिरज पावन\nतुलसीदास स्वामी की पावन\n\nदोहा\nजय हनुमान जय कपीस\nतुंग लक्ष्मण जय गोपीनाथ\n\nआरती\nजय जय जय हनुमान बलवान\nजाके अंग में सकल सुख धाम\n\nसंकट कटै मिटै सब पीरा\nजो सुमिरै हनुमान बलबीरा\n\nजय जय जय दुष्ट दमन\nजय जय जय स्वामी रघुनाथन\n\nजय जय जय बजरंग बली\nजय जय जय हनुमान ठाकुर", "english": "Perform aarti of Hanuman Lalla\nWho destroys evil forces of Lord Raghunatha\n\nBy whose strength the lotus feet of Lord Rama are pure\nTulsidas's lord's feet are pure\n\nDoha\nVictory to Hanuman, victory to the monkey god\nVictory to Lakshmana, victory to Gopinatha\n\nAarti\nVictory, victory, victory to mighty Hanuman\nIn whose body all happiness resides\n\nAll troubles are cut and destroyed\nWhoever remembers mighty Hanuman\n\nVictory, victory, victory to destroyer of evil\nVictory, victory, victory to Lord Raghunatha\n\nVictory, victory, victory to Bajrang Bali\nVictory, victory, victory to Lord Hanuman", "meaning": "This aarti praises Lord Hanuman as the mighty protector who destroys evil and removes all obstacles from his devotees' lives."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Hanuman Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, sindoor, oil, and flowers. Place Hanuman idol or picture facing south."}, {"title": "Aarti Procedure", "content": "Apply sindoor tilak on Hanuman's idol, offer oil and sindoor, light the diya, and perform the aarti with devotion while chanting 'Jai Hanuman'."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Hanuman Aarti.", "subsections": [{"title": "Protection from Evil", "content": "The aarti invokes Hanuman's protection from negative energies, evil forces, and physical dangers."}, {"title": "Strength and Courage", "content": "Regular performance of this aarti helps develop physical strength, mental courage, and unwavering faith."}]}, {"type": "videos", "title": "Hanuman Aarti Videos", "content": "Watch these videos to learn the proper way to perform Hanuman Aarti:", "videos": [{"title": "Complete Hanuman Aarti with Pronunciation", "embedId": "hanuman_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Tuesday Hanuman Aarti Special", "embedId": "hanuman_tuesday_aarti", "description": "Traditional Hanuman Aarti performed on Tuesdays"}]}]}
+{
+  "id": "hanuman-aarti",
+  "name": "Hanuman Aarti",
+  "title": "Aarti Kije Hanuman Lalaki",
+  "description": "A powerful aarti dedicated to Lord Hanuman, the supreme devotee of Lord Rama known for his strength, courage, and unwavering devotion. This aarti is performed to seek his protection and blessings.",
+  "duration": "5 minutes",
+  "icon": "💪",
+  "deity": "Lord Hanuman",
+  "significance": "Invokes Lord Hanuman's blessings for strength, courage, protection from evil, and removal of obstacles.",
+  "seo": {
+    "description": "Complete Hanuman Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Hanuman aarti.",
+    "keywords": [
+      "hanuman aarti",
+      "lord hanuman",
+      "aarti kije hanuman lalaki",
+      "bajrang bali",
+      "hanuman chalisa",
+      "strength devotion",
+      "monkey god"
+    ],
+    "title": "Hanuman Aarti | Hanuman Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Hanuman Aarti",
+      "content": "The Hanuman Aarti is a powerful devotional hymn that praises Lord Hanuman, the mighty devotee of Lord Rama who embodies strength, devotion, and selfless service."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries by devotees seeking Hanuman's protection. It is especially significant on Tuesdays and Saturdays, days sacred to Hanuman."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Hanuman Aarti in Hindi with English translation.",
+      "hindi": "आरती कीजे हनुमान लल्ला की\nदुष्ट दलन रघुनाथ कल्ला की\n\nजाके बल से बिरज पावन\nतुलसीदास स्वामी की पावन\n\nदोहा\nजय हनुमान जय कपीस\nतुंग लक्ष्मण जय गोपीनाथ\n\nआरती\nजय जय जय हनुमान बलवान\nजाके अंग में सकल सुख धाम\n\nसंकट कटै मिटै सब पीरा\nजो सुमिरै हनुमान बलबीरा\n\nजय जय जय दुष्ट दमन\nजय जय जय स्वामी रघुनाथन\n\nजय जय जय बजरंग बली\nजय जय जय हनुमान ठाकुर",
+      "english": "Perform aarti of Hanuman Lalla\nWho destroys evil forces of Lord Raghunatha\n\nBy whose strength the lotus feet of Lord Rama are pure\nTulsidas's lord's feet are pure\n\nDoha\nVictory to Hanuman, victory to the monkey god\nVictory to Lakshmana, victory to Gopinatha\n\nAarti\nVictory, victory, victory to mighty Hanuman\nIn whose body all happiness resides\n\nAll troubles are cut and destroyed\nWhoever remembers mighty Hanuman\n\nVictory, victory, victory to destroyer of evil\nVictory, victory, victory to Lord Raghunatha\n\nVictory, victory, victory to Bajrang Bali\nVictory, victory, victory to Lord Hanuman",
+      "meaning": "This aarti praises Lord Hanuman as the mighty protector who destroys evil and removes all obstacles from his devotees' lives."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Hanuman Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, sindoor, oil, and flowers. Place Hanuman idol or picture facing south.",
+        "Aarti Procedure: Apply sindoor tilak on Hanuman's idol, offer oil and sindoor, light the diya, and perform the aarti with devotion while chanting 'Jai Hanuman'."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Hanuman Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Hanuman Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Hanuman Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Hanuman Aarti:",
+      "videos": [
+        {
+          "title": "Complete Hanuman Aarti with Pronunciation",
+          "embedId": "hanuman_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/hanuman_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Tuesday Hanuman Aarti Special",
+          "embedId": "hanuman_tuesday_aarti",
+          "description": "Traditional Hanuman Aarti performed on Tuesdays",
+          "thumbnailUrl": "https://img.youtube.com/vi/hanuman_tuesday_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "hanuman"
+  ],
+  "relatedContent": []
+}

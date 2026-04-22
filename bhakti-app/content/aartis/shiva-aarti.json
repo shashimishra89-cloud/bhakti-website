@@ -1,1 +1,93 @@
-{"id": "shiva-aarti", "name": "Shiva Aarti", "title": "Om Jai Shiv Omkara", "description": "A powerful aarti dedicated to Lord Shiva, the supreme deity of destruction and transformation. This aarti is performed during Maha Shivaratri and other auspicious occasions to seek his blessings.", "duration": "6 minutes", "icon": "🔱", "deity": "Lord Shiva", "significance": "Invokes Lord Shiva's blessings for spiritual growth, liberation from negative influences, and inner peace.", "seo": {"description": "Complete Shiva Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Shiva aarti.", "keywords": ["shiva aarti", "lord shiva", "om jai shiv omkara", "mahashivratri aarti", "shiva stotram", "shankar aarti", "shiva worship"]}, "sections": [{"type": "hero", "title": "Lord Shiva Aarti", "content": "The Shiva Aarti is a powerful devotional hymn that praises Lord Shiva, the supreme ascetic who represents destruction, transformation, and ultimate liberation."}, {"type": "historical_significance", "title": "Historical Significance", "content": "This aarti has been sung for centuries in Shaivite tradition. It is especially significant during Maha Shivaratri when Lord Shiva is worshipped throughout the night."}, {"type": "lyrics", "title": "Complete Aarti Lyrics", "content": "The complete lyrics of Shiva Aarti in Hindi with English translation.", "subsections": [{"title": "Hindi Lyrics", "hindi": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा\nब्रह्मा विष्णु सदाशिव, अर्धांगी धारा\nॐ जय शिव ओंकारा\n\nएकानन चतुरानन पंचानन राजे\nहंसासन गरुड़ासन वृषवाहन साजे\nॐ जय शिव ओंकारा\n\nदो भुज चार चतुर्भुज दस भुज अति सोहे\nतीनों रूप निरखते त्रिभुवन जन मोहे\nॐ जय शिव ओंकारा\n\nअक्षमाला वनमाला रुद्राक्ष की माला\nचंदन मृगमद सोहे भाले शशि विशाला\nॐ जय शिव ओंकारा", "english": "Om Jai Shiv Omkara, Lord Om Jai Shiv Omkara\nBrahma Vishnu Sadashiv, with Ardhangini (half-body as Parvati)\nOm Jai Shiv Omkara\n\nOne face, four faces, five faces reign\nSwan-seated, Garuda-seated, bull-mounted arranged\nOm Jai Shiv Omkara\n\nTwo arms, four arms, ten arms look beautiful\nSeeing the three forms, people of three worlds are enchanted\nOm Jai Shiv Omkara\n\nRosary, forest garland, rudraksha beads garland\nSandal and musk adorn, broad moon on forehead\nOm Jai Shiv Omkara", "meaning": "This aarti praises Lord Shiva in his various forms, acknowledging his infinite manifestations and divine attributes."}]}, {"type": "rituals", "title": "How to Perform the Aarti", "content": "Proper method and rituals for performing Shiva Aarti.", "subsections": [{"title": "Preparation", "content": "Clean the worship area, arrange a thali with diya, bilva leaves, dhatura, bhang, and water. Place Shivaling or Shiva idol facing north."}, {"title": "Aarti Procedure", "content": "Offer water and bilva leaves to the Shivaling, light the diya, and perform the aarti while chanting 'Om Namah Shivaya' with devotion."}]}, {"type": "significance", "title": "Spiritual Significance", "content": "Understanding the deeper meaning and benefits of performing Shiva Aarti.", "subsections": [{"title": "Spiritual Liberation", "content": "The aarti helps in attaining spiritual liberation (moksha) by purifying the soul and removing karmic obstacles."}, {"title": "Inner Peace", "content": "Regular performance of this aarti brings inner peace, mental clarity, and freedom from worldly attachments."}]}, {"type": "videos", "title": "Shiva Aarti Videos", "content": "Watch these videos to learn the proper way to perform Shiva Aarti:", "videos": [{"title": "Complete Shiva Aarti with Pronunciation", "embedId": "shiva_aarti_complete", "description": "Full aarti with correct pronunciation and meaning"}, {"title": "Shiva Aarti during Mahashivratri", "embedId": "mahashivratri_aarti", "description": "Traditional Shiva Aarti performed during Mahashivratri celebrations"}]}]}
+{
+  "id": "shiva-aarti",
+  "name": "Shiva Aarti",
+  "title": "Om Jai Shiv Omkara",
+  "description": "A powerful aarti dedicated to Lord Shiva, the supreme deity of destruction and transformation. This aarti is performed during Maha Shivaratri and other auspicious occasions to seek his blessings.",
+  "duration": "6 minutes",
+  "icon": "🔱",
+  "deity": "Lord Shiva",
+  "significance": "Invokes Lord Shiva's blessings for spiritual growth, liberation from negative influences, and inner peace.",
+  "seo": {
+    "description": "Complete Shiva Aarti with lyrics in Hindi and English, meaning, and significance. Learn the proper way to perform Lord Shiva aarti.",
+    "keywords": [
+      "shiva aarti",
+      "lord shiva",
+      "om jai shiv omkara",
+      "mahashivratri aarti",
+      "shiva stotram",
+      "shankar aarti",
+      "shiva worship"
+    ],
+    "title": "Shiva Aarti | Shiva Aarti with Hindi Lyrics & Meaning"
+  },
+  "sections": [
+    {
+      "type": "info",
+      "title": "Lord Shiva Aarti",
+      "content": "The Shiva Aarti is a powerful devotional hymn that praises Lord Shiva, the supreme ascetic who represents destruction, transformation, and ultimate liberation."
+    },
+    {
+      "type": "history",
+      "title": "Historical Significance",
+      "content": "This aarti has been sung for centuries in Shaivite tradition. It is especially significant during Maha Shivaratri when Lord Shiva is worshipped throughout the night."
+    },
+    {
+      "type": "aarti",
+      "title": "Complete Aarti Lyrics",
+      "content": "The complete lyrics of Shiva Aarti in Hindi with English translation.",
+      "hindi": "ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा\nब्रह्मा विष्णु सदाशिव, अर्धांगी धारा\nॐ जय शिव ओंकारा\n\nएकानन चतुरानन पंचानन राजे\nहंसासन गरुड़ासन वृषवाहन साजे\nॐ जय शिव ओंकारा\n\nदो भुज चार चतुर्भुज दस भुज अति सोहे\nतीनों रूप निरखते त्रिभुवन जन मोहे\nॐ जय शिव ओंकारा\n\nअक्षमाला वनमाला रुद्राक्ष की माला\nचंदन मृगमद सोहे भाले शशि विशाला\nॐ जय शिव ओंकारा",
+      "english": "Om Jai Shiv Omkara, Lord Om Jai Shiv Omkara\nBrahma Vishnu Sadashiv, with Ardhangini (half-body as Parvati)\nOm Jai Shiv Omkara\n\nOne face, four faces, five faces reign\nSwan-seated, Garuda-seated, bull-mounted arranged\nOm Jai Shiv Omkara\n\nTwo arms, four arms, ten arms look beautiful\nSeeing the three forms, people of three worlds are enchanted\nOm Jai Shiv Omkara\n\nRosary, forest garland, rudraksha beads garland\nSandal and musk adorn, broad moon on forehead\nOm Jai Shiv Omkara",
+      "meaning": "This aarti praises Lord Shiva in his various forms, acknowledging his infinite manifestations and divine attributes."
+    },
+    {
+      "type": "ritual",
+      "title": "How to Perform the Aarti",
+      "content": "Proper method and rituals for performing Shiva Aarti.",
+      "steps": [
+        "Preparation: Clean the worship area, arrange a thali with diya, bilva leaves, dhatura, bhang, and water. Place Shivaling or Shiva idol facing north.",
+        "Aarti Procedure: Offer water and bilva leaves to the Shivaling, light the diya, and perform the aarti while chanting 'Om Namah Shivaya' with devotion."
+      ],
+      "materials": [
+        "Diya",
+        "Incense",
+        "Flowers",
+        "Prasad"
+      ],
+      "bestTime": "Early morning or evening",
+      "duration": "Proper method and rituals for performing Shiva Aarti."
+    },
+    {
+      "type": "info",
+      "title": "Spiritual Significance",
+      "content": "Understanding the deeper meaning and benefits of performing Shiva Aarti."
+    },
+    {
+      "type": "video",
+      "title": "Shiva Aarti Videos",
+      "content": "Watch these videos to learn the proper way to perform Shiva Aarti:",
+      "videos": [
+        {
+          "title": "Complete Shiva Aarti with Pronunciation",
+          "embedId": "shiva_aarti_complete",
+          "description": "Full aarti with correct pronunciation and meaning",
+          "thumbnailUrl": "https://img.youtube.com/vi/shiva_aarti_complete/0.jpg"
+        },
+        {
+          "title": "Shiva Aarti during Mahashivratri",
+          "embedId": "mahashivratri_aarti",
+          "description": "Traditional Shiva Aarti performed during Mahashivratri celebrations",
+          "thumbnailUrl": "https://img.youtube.com/vi/mahashivratri_aarti/0.jpg"
+        }
+      ]
+    }
+  ],
+  "category": "aarti",
+  "color": "from-orange-400 to-red-500",
+  "subtitle": "Sacred devotional prayer",
+  "difficulty": "beginner",
+  "tags": [
+    "aarti",
+    "shiva"
+  ],
+  "relatedContent": []
+}
