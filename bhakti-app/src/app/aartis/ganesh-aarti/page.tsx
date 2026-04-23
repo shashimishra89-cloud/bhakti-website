@@ -8,77 +8,140 @@ import { Breadcrumbs, generateBreadcrumbs } from "@/components/Breadcrumbs";
 
 const aartiData = {
   id: "ganesh-aarti",
-  name: "श्री गणेश जी की आरती | Ganesh Ji Ki Aarti Lyrics in Hindi",
+  name: "Ganesh Aarti",
   title: "Jai Ganesh Jai Ganesh Deva",
   description: "The most beloved aarti dedicated to Lord Ganesha, the remover of obstacles and the god of wisdom.",
   deity: "Lord Ganesha",
-  lyrics: {
-    sanskrit: [
-      "जय गणेश जय गणेश देवा, जय गणेश देवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "एक दंत दयावंत, चार भुजा धारी।",
-      "मस्तक सिंदूर सोहे, मूसे की सवारी।",
-      "जय गणेश जय गणेश देवा, जय गणेश देवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "पान चढ़े फल चढ़े, और चढ़े मेवा।",
-      "लड्डुअन का भोग लगे, संत करें सेवा।",
-      "जय गणेश जय गणेश देवा, जय गणेश देवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "अंधन को आंख देत, कोढ़िन को काया।",
-      "बांझन को पुत्र देत, निर्धन को माया।",
-      "जय गणेश जय गणेश देवा, जय गणेश देवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "सूर श्याम शरण आए, सफल कीजे सेवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "दीनन की लाज रखो, शंभु सुतकारी।",
-      "कामना को पूरण करो, जाऊं बलिहारी।",
-      "जय गणेश जय गणेश देवा, जय गणेश देवा।",
-      "माता जाकी पार्वती, पिता महादेवा।",
-      "भगवान गणेश की जय, पार्वती के लल्ला की जय, ओम गं गणपतये नमः"
-    ],
-    translations: [
-      {
-        hindi: "ॐ हे गणेश देव, हे गणेश देव, आपकी जय हो।",
-        english: "Om, victory to Lord Ganesha, victory to Lord Ganesha."
-      },
-      {
-        hindi: "माता पार्वती और पिता महादेव शिव हैं।",
-        english: "Your mother is Parvati and your father is great deity Shiva."
-      },
-      {
-        hindi: "एक दांत वाले, दयावान और चार भुजाओं वाले।",
-        english: "One-tusked, compassionate, and four-armed."
-      },
-      {
-        hindi: "मस्तक पर सिंदूर लगाए, मूसे की सवारी करते हैं।",
-        english: "You wear sindoor on your forehead and ride a mouse."
-      },
-      {
-        hindi: "अंधों को आँख देते हैं, कोढ़ियों को काया देते हैं।",
-        english: "You give sight to the blind and bodies to the lepers."
-      },
-      {
-        hindi: "बाँझों को पुत्र देते हैं, निर्धनों को माया देते हैं।",
-        english: "You give sons to the childless and wealth to the poor."
-      },
-      {
-        hindi: "सूर्य, श्याम, शरण आए, सफल कीजे।",
-        english: "Sun, Shyam, come to your shelter, grant success."
-      },
-      {
-        hindi: "कामनाओं को पूर्ण कर लीजे, दुखियों को दूर करीजे।",
-        english: "Fulfill all desires and remove all sorrows."
-      },
-      {
-        hindi: "दीनों की लाज रखने वाले, दुखियों के दुख दूर करने वाले।",
-        english: "Protector of the poor's honor, remover of their sorrows."
-      },
-      {
-        hindi: "जय गणेश जय गणेश देवा, माता जाकी पार्वती पिता महादेवा।",
-        english: "Jai Ganesh, Jai Ganesh Deva, mother is Parvati, father is Mahadeva."
-      }
-    ]
+  fullAarti: {
+    hindi: `जय गणेश जय गणेश देवा, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा।
+एक दंत दयावंत, चार भुजा धारी।
+मस्तक सिंदूर सोहे, मूसे की सवारी।
+जय गणेश जय गणेश देवा, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा।
+पान चढ़े फल चढ़े, और चढ़े मेवा।
+लड्डुअन का भोग लगे, संत करें सेवा।
+जय गणेश जय गणेश देवा, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा।
+अंधन को आंख देत, कोढ़िन को काया।
+बांझन को पुत्र देत, निर्धन को माया।
+जय गणेश जय गणेश देवा, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा।
+सूर श्याम शरण आए, सफल कीजे सेवा।
+माता जाकी पार्वती, पिता महादेवा।
+दीनन की लाज रखो, शंभु सुतकारी।
+कामना को पूरण करो, जाऊं बलिहारी।
+जय गणेश जय गणेश देवा, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा।
+भगवान गणेश की जय, पार्वती के लल्ला की जय, ओम गं गणपतये नमः`,
+    english: `Victory to Lord Ganesha, victory to the divine Lord Ganesha.
+Whose mother is Parvati and father is the great Lord Shiva.
+One-tusked, compassionate, bearer of four arms.
+Vermilion adorns his forehead, riding on a mouse.
+Victory to Lord Ganesha, victory to the divine Lord Ganesha.
+Whose mother is Parvati and father is the great Lord Shiva.
+Betel leaves are offered, fruits are offered, and dry fruits too.
+Laddus are offered as bhog, saints perform your service.
+Victory to Lord Ganesha, victory to the divine Lord Ganesha.
+Whose mother is Parvati and father is the great Lord Shiva.
+You give eyes to the blind, body to the leper.
+You give children to the childless, wealth to the poor.
+Victory to Lord Ganesha, victory to the divine Lord Ganesha.
+Whose mother is Parvati and father is the great Lord Shiva.
+Sur and Shyam have come to your shelter, make their service successful.
+Whose mother is Parvati and father is the great Lord Shiva.
+Protect the honor of the humble, O son of Lord Shambhu.
+Fulfill desires, I offer my life to you.
+Victory to Lord Ganesha, victory to the divine Lord Ganesha.
+Whose mother is Parvati and father is the great Lord Shiva.
+Victory to Lord Ganesha, victory to Parvati's son, Om Gam Ganapataye Namah.`
   },
+  verses: [
+    {
+      line: "जय गणेश जय गणेश देवा, जय गणेश देवा।",
+      meaning: "Victory to Lord Ganesha, victory to the divine Lord Ganesha."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "एक दंत दयावंत, चार भुजा धारी।",
+      meaning: "One-tusked, compassionate, bearer of four arms."
+    },
+    {
+      line: "मस्तक सिंदूर सोहे, मूसे की सवारी।",
+      meaning: "Vermilion adorns his forehead, riding on a mouse."
+    },
+    {
+      line: "जय गणेश जय गणेश देवा, जय गणेश देवा।",
+      meaning: "Victory to Lord Ganesha, victory to the divine Lord Ganesha."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "पान चढ़े फल चढ़े, और चढ़े मेवा।",
+      meaning: "Betel leaves are offered, fruits are offered, and dry fruits too."
+    },
+    {
+      line: "लड्डुअन का भोग लगे, संत करें सेवा।",
+      meaning: "Laddus are offered as bhog, saints perform your service."
+    },
+    {
+      line: "जय गणेश जय गणेश देवा, जय गणेश देवा।",
+      meaning: "Victory to Lord Ganesha, victory to the divine Lord Ganesha."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "अंधन को आंख देत, कोढ़िन को काया।",
+      meaning: "You give eyes to the blind, body to the leper."
+    },
+    {
+      line: "बांझन को पुत्र देत, निर्धन को माया।",
+      meaning: "You give children to the childless, wealth to the poor."
+    },
+    {
+      line: "जय गणेश जय गणेश देवा, जय गणेश देवा।",
+      meaning: "Victory to Lord Ganesha, victory to the divine Lord Ganesha."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "सूर श्याम शरण आए, सफल कीजे सेवा।",
+      meaning: "Sur and Shyam have come to your shelter, make their service successful."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "दीनन की लाज रखो, शंभु सुतकारी।",
+      meaning: "Protect the honor of the humble, O son of Lord Shambhu."
+    },
+    {
+      line: "कामना को पूरण करो, जाऊं बलिहारी।",
+      meaning: "Fulfill desires, I offer my life to you."
+    },
+    {
+      line: "जय गणेश जय गणेश देवा, जय गणेश देवा।",
+      meaning: "Victory to Lord Ganesha, victory to the divine Lord Ganesha."
+    },
+    {
+      line: "माता जाकी पार्वती, पिता महादेवा।",
+      meaning: "Whose mother is Parvati and father is the great Lord Shiva."
+    },
+    {
+      line: "भगवान गणेश की जय, पार्वती के लल्ला की जय, ओम गं गणपतये नमः",
+      meaning: "Victory to Lord Ganesha, victory to Parvati's son, Om Gam Ganapataye Namah."
+    }
+  ],
   meaning: "This aarti glorifies Lord Ganesha as the remover of obstacles and bestower of wisdom.",
   significance: "Ganesh Aarti is performed to seek the blessings of Lord Ganesha for removing obstacles, granting wisdom, and achieving success in all endeavors.",
   benefits: [
@@ -104,17 +167,21 @@ export default function GaneshAartiPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <Link href="/" className="flex items-center space-x-2">
-              <Sparkles className="h-8 w-8 text-orange-600" />
-              <h1 className="text-2xl font-bold text-orange-900">Bhakti</h1>
+              <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center shadow-lg">
+                <Sparkles className="h-5 w-5 text-white" />
+              </div>
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+                Bhakti
+              </h1>
             </Link>
             <nav className="hidden md:flex space-x-8">
-              <Link href="/festivals" className="text-orange-700 hover:text-orange-900 transition-colors">Festivals</Link>
-              <Link href="/aartis" className="text-orange-700 hover:text-orange-900 transition-colors">Aartis</Link>
-              <Link href="/bhajans" className="text-orange-700 hover:text-orange-900 transition-colors">Bhajans</Link>
-              <Link href="/chalisas" className="text-orange-700 hover:text-orange-900 transition-colors">Chalisas</Link>
-              <Link href="/mantras" className="text-orange-700 hover:text-orange-900 transition-colors">Mantras</Link>
-              <Link href="/stories" className="text-orange-700 hover:text-orange-900 transition-colors">Stories</Link>
-              <Link href="/gods" className="text-orange-700 hover:text-orange-900 transition-colors">Gods</Link>
+              <Link href="/festivals" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Festivals</Link>
+              <Link href="/aartis" className="text-orange-600 font-semibold">Aartis</Link>
+              <Link href="/bhajans" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Bhajans</Link>
+              <Link href="/chalisas" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Chalisas</Link>
+              <Link href="/mantras" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Mantras</Link>
+              <Link href="/stories" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Stories</Link>
+              <Link href="/gods" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Gods</Link>
             </nav>
           </div>
         </div>
@@ -130,7 +197,7 @@ export default function GaneshAartiPage() {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-8 flex flex-col items-center justify-center">
                 <div className="w-24 h-24 rounded-full mb-4 bg-gradient-to-br from-orange-400 to-orange-600 flex items-center justify-center border-4 border-orange-300 shadow-lg">
-                  <span className="text-white text-3xl font-bold">ग</span>
+                  <span className="text-5xl">🪔</span>
                 </div>
                 <Music className="h-8 w-8 text-orange-600" />
               </div>
@@ -184,14 +251,25 @@ export default function GaneshAartiPage() {
         <InContentAd />
 
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-orange-900 mb-6">Sanskrit Shlokas</h2>
+          <h2 className="text-3xl font-bold text-orange-900 mb-6">Complete Aarti</h2>
           <div className="bg-white rounded-xl shadow-lg p-8 border border-orange-100">
-            <div className="space-y-3">
-              {aarti.lyrics.sanskrit.map((line, index) => (
-                <p key={index} className="text-lg text-gray-700 font-medium leading-relaxed text-center">
-                  {line}
-                </p>
-              ))}
+            <div className="space-y-6">
+              <div>
+                <h3 className="text-xl font-semibold text-orange-800 mb-4">Hindi</h3>
+                <div className="bg-orange-50 rounded-lg p-6">
+                  <p className="text-lg text-gray-800 font-medium leading-relaxed whitespace-pre-line text-center">
+                    {aarti.fullAarti.hindi}
+                  </p>
+                </div>
+              </div>
+              <div>
+                <h3 className="text-xl font-semibold text-orange-800 mb-4">English Translation</h3>
+                <div className="bg-orange-50 rounded-lg p-6">
+                  <p className="text-lg text-gray-800 leading-relaxed whitespace-pre-line text-center">
+                    {aarti.fullAarti.english}
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -199,27 +277,26 @@ export default function GaneshAartiPage() {
         <InContentAd />
 
         <section className="mb-12">
-          <h2 className="text-3xl font-bold text-orange-900 mb-6">Shloka Translations</h2>
-          <div className="space-y-8 mb-12">
-            {aarti.lyrics.sanskrit.map((shloka, index) => (
-              <div key={index} className="text-center space-y-4">
-                <p className="text-lg md:text-xl font-medium text-gray-800 leading-relaxed">
-                  {shloka}
-                </p>
-                {aarti.lyrics.translations[index] && (
-                  <div className="mt-6 p-4 bg-orange-50 rounded-lg border border-orange-200">
-                    <div className="grid md:grid-cols-2 gap-4 text-sm">
-                      <div>
-                        <p className="font-semibold text-orange-700 mb-2">Hindi:</p>
-                        <p className="text-gray-700 leading-relaxed">{aarti.lyrics.translations[index].hindi}</p>
-                      </div>
-                      <div>
-                        <p className="font-semibold text-orange-700 mb-2">English:</p>
-                        <p className="text-gray-700 leading-relaxed">{aarti.lyrics.translations[index].english}</p>
-                      </div>
+          <h2 className="text-3xl font-bold text-orange-900 mb-6">Line-by-Line Translation</h2>
+          <div className="space-y-4">
+            {aarti.verses.map((verse, index) => (
+              <div key={index} className="bg-white rounded-xl shadow-lg p-6 border border-orange-100">
+                <div className="flex items-start gap-4">
+                  <span className="flex-shrink-0 w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center text-orange-600 font-semibold text-sm">
+                    {index + 1}
+                  </span>
+                  <div className="flex-1 space-y-3">
+                    <p className="text-lg text-gray-800 font-medium leading-relaxed">
+                      {verse.line}
+                    </p>
+                    <div className="bg-orange-50 rounded-lg p-4">
+                      <p className="text-gray-700 leading-relaxed">
+                        <span className="font-semibold text-orange-700">Meaning: </span>
+                        {verse.meaning}
+                      </p>
                     </div>
                   </div>
-                )}
+                </div>
               </div>
             ))}
           </div>
@@ -268,13 +345,38 @@ export default function GaneshAartiPage() {
         </section>
       </main>
 
-      <footer className="bg-orange-900 text-white py-12 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto text-center">
-          <div className="flex items-center justify-center space-x-2 mb-4">
-            <Sparkles className="h-6 w-6" />
-            <span className="text-lg font-semibold">Bhakti</span>
+      <footer className="bg-gradient-to-r from-orange-900 to-red-900 text-white py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto">
+          <div className="text-center mb-12">
+            <div className="flex items-center justify-center space-x-3 mb-6">
+              <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+                <Sparkles className="w-6 h-6 text-white" />
+              </div>
+              <h3 className="text-3xl font-bold">Bhakti</h3>
+            </div>
+            <p className="text-xl text-orange-200 mb-8 max-w-2xl mx-auto">
+              A Sacred Space for Devotion
+            </p>
+            <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
+              <Link href="/festivals" className="text-orange-200 hover:text-white transition-colors">Festivals</Link>
+              <Link href="/aartis" className="text-orange-200 hover:text-white transition-colors">Aartis</Link>
+              <Link href="/bhajans" className="text-orange-200 hover:text-white transition-colors">Bhajans</Link>
+              <Link href="/chalisas" className="text-orange-200 hover:text-white transition-colors">Chalisas</Link>
+              <Link href="/mantras" className="text-orange-200 hover:text-white transition-colors">Mantras</Link>
+              <Link href="/stories" className="text-orange-200 hover:text-white transition-colors">Stories</Link>
+            </div>
           </div>
-          <p className="text-orange-200">Celebrating the divine festivals of Sanatana Dharma with devotion and love</p>
+          
+          <div className="border-t border-orange-800 pt-8 text-center">
+            <p className="text-orange-300 text-sm mb-4">
+              © 2024 Bhakti. Preserving and sharing sacred traditions of Hindu culture.
+            </p>
+            <div className="flex flex-col sm:flex-row justify-center items-center space-y-2 sm:space-y-0 sm:space-x-6 text-sm">
+              <Link href="/privacy" className="text-orange-300 hover:text-white transition-colors">Privacy Policy</Link>
+              <Link href="/terms" className="text-orange-300 hover:text-white transition-colors">Terms of Service</Link>
+              <Link href="/contact" className="text-orange-300 hover:text-white transition-colors">Contact</Link>
+            </div>
+          </div>
         </div>
       </footer>
     </div>

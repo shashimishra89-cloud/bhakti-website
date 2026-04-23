@@ -74,17 +74,21 @@ export default function AartisPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <Link href="/" className="flex items-center space-x-2">
-              <Sparkles className="h-8 w-8 text-orange-600" />
-              <h1 className="text-2xl font-bold text-orange-900">Bhakti</h1>
+              <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center shadow-lg">
+                <Sparkles className="h-5 w-5 text-white" />
+              </div>
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+                Bhakti
+              </h1>
             </Link>
             <nav className="hidden md:flex space-x-8">
-              <Link href="/festivals" className="text-orange-800 hover:text-orange-600 font-medium">Festivals</Link>
+              <Link href="/festivals" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Festivals</Link>
               <Link href="/aartis" className="text-orange-600 font-semibold">Aartis</Link>
-              <Link href="/bhajans" className="text-orange-800 hover:text-orange-600 font-medium">Bhajans</Link>
-              <Link href="/chalisas" className="text-orange-800 hover:text-orange-600 font-medium">Chalisas</Link>
-              <Link href="/mantras" className="text-orange-800 hover:text-orange-600 font-medium">Mantras</Link>
-              <Link href="/stories" className="text-orange-800 hover:text-orange-600 font-medium">Stories</Link>
-              <Link href="/gods" className="text-orange-800 hover:text-orange-600 font-medium">Gods</Link>
+              <Link href="/bhajans" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Bhajans</Link>
+              <Link href="/chalisas" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Chalisas</Link>
+              <Link href="/mantras" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Mantras</Link>
+              <Link href="/stories" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Stories</Link>
+              <Link href="/gods" className="text-orange-800 hover:text-orange-600 font-medium transition-colors">Gods</Link>
             </nav>
           </div>
         </div>

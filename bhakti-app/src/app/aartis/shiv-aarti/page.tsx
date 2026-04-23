@@ -140,7 +140,7 @@ export default function ShivAartiPage() {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-8 flex flex-col items-center justify-center">
                 <div className="w-24 h-24 rounded-full mb-4 bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center border-4 border-blue-300 shadow-lg">
-                  <span className="text-white text-3xl font-bold">श</span>
+                  <span className="text-5xl">🪔</span>
                 </div>
                 <Music className="h-8 w-8 text-blue-600" />
               </div>

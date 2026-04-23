@@ -175,7 +175,7 @@ export default function DurgaAartiPage() {
             <div className="text-center">
               <div className="w-32 h-32 mx-auto mb-8 flex flex-col items-center justify-center">
                 <div className="w-24 h-24 rounded-full mb-4 bg-gradient-to-br from-red-400 to-pink-600 flex items-center justify-center border-4 border-red-300 shadow-lg">
-                  <span className="text-white text-3xl font-bold">द</span>
+                  <span className="text-5xl">🪔</span>
                 </div>
                 <Music className="h-8 w-8 text-red-600" />
               </div>
