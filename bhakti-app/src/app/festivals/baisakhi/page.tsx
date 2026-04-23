@@ -15,7 +15,7 @@ const festivalData = {
   duration: "1 day",
   icon: "🌾",
   significance: "Marks the Sikh New Year, celebrates the spring harvest, and commemorates the formation of the Khalsa Panth.",
-  date: "April 13-14",
+  season: "season-from-json",
   regions: ["Punjab", "Haryana", "Delhi", "Parts of North India"],
   sections: [
     {
@@ -205,7 +205,7 @@ export default function BaisakhiPage() {
           <div className="bg-white rounded-lg shadow-md p-6 border border-yellow-100">
             <div className="flex items-center space-x-3 mb-2">
               <Calendar className="w-5 h-5 text-yellow-600" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <p className="text-gray-600 text-sm">Date</p>
           </div>

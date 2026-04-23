@@ -13,7 +13,7 @@ const festivalData = {
   duration: "5 days",
   icon: "🪔",
   significance: "Celebrates the return of Lord Rama to Ayodhya after 14 years of exile and his victory over the demon king Ravana.",
-  date: "October/November",
+  season: "autumn",
   regions: ["All India", "Nepal", "Mauritius", "Fiji", "Guyana", "Trinidad", "Malaysia", "Singapore"],
   sections: [
     {
@@ -127,10 +127,12 @@ export default function DiwaliPage() {
           </p>
           
           <div className="flex flex-wrap justify-center gap-6 text-orange-600">
-            <div className="flex items-center space-x-2">
-              <Calendar className="w-5 h-5" />
-              <span className="font-medium">{festival.date}</span>
-            </div>
+            {festival.season && (
+              <div className="flex items-center space-x-2">
+                <Calendar className="w-5 h-5" />
+                <span className="font-medium capitalize">{festival.season}</span>
+              </div>
+            )}
             <div className="flex items-center space-x-2">
               <Clock className="w-5 h-5" />
               <span className="font-medium">{festival.duration}</span>

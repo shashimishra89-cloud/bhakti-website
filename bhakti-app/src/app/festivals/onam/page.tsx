@@ -15,7 +15,7 @@ const festivalData = {
   duration: "10 days",
   icon: "🛶️",
   significance: "Celebrates the annual visit of King Mahabali and marks the harvest season in Kerala, symbolizing prosperity and cultural unity.",
-  date: "August/September",
+  season: "season-from-json",
   regions: ["Kerala", "Malayali communities worldwide"],
   sections: [
     {
@@ -200,7 +200,7 @@ export default function OnamPage() {
           <div className="bg-white rounded-lg shadow-md p-6 border border-amber-100">
             <div className="flex items-center space-x-3 mb-2">
               <Calendar className="w-5 h-5 text-amber-600" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <p className="text-gray-600 text-sm">Date</p>
           </div>

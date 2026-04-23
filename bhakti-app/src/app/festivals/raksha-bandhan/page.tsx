@@ -15,7 +15,7 @@ const festivalData = {
   duration: "1 day",
   icon: "👫",
   significance: "Celebrates the eternal bond of love, protection, and duty between brothers and sisters, strengthening family relationships.",
-  date: "July/August",
+  season: "season-from-json",
   regions: ["North India", "West India", "All India", "Nepal", "Mauritius"],
   sections: [
     {
@@ -208,7 +208,7 @@ export default function RakshaBandhanPage() {
           <div className="bg-white rounded-lg shadow-md p-6 border border-green-100">
             <div className="flex items-center space-x-3 mb-2">
               <Calendar className="w-5 h-5 text-green-600" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <p className="text-gray-600 text-sm">Date</p>
           </div>
