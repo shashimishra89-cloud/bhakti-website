@@ -104,8 +104,9 @@
     "festival"
   ],
   "relatedContent": [],
-  "date": "2024-03-25",
-  "tithi": "Purnima (Phalguna)",
+  
+  "tithi": "Purnima (Phalgun)",
+  "season": "spring",
   "region": [
     "all-india"
   ],
@@ -115,6 +116,5 @@
     "Offerings of flowers, fruits, and sweets",
     "Aarti and devotional singing",
     "Prasad distribution to family and guests"
-  ],
-  "date2025": "2025-03-14"
+  ]
 }

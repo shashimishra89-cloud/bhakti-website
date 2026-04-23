@@ -8,8 +8,8 @@
   "icon": "🎊",
   "color": "from-yellow-400 to-amber-500",
   "deity": "Associated Deity",
-  "date": "2024-10-31",
   "tithi": "Amavasya/Krishna Paksha/Pratipada/etc",
+  "season": "autumn",
   "duration": "1 day / 5 days / 9 days",
   "region": ["all-india", "north", "south"],
   "significance": "Explain the spiritual and cultural significance of this festival, what it celebrates, and why devotees observe it.",
@@ -23,9 +23,9 @@
   "tags": ["festival", "celebration", "hindu", "deity"],
   "relatedContent": ["related-festival-1", "related-festival-2"],
   "seo": {
-    "title": "Festival Name 2024 - Date, Rituals, Stories, Celebration Guide",
+    "title": "Festival Name | Date, Rituals, Stories, Celebration Guide",
     "description": "Complete guide to Festival Name including date, rituals, significance, stories, and how to celebrate. Learn about this beautiful Hindu festival.",
-    "keywords": ["festival name", "hindu festival", "celebration", "rituals", "date 2024"],
+    "keywords": ["festival name", "hindu festival", "celebration", "rituals"],
     "ogImage": "https://example.com/festival-og-image.jpg"
   },
   "sections": [
