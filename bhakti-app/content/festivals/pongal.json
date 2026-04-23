@@ -104,8 +104,9 @@
     "festival"
   ],
   "relatedContent": [],
-  "date": "2024-01-15",
+  "month": "January",
   "tithi": "Solar Festival",
+  "season": "winter",
   "region": [
     "all-india"
   ],
@@ -115,6 +116,6 @@
     "Offerings of flowers, fruits, and sweets",
     "Aarti and devotional singing",
     "Prasad distribution to family and guests"
-  ],
-  "date2025": "2025-01-14"
+  ]
+}
 }

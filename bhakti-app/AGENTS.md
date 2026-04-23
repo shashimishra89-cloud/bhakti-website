@@ -4,10 +4,108 @@ An AI agent skilled in creating and managing content for the Bhakti Hindu religi
 
 ## Capabilities
 
-- Create new aarti, bhajan, mantra, festival, chalisa, and story content
-- Generate properly formatted JSON content files with Hindi and English translations
-- Validate content against the schema
-- Update existing content with new information
+1. **Create New Content** - Add new gods, bhajans, aartis, mantras, festivals, chalisas, and stories
+2. **Review & Format** - Check existing content for proper formatting and consistency  
+3. **Date Handling** - Keep all dates generic (year-independent) - use season/month instead of dates
+4. **Validation** - Verify content against schema requirements
+5. **Multi-language** - All devotional content must include Hindi (Devanagari) + English translation
+
+## Multi-Language Support
+
+For each devotional section, always provide both:
+- `hindi` - Original Hindi/Devanagari script text
+- `english` - English translation
+- `meaning` - Explanation of meaning (optional but recommended)
+
+The English version should be the secondary option, not replacing Hindi.
+
+## Expanding Content - Adding New Gods/Deities
+
+### Step 1: Add to Config
+Edit `src/config/gods.ts` to add new deity:
+```typescript
+export const godsConfig = [
+  // ... existing
+  {
+    id: "new-deity",
+    name: "New Deity Name",
+    slug: "new-deity",
+    description: "Description of the deity",
+    color: "from-purple-400 to-pink-500",
+  }
+]
+```
+
+### Step 2: Create Content Files
+Create content in these folders:
+- `content/aartis/` - Aarti prayers
+- `content/bhajans/` - Bhajan songs  
+- `content/mantras/` - Mantra chants
+- `content/festivals/` - Festival pages (if applicable)
+
+### Step 3: Create Page Route
+Create `src/app/gods/[slug]/page.tsx` or add to existing dynamic route:
+```tsx
+import { godsConfig } from '@/config/gods';
+// Uses AartiPageTemplate or similar component
+```
+
+## Content Review Checklist
+
+When reviewing existing content, check for:
+
+### Required Fields
+- [ ] `id` - unique slug (lowercase, hyphens)
+- [ ] `name` - display name
+- [ ] `title` - page title (10-100 chars)
+- [ ] `description` - full description (100-500 chars)
+- [ ] `icon` - emoji icon (🪔🎵🕉️🎊📖)
+- [ ] `color` - correct color scheme for type
+- [ ] `category` - aarti|bhajan|mantra|festival|chalisa|story
+
+### Translations
+- [ ] All aarti/bhajan/mantra sections have `hindi` field (Devanagari script)
+- [ ] All have `english` translation
+- [ ] All have `meaning` explanation
+
+### SEO
+- [ ] `seo.title` - under 70 characters
+- [ ] `seo.description` - 50-160 characters
+- [ ] `seo.keywords` - at least 3 keywords
+
+### Formatting
+- [ ] No year-specific dates (`date: "2024-..."` or `date2025: "2025-..."`)
+- [ ] No placeholder YouTube IDs
+- [ ] All sections have minimum 50 characters content
+- [ ] Tags are lowercase
+
+## Generic Date Handling (Critical)
+
+**IMPORTANT**: All festival dates must be YEAR-INDEPENDENT. Never use specific years.
+
+### DO THIS:
+```json
+{
+  "month": "October-November",
+  "tithi": "Amavasya",
+  "season": " autumn"
+}
+```
+
+### NOT THIS:
+```json
+{
+  "date": "2024-11-01",
+  "date2025": "2025-10-21"
+}
+```
+
+### For Content Display
+Use relative time references:
+- "During October-November"
+- "On the full moon day (Purnima)"
+- "On the new moon day (Amavasya)"
+- "On the fourth day (Chaturthi) of the Krishna Paksha"
 
 ## Content Structure
 
@@ -113,11 +211,12 @@ Create file at `content/aartis/[name].json`:
 ```
 
 ### 2. Festival Content
-Additional required fields for festivals:
+Use generic seasonal fields (no year-specific dates):
 ```json
 {
-  "date": "2024-11-01",
+  "month": "October-November",
   "tithi": "Amavasya",
+  "season": "autumn",
   "region": ["all-india"],
   "rituals": ["Early morning puja", "Main ceremony"]
 }
@@ -132,9 +231,27 @@ Additional optional fields:
 }
 ```
 
+## Fixing Year-Specific Dates
+
+For festivals with hardcoded dates, replace with generic format:
+
+```json
+// BEFORE (wrong)
+"date": "2024-11-01",
+"date2025": "2025-10-21"
+
+// AFTER (correct)
+"month": "October-November",
+"tithi": "Amavasya",
+"season": "autumn"
+```
+
+Use script references instead: "On the new moon of Kartik month", "On Chaturthi of Bhadrapada", etc.
+
 ## Best Practices
 
-1. **Translations**: Always include Hindi (Devanagari script) with English translation
+1. **No Year Dates**: NEVER use specific years like 2024, 2025 in any content
+2. **Translations**: Always include Hindi (Devanagari script) with English translation
 2. **Meaning**: Add meaning/explanation for all devotional content
 3. **SEO**: Include proper keywords (at least 3-10 keywords)
 4. **Sections**: Minimum 2-3 sections per content
