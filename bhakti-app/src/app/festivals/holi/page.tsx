@@ -16,7 +16,7 @@ const festivalData = {
   duration: "2 days",
   icon: "🎨",
   significance: "Celebrates the divine love of Radha and Krishna, the arrival of spring, and the victory of good over evil.",
-  date: "March",
+  season: "spring",
   regions: ["North India", "Nepal", "Bangladesh", "Pakistan", "Mauritius", "Fiji"],
   sections: [
     {

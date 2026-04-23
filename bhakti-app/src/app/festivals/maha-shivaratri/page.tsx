@@ -15,7 +15,7 @@ const festivalData = {
   duration: "1 night",
   icon: "🔱",
   significance: "Celebrates the divine marriage of Shiva and Parvati, and the night when Shiva performed the Tandava dance of creation, preservation, and destruction.",
-  date: "February/March",
+  season: "season-from-json",
   regions: ["All India", "Nepal", "Southeast Asia"],
   sections: [
     {
@@ -208,7 +208,7 @@ export default function MahaShivaratriPage() {
           <div className="bg-white rounded-lg shadow-md p-6 border border-purple-100">
             <div className="flex items-center space-x-3 mb-2">
               <Calendar className="w-5 h-5 text-purple-600" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <p className="text-gray-600 text-sm">Date</p>
           </div>

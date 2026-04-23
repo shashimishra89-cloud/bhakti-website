@@ -15,7 +15,7 @@ const festivalData = {
   duration: "1 day",
   icon: "🏹",
   significance: "Celebrates the birth of Lord Rama, the embodiment of dharma, truth, and ideal human values, and the victory of righteousness over evil.",
-  date: "April",
+  season: "season-from-json",
   regions: ["Ayodhya", "North India", "South India", "All India"],
   sections: [
     {
@@ -208,7 +208,7 @@ export default function RamNavamiPage() {
           <div className="bg-white rounded-lg shadow-md p-6 border border-blue-100">
             <div className="flex items-center space-x-3 mb-2">
               <Calendar className="w-5 h-5 text-blue-600" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <p className="text-gray-600 text-sm">Date</p>
           </div>

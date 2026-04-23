@@ -13,7 +13,7 @@ const festivalData = {
   duration: "9 nights + 1 day",
   icon: "💃",
   significance: "Worships the nine forms of Goddess Durga and celebrates the victory of good over evil.",
-  date: "September/October",
+  season: "season-from-json",
   regions: ["Gujarat", "West Bengal", "Maharashtra", "Karnataka", "Tamil Nadu"],
   sections: [
     {
@@ -157,7 +157,7 @@ export default function NavratriPage() {
           <div className="flex flex-wrap justify-center gap-6 text-orange-600">
             <div className="flex items-center space-x-2">
               <Calendar className="w-5 h-5" />
-              <span className="font-medium">{festival.date}</span>
+              <span className="font-medium">{festival.season}</span>
             </div>
             <div className="flex items-center space-x-2">
               <Clock className="w-5 h-5" />

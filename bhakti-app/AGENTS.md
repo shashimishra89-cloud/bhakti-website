@@ -4,11 +4,64 @@ An AI agent skilled in creating and managing content for the Bhakti Hindu religi
 
 ## Capabilities
 
-1. **Create New Content** - Add new gods, bhajans, aartis, mantras, festivals, chalisas, and stories
-2. **Review & Format** - Check existing content for proper formatting and consistency  
-3. **Date Handling** - Only use season for festivals (no dates or months)
+1. **Create New Content** - Add new gods, bhajans, aartis, mantras, festivals, chalisas, and stories  
+2. **Review Pages** - Review all pages for consistency between page.tsx and JSON content
+3. **Date Handling** - Only use season for festivals (no dates or months anywhere)
 4. **Validation** - Verify content against schema requirements
 5. **Multi-language** - All devotional content must include Hindi (Devanagari) + English translation
+6. **Consistency** - Ensure page data matches JSON content exactly
+
+## Page Review Checklist
+
+When reviewing a page, verify:
+
+### 1. Data Source Consistency
+- [ ] Page uses JSON from `content/` folder, NOT hardcoded data
+- [ ] Page data matches content JSON exactly (id, name, title, description)
+
+### 2. Content Fields
+- [ ] `id` - matches JSON file name
+- [ ] `name` - display name from JSON
+- [ ] `title` - page title from JSON  
+- [ ] `description` - full description from JSON
+- [ ] `significance` - spiritual significance from JSON
+
+### 3. Festival-Specific (No Dates/Months)
+- [ ] NO `date` field in page (e.g., "October/November")
+- [ ] NO `month` or year-specific dates
+- [ ] Use only `season` from JSON content
+- [ ] Display tithi if available
+
+### 4. Translations (for aarti/bhajan/mantra)
+- [ ] `hindi` field present with Devanagari script
+- [ ] `english` translation present
+- [ ] `meaning` explanation present
+
+### 5. Sections
+- [ ] All sections from JSON content display correctly
+- [ ] Section order matches JSON
+
+### 6. SEO
+- [ ] metadata.title from JSON seo.title
+- [ ] metadata.description from JSON seo.description  
+- [ ] metadata.keywords from JSON seo.keywords
+
+## Page Data Loading Pattern
+
+Always load content from JSON files, never hardcode:
+
+```typescript
+// GOOD - Load from JSON
+import contentData from '@/content/aartis/ganesh-aarti.json';
+// or use contentLoader
+
+// BAD - Hardcoded data
+const aartiData = {
+  id: "ganesh-aarti",
+  name: "Ganesh Aarti",
+  // ... more hardcoded fields
+};
+```
 
 ## Multi-Language Support
 

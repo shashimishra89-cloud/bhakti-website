@@ -11,7 +11,7 @@ const festivals = [
     description: "The Hindu festival of lights, symbolizing the victory of light over darkness, good over evil, and knowledge over ignorance.",
     icon: "🪔",
     color: "from-orange-400 to-yellow-500",
-    date: "October/November",
+    season: "autumn",
     duration: "5 days"
   },
   {
@@ -21,7 +21,7 @@ const festivals = [
     description: "Celebration of the birth of Lord Ganesha, the remover of obstacles and the god of wisdom.",
     icon: "🐘",
     color: "from-green-400 to-teal-500",
-    date: "August/September",
+    season: "monsoon",
     duration: "10 days"
   },
   {
@@ -31,7 +31,7 @@ const festivals = [
     description: "The vibrant festival of colors celebrating the arrival of spring and the victory of good over evil.",
     icon: "🎨",
     color: "from-pink-400 to-purple-500",
-    date: "March",
+    season: "spring",
     duration: "2 days"
   },
   {
@@ -41,7 +41,7 @@ const festivals = [
     description: "Nine nights dedicated to the nine forms of Goddess Durga, celebrated with dance and devotion.",
     icon: "💃",
     color: "from-red-400 to-orange-500",
-    date: "September/October",
+    season: "autumn",
     duration: "9 nights"
   },
   {
@@ -51,7 +51,7 @@ const festivals = [
     description: "Punjabi harvest festival marking the Sikh new year and celebrating the spring harvest.",
     icon: "🌾",
     color: "from-yellow-400 to-orange-500",
-    date: "April",
+    season: "spring",
     duration: "1 day"
   },
   {
@@ -61,7 +61,7 @@ const festivals = [
     description: "Celebration of the birth of Lord Krishna, the eighth avatar of Lord Vishnu.",
     icon: "🦚",
     color: "from-blue-400 to-indigo-500",
-    date: "August/September",
+    season: "monsoon",
     duration: "1 day"
   },
   {
@@ -71,7 +71,7 @@ const festivals = [
     description: "The most auspicious night dedicated to Lord Shiva, celebrated with fasting and vigil.",
     icon: "🔱",
     color: "from-purple-400 to-pink-500",
-    date: "February/March",
+    season: "winter",
     duration: "1 night"
   },
   {
@@ -81,7 +81,7 @@ const festivals = [
     description: "Traditional harvest festival of Kerala celebrating the return of King Mahabali.",
     icon: "🛶️",
     color: "from-amber-400 to-yellow-500",
-    date: "August/September",
+    season: "monsoon",
     duration: "10 days"
   },
   {
@@ -91,7 +91,7 @@ const festivals = [
     description: "Four-day Tamil harvest festival thanking the Sun God for a bountiful harvest.",
     icon: "🌾",
     color: "from-orange-400 to-red-500",
-    date: "January",
+    season: "winter",
     duration: "4 days"
   },
   {
@@ -101,7 +101,7 @@ const festivals = [
     description: "Festival celebrating the sacred bond between brothers and sisters.",
     icon: "👫",
     color: "from-green-400 to-teal-500",
-    date: "July/August",
+    season: "monsoon",
     duration: "1 day"
   },
   {
@@ -111,7 +111,7 @@ const festivals = [
     description: "Celebration of the birth of Lord Rama, the seventh avatar of Lord Vishnu.",
     icon: "🏹",
     color: "from-blue-400 to-indigo-500",
-    date: "April",
+    season: "spring",
     duration: "1 day"
   }
 ];
