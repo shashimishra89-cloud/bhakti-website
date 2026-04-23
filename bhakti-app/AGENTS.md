@@ -6,7 +6,7 @@ An AI agent skilled in creating and managing content for the Bhakti Hindu religi
 
 1. **Create New Content** - Add new gods, bhajans, aartis, mantras, festivals, chalisas, and stories
 2. **Review & Format** - Check existing content for proper formatting and consistency  
-3. **Date Handling** - Keep all dates generic (year-independent) - use season/month instead of dates
+3. **Date Handling** - Only use season for festivals (no dates or months)
 4. **Validation** - Verify content against schema requirements
 5. **Multi-language** - All devotional content must include Hindi (Devanagari) + English translation
 
@@ -79,16 +79,15 @@ When reviewing existing content, check for:
 - [ ] All sections have minimum 50 characters content
 - [ ] Tags are lowercase
 
-## Generic Date Handling (Critical)
+## Festival Date Handling (Critical)
 
-**IMPORTANT**: All festival dates must be YEAR-INDEPENDENT. Never use specific years.
+**IMPORTANT**: NEVER use specific dates or months. Only use season.
 
 ### DO THIS:
 ```json
 {
-  "month": "October-November",
   "tithi": "Amavasya",
-  "season": " autumn"
+  "season": "autumn"
 }
 ```
 
@@ -96,16 +95,9 @@ When reviewing existing content, check for:
 ```json
 {
   "date": "2024-11-01",
-  "date2025": "2025-10-21"
+  "month": "October-November"
 }
 ```
-
-### For Content Display
-Use relative time references:
-- "During October-November"
-- "On the full moon day (Purnima)"
-- "On the new moon day (Amavasya)"
-- "On the fourth day (Chaturthi) of the Krishna Paksha"
 
 ## Content Structure
 
@@ -211,16 +203,17 @@ Create file at `content/aartis/[name].json`:
 ```
 
 ### 2. Festival Content
-Use generic seasonal fields (no year-specific dates):
+Use generic seasonal fields (no dates or months):
 ```json
 {
-  "month": "October-November",
   "tithi": "Amavasya",
   "season": "autumn",
   "region": ["all-india"],
   "rituals": ["Early morning puja", "Main ceremony"]
 }
 ```
+
+Available seasons: spring, summer, monsoon, autumn, winter
 
 ### 3. Mantra Content
 Additional optional fields:
@@ -231,22 +224,20 @@ Additional optional fields:
 }
 ```
 
-## Fixing Year-Specific Dates
+## Fixing Dates in Existing Content
 
-For festivals with hardcoded dates, replace with generic format:
+For festivals with dates or months, replace with season only:
 
 ```json
 // BEFORE (wrong)
 "date": "2024-11-01",
+"month": "October-November"
 "date2025": "2025-10-21"
 
 // AFTER (correct)
-"month": "October-November",
 "tithi": "Amavasya",
 "season": "autumn"
 ```
-
-Use script references instead: "On the new moon of Kartik month", "On Chaturthi of Bhadrapada", etc.
 
 ## Best Practices
 
