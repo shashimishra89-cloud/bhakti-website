@@ -12,83 +12,40 @@ const aartiData = {
   title: "Om Jai Lakshmi Mata",
   description: "A divine aarti dedicated to Goddess Lakshmi, the goddess of wealth, prosperity, and fortune.",
   deity: "Goddess Lakshmi",
-  lyrics: {
-    sanskrit: [
-      "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।",
-      "तुमको निसिदिन ध्यावत, हरि विष्णु विधाता॥",
-      "ॐ जय लक्ष्मी माता॥",
-      "उमा, रुद्रानी, पार्वती, जगत की माता।",
-      "सृष्टि की रचया, ब्रह्मा विष्णु महेशा॥",
-      "ॐ जय लक्ष्मी माता॥",
-      "कमल, गटक, बेल, पत्र, सुगंध चम्पा।",
-      "फल, फूल, धूप, दीप, नैवेद्य भोजना॥",
-      "ॐ जय लक्ष्मी माता॥",
-      "शंख, चक्र, गदा, पद्म, हाथ में सुशोभित।",
-      "वरदाभय, मुद्रा, शुभ, मंगल प्रदायिनी॥",
-      "ॐ जय लक्ष्मी माता॥",
-      "सोने का थाल, चाँदी का प्याला।",
-      "रतन की माला, गहने, श्रृंगार सजा॥",
-      "ॐ जय लक्ष्मी माता॥"
-    ],
-    translations: [
-      {
-        hindi: "ॐ हे लक्ष्मी माता, जय हो आपकी।",
-        english: "Om, victory to Mother Lakshmi, victory to Mother Lakshmi."
-      },
-      {
-        hindi: "हरि विष्णु विधाता आपको निसिदिन ध्यावत हैं।",
-        english: "Lord Vishnu, the creator, meditates upon you daily."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "उमा, रुद्रानी, पार्वती, जगत की माता हैं।",
-        english: "Uma, Rudrani, Parvati, you are the mother of the world."
-      },
-      {
-        hindi: "सृष्टि की रचया, ब्रह्मा विष्णु महेशा हैं।",
-        english: "Creator of the universe, along with Brahma, Vishnu, and Mahesh."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "कमल, गटक, बेल, पत्र, सुगंध चम्पा हैं।",
-        english: "Lotus, wood apple, bel leaves, fragrant champak flowers."
-      },
-      {
-        hindi: "फल, फूल, धूप, दीप, नैवेद्य भोजना हैं।",
-        english: "Fruits, flowers, incense, lamps, and food offerings."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "शंख, चक्र, गदा, पद्म, हाथ में सुशोभित हैं।",
-        english: "Conch, discus, mace, and lotus adorn your hands."
-      },
-      {
-        hindi: "वरदाभय, मुद्रा, शुभ, मंगल प्रदायिनी हैं।",
-        english: "Varada and Abhaya mudras, giver of auspiciousness."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "सोने का थाल, चाँदी का प्याला हैं।",
-        english: "Golden plate and silver cup."
-      },
-      {
-        hindi: "रतन की माला, गहने, श्रृंगार सजा हैं।",
-        english: "Garland of gems, jewelry, and beautiful adornments."
-      }
-    ]
+  fullAarti: {
+    hindi: `ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।
+तुमको निसिदिन ध्यावत, हरि विष्णु विधाता॥
+ॐ जय लक्ष्मी माता॥
+उमा, रुद्रानी, पार्वती, जगत की माता।
+सृष्टि की रचया, ब्रह्मा विष्णु महेशा॥
+ॐ जय लक्ष्मी माता॥
+कमल, गटक, बेल, पत्र, सुगंध चम्पा।
+फल, फूल, धूप, दीप, नैवेद्य भोजना॥
+ॐ जय लक्ष्मी माता॥
+शंख, चक्र, गदा, पद्म, हाथ में सुशोभित।
+वरदाभय, मुद्रा, शुभ, मंगल प्रदायिनी॥
+ॐ जय लक्ष्मी माता॥
+सोने का थाल, चाँदी का प्याला।
+रतन की माला, गहने, श्रृंगार सजा॥
+ॐ जय लक्ष्मी माता॥`
   },
+  verses: [
+    { line: "ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।", meaning: "Om, victory to Mother Lakshmi, victory to Mother Lakshmi." },
+    { line: "तुमको निसिदिन ध्यावत, हरि विष्णु विधाता॥", meaning: "Lord Vishnu, the creator, meditates upon you daily." },
+    { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." },
+    { line: "उमा, रुद्रानी, पार्वती, जगत की माता।", meaning: "Uma, Rudrani, Parvati, you are the mother of the world." },
+    { line: "सृष्टि की रचया, ब्रह्मा विष्णु महेशा॥", meaning: "Creator of the universe, along with Brahma, Vishnu, and Mahesh." },
+    { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." },
+    { line: "कमल, गटक, बेल, पत्र, सुगंध चम्पा।", meaning: "Lotus, wood apple, bel leaves, fragrant champak flowers." },
+    { line: "फल, फूल, धूप, दीप, नैवेद्य भोजना॥", meaning: "Fruits, flowers, incense, lamps, and food offerings." },
+    { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." },
+    { line: "शंख, चक्र, गदा, पद्म, हाथ में सुशोभित।", meaning: "Conch, discus, mace, and lotus adorn your hands." },
+    { line: "वरदाभय, मुद्रा, शुभ, मंगल प्रदायिनी॥", meaning: "Varada and Abhaya mudras, giver of auspiciousness." },
+    { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." },
+    { line: "सोने का थाल, चाँदी का प्याला।", meaning: "Golden plate and silver cup." },
+    { line: "रतन की माला, गहने, श्रृंगार सजा॥", meaning: "Garland of gems, jewelry, and beautiful adornments." },
+    { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." }
+  ],
   meaning: "This aarti glorifies Goddess Lakshmi as the divine mother who brings wealth, prosperity, and auspiciousness. It describes her various forms and attributes, emphasizing her role as the bestower of fortune and the protector of the universe.",
   significance: "Lakshmi Aarti is performed to seek the blessings of Goddess Lakshmi for wealth, prosperity, success, and happiness. It helps devotees connect with the divine energy of abundance and fortune.",
   benefits: [
@@ -163,26 +120,27 @@ export default function LakshmiAartiPage() {
               {aarti.title}
             </h2>
             
+            {/* Full Aarti at Top */}
+            <div className="mb-12">
+              <div className="bg-yellow-50 rounded-xl p-6 border border-yellow-200">
+                <p className="text-lg text-gray-800 font-medium leading-relaxed whitespace-pre-line text-center">
+                  {aarti.fullAarti.hindi}
+                </p>
+              </div>
+            </div>
+            
             <div className="space-y-8 mb-12">
-              {aarti.lyrics.sanskrit.map((shloka, index) => (
+              {aarti.verses.map((verse, index) => (
                 <div key={index} className="text-center space-y-4">
                   <p className="text-lg md:text-xl font-medium text-gray-800 leading-relaxed">
-                    {shloka}
+                    {verse.line}
                   </p>
-                  {aarti.lyrics.translations[index] && (
-                    <div className="mt-6 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
-                      <div className="grid md:grid-cols-2 gap-4 text-sm">
-                        <div>
-                          <p className="font-semibold text-yellow-700 mb-2">Hindi:</p>
-                          <p className="text-gray-700 leading-relaxed">{aarti.lyrics.translations[index].hindi}</p>
-                        </div>
-                        <div>
-                          <p className="font-semibold text-yellow-700 mb-2">English:</p>
-                          <p className="text-gray-700 leading-relaxed">{aarti.lyrics.translations[index].english}</p>
-                        </div>
-                      </div>
-                    </div>
-                  )}
+                  <div className="mt-6 p-4 bg-yellow-50 rounded-lg border border-yellow-200">
+                    <p className="text-gray-700 leading-relaxed">
+                      <span className="font-semibold text-yellow-700">Meaning: </span>
+                      {verse.meaning}
+                    </p>
+                  </div>
                 </div>
               ))}
             </div>

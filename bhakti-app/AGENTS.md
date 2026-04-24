@@ -46,20 +46,41 @@ When reviewing a page, verify:
 - [ ] metadata.description from JSON seo.description  
 - [ ] metadata.keywords from JSON seo.keywords
 
-## Page Data Loading Pattern
+## Page Display Rules (Critical)
 
-Always load content from JSON files, never hardcode:
+### Aarti Pages
+1. **Hero Section** must show full aarti in Hindi together (like Ganesh Aarti)
+2. **NO separate full English section** - only line-by-line translations
+3. Use `fullAarti.hindi` for hero display
+4. Use `verses` array for line-by-line with `line` + `meaning`
 
+### Content Data Structure
+Use consistent structure:
 ```typescript
-// GOOD - Load from JSON
-import contentData from '@/content/aartis/ganesh-aarti.json';
-// or use contentLoader
-
-// BAD - Hardcoded data
+// GOOD - Matches Ganesh Aarti
 const aartiData = {
   id: "ganesh-aarti",
-  name: "Ganesh Aarti",
-  // ... more hardcoded fields
+  name: "Ganesh Aarti", 
+  title: "Jai Ganesh Jai Ganesh Deva",
+  description: "...",
+  deity: "Lord Ganesha",
+  fullAarti: {
+    hindi: "Full Hindi text here...",
+    // NO english field - use line-by-line only
+  },
+  verses: [
+    { line: " Hindi line ", meaning: " English meaning " }
+  ],
+  significance: "...",
+  benefits: ["...", "..."]
+};
+
+// Avoid this pattern (like Lakshmi)
+const aartiData = {
+  lyrics: {
+    sanskrit: [...],
+    translations: [...]  // This causes display issues
+  }
 };
 ```
 

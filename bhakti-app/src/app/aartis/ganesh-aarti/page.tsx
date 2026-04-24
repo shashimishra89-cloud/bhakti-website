@@ -12,7 +12,7 @@ const aartiData = {
   title: "Jai Ganesh Jai Ganesh Deva",
   description: "The most beloved aarti dedicated to Lord Ganesha, the remover of obstacles and the god of wisdom.",
   deity: "Lord Ganesha",
-  fullAarti: {
+fullAarti: {
     hindi: `जय गणेश जय गणेश देवा, जय गणेश देवा।
 माता जाकी पार्वती, पिता महादेवा।
 एक दंत दयावंत, चार भुजा धारी।
@@ -34,27 +34,6 @@ const aartiData = {
 जय गणेश जय गणेश देवा, जय गणेश देवा।
 माता जाकी पार्वती, पिता महादेवा।
 भगवान गणेश की जय, पार्वती के लल्ला की जय, ओम गं गणपतये नमः`,
-    english: `Victory to Lord Ganesha, victory to the divine Lord Ganesha.
-Whose mother is Parvati and father is the great Lord Shiva.
-One-tusked, compassionate, bearer of four arms.
-Vermilion adorns his forehead, riding on a mouse.
-Victory to Lord Ganesha, victory to the divine Lord Ganesha.
-Whose mother is Parvati and father is the great Lord Shiva.
-Betel leaves are offered, fruits are offered, and dry fruits too.
-Laddus are offered as bhog, saints perform your service.
-Victory to Lord Ganesha, victory to the divine Lord Ganesha.
-Whose mother is Parvati and father is the great Lord Shiva.
-You give eyes to the blind, body to the leper.
-You give children to the childless, wealth to the poor.
-Victory to Lord Ganesha, victory to the divine Lord Ganesha.
-Whose mother is Parvati and father is the great Lord Shiva.
-Sur and Shyam have come to your shelter, make their service successful.
-Whose mother is Parvati and father is the great Lord Shiva.
-Protect the honor of the humble, O son of Lord Shambhu.
-Fulfill desires, I offer my life to you.
-Victory to Lord Ganesha, victory to the divine Lord Ganesha.
-Whose mother is Parvati and father is the great Lord Shiva.
-Victory to Lord Ganesha, victory to Parvati's son, Om Gam Ganapataye Namah.`
   },
   verses: [
     {
@@ -253,23 +232,10 @@ export default function GaneshAartiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-orange-900 mb-6">Complete Aarti</h2>
           <div className="bg-white rounded-xl shadow-lg p-8 border border-orange-100">
-            <div className="space-y-6">
-              <div>
-                <h3 className="text-xl font-semibold text-orange-800 mb-4">Hindi</h3>
-                <div className="bg-orange-50 rounded-lg p-6">
-                  <p className="text-lg text-gray-800 font-medium leading-relaxed whitespace-pre-line text-center">
-                    {aarti.fullAarti.hindi}
-                  </p>
-                </div>
-              </div>
-              <div>
-                <h3 className="text-xl font-semibold text-orange-800 mb-4">English Translation</h3>
-                <div className="bg-orange-50 rounded-lg p-6">
-                  <p className="text-lg text-gray-800 leading-relaxed whitespace-pre-line text-center">
-                    {aarti.fullAarti.english}
-                  </p>
-                </div>
-              </div>
+            <div className="bg-orange-50 rounded-lg p-6">
+              <p className="text-lg text-gray-800 font-medium leading-relaxed whitespace-pre-line text-center">
+                {aarti.fullAarti.hindi}
+              </p>
             </div>
           </div>
         </section>
