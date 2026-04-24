@@ -46,60 +46,6 @@ const aartiData = {
     { line: "रतन की माला, गहने, श्रृंगार सजा॥", meaning: "Garland of gems, jewelry, and beautiful adornments." },
     { line: "ॐ जय लक्ष्मी माता॥", meaning: "Om, victory to Mother Lakshmi." }
   ],
-      {
-        hindi: "हरि विष्णु विधाता आपको निसिदिन ध्यावत हैं।",
-        english: "Lord Vishnu, the creator, meditates upon you daily."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "उमा, रुद्रानी, पार्वती, जगत की माता हैं।",
-        english: "Uma, Rudrani, Parvati, you are the mother of the world."
-      },
-      {
-        hindi: "सृष्टि की रचया, ब्रह्मा विष्णु महेशा हैं।",
-        english: "Creator of the universe, along with Brahma, Vishnu, and Mahesh."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "कमल, गटक, बेल, पत्र, सुगंध चम्पा हैं।",
-        english: "Lotus, wood apple, bel leaves, fragrant champak flowers."
-      },
-      {
-        hindi: "फल, फूल, धूप, दीप, नैवेद्य भोजना हैं।",
-        english: "Fruits, flowers, incense, lamps, and food offerings."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "शंख, चक्र, गदा, पद्म, हाथ में सुशोभित हैं।",
-        english: "Conch, discus, mace, and lotus adorn your hands."
-      },
-      {
-        hindi: "वरदाभय, मुद्रा, शुभ, मंगल प्रदायिनी हैं।",
-        english: "Varada and Abhaya mudras, giver of auspiciousness."
-      },
-      {
-        hindi: "जय लक्ष्मी माता...",
-        english: "Victory to Mother Lakshmi..."
-      },
-      {
-        hindi: "सोने का थाल, चाँदी का प्याला हैं।",
-        english: "Golden plate and silver cup."
-      },
-      {
-        hindi: "रतन की माला, गहने, श्रृंगार सजा हैं।",
-        english: "Garland of gems, jewelry, and beautiful adornments."
-      }
-    ]
-  },
   meaning: "This aarti glorifies Goddess Lakshmi as the divine mother who brings wealth, prosperity, and auspiciousness. It describes her various forms and attributes, emphasizing her role as the bestower of fortune and the protector of the universe.",
   significance: "Lakshmi Aarti is performed to seek the blessings of Goddess Lakshmi for wealth, prosperity, success, and happiness. It helps devotees connect with the divine energy of abundance and fortune.",
   benefits: [
